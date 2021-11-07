@@ -9,9 +9,17 @@ if (!sbu) {
   return;
 }
 
+// Sort array by Letterfirst then number
+
+let letterFirst = fileName.sort((a, b) => {
+  if (a < b) return 1;
+  if (a > b) return -1;
+  return 0;
+});
+
 // Auto Rename based on Firstname and Lastname first then SSS#
 
-fileName.map((data) => {
+letterFirst.map((data) => {
   employee.map(({ firstname, lastname, department, sss }) => {
     let newFileName = `${firstname} ${lastname}_${sbu}(${department})${path.extname(
       data
@@ -26,12 +34,10 @@ fileName.map((data) => {
         fs.renameSync(`./pictures/${data}`, `./pictures/${newFileName}`);
         console.log(`Based on Fullname: ${newFileName}`);
       }
-    } else {
-      if (data.indexOf(sss) >= 0) {
-        if (fs.existsSync(`./pictures/${data}`)) {
-          fs.renameSync(`./pictures/${data}`, `./pictures/${newFileName}`);
-          console.log(`Based on SSS#: ${newFileName}`);
-        }
+    } else if (data.indexOf(sss) >= 0) {
+      if (fs.existsSync(`./pictures/${data}`)) {
+        fs.renameSync(`./pictures/${data}`, `./pictures/${newFileName}`);
+        console.log(`Based on SSS#: ${newFileName}`);
       }
     }
   });
