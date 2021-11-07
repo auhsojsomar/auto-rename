@@ -37,13 +37,13 @@ letterFirst.map((data) => {
       if (fs.existsSync(`./pictures/${data}`)) {
         fs.renameSync(`./pictures/${data}`, `./pictures/${newFileName}`);
         console.log(`Based on Fullname: ${newFileName}`);
-        output += newFileName + "\n";
+        output += `${firstname} ${lastname} \n`;
       }
     } else if (data.indexOf(sss) >= 0) {
       if (fs.existsSync(`./pictures/${data}`)) {
         fs.renameSync(`./pictures/${data}`, `./pictures/${newFileName}`);
         console.log(`Based on SSS#: ${newFileName}`);
-        output += newFileName + "\n";
+        output += `${firstname} ${lastname} \n`;
       }
     }
   });
