@@ -4,6 +4,8 @@ const path = require("path");
 const employee = require("./employee.json");
 const fileName = fs.readdirSync("./pictures");
 
+let output = "";
+
 const sbu = process.argv[2];
 if (!sbu) {
   console.log("Input SBU");
@@ -34,16 +36,33 @@ letterFirst.map((data) => {
       if (fs.existsSync(`./pictures/${data}`)) {
         fs.renameSync(`./pictures/${data}`, `./pictures/${newFileName}`);
         console.log(`Based on Fullname: ${newFileName}`);
+        output += newFileName + "\n";
       }
     } else if (data.indexOf(sss) >= 0) {
       if (fs.existsSync(`./pictures/${data}`)) {
         fs.renameSync(`./pictures/${data}`, `./pictures/${newFileName}`);
         console.log(`Based on SSS#: ${newFileName}`);
+        output += newFileName + "\n";
       }
     }
   });
 });
 
+// Output to textfile
+
+if (output) {
+  fs.appendFileSync(
+    "./Output.txt",
+    `${new Date().toLocaleString("en-US", {
+      month: "long",
+      day: "2-digit",
+      year: "numeric",
+      hour12: true,
+      hour: "numeric",
+      minute: "2-digit",
+    })}\n${output}`
+  );
+}
 // Generate random file with 10 digits random filename
 
 // for (let i = 0; i < 100; i++) {
