@@ -6,32 +6,33 @@ const fileName = fs.readdirSync("./pictures");
 let sbu = process.argv[2];
 if (!sbu) {
   console.log("Input SBU");
-  return false;
+  return;
 }
 
 // Auto Rename based on Firstname and Lastname first then SSS#
 
 fileName.map((data) => {
   employee.map(({ firstname, lastname, department, sss }) => {
-    let newFileName = `${firstname} ${lastname}_${sbu}(${department})`;
-    if (data.toLowerCase().indexOf(newFileName.toLowerCase()) >= 0) {
-      console.log("Already renamed");
-      return false;
+    let newFileName = `${firstname} ${lastname}_${sbu}(${department})${path.extname(
+      data
+    )}`;
+    if (fs.existsSync(`./pictures/${newFileName}`)) {
+      return;
     } else if (
       data.toLowerCase().indexOf(firstname.toLowerCase()) >= 0 &&
       data.toLowerCase().indexOf(lastname.toLowerCase()) >= 0
     ) {
       if (fs.existsSync(`./pictures/${data}`)) {
-        fs.renameSync(`./pictures/${data}`, `./pictures/${newFileName}.txt`);
-        console.log(newFileName);
+        fs.renameSync(`./pictures/${data}`, `./pictures/${newFileName}`);
+        console.log(`Based on Fullname: ${newFileName}`);
       }
-      return false;
-    } else if (data.indexOf(sss) >= 0) {
-      if (fs.existsSync(`./pictures/${data}`)) {
-        fs.renameSync(`./pictures/${data}`, `./pictures/${newFileName}.txt`);
-        console.log(newFileName);
+    } else {
+      if (data.indexOf(sss) >= 0) {
+        if (fs.existsSync(`./pictures/${data}`)) {
+          fs.renameSync(`./pictures/${data}`, `./pictures/${newFileName}`);
+          console.log(`Based on SSS#: ${newFileName}`);
+        }
       }
-      return false;
     }
   });
 });
