@@ -8,7 +8,7 @@ let output = "";
 
 const sbu = process.argv[2];
 if (!sbu) {
-  console.log("Input SBU");
+  console.log("Please input the SBU...");
   return;
 }
 
@@ -28,7 +28,7 @@ letterFirst.map((data) => {
       data
     )}`;
     if (fs.existsSync(`./pictures/${newFileName}`)) {
-      console.log(`Alread rename: ${newFileName}`);
+      console.log(`Already rename: ${newFileName}`);
       return;
     } else if (
       data.toLowerCase().indexOf(firstname.toLowerCase()) >= 0 &&
