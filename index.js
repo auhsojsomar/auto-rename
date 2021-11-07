@@ -14,7 +14,7 @@ if (!sbu) {
 
 // Sort array by Letterfirst then number
 
-let letterFirst = fileName.sort((a, b) => {
+const letterFirst = fileName.sort((a, b) => {
   if (a < b) return 1;
   if (a > b) return -1;
   return 0;
@@ -65,15 +65,3 @@ if (output) {
     })}\n${output}`
   );
 }
-// Generate random file with 10 digits random filename
-
-// for (let i = 0; i < 100; i++) {
-//   const randomNumber = Math.floor(Math.random() * 10000000000);
-//   fs.writeFile(
-//     `./pictures/${randomNumber}.txt`,
-//     randomNumber.toString(),
-//     (err) => {
-//       if (err) throw err;
-//     }
-//   );
-// }
