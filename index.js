@@ -53,7 +53,7 @@ letterFirst.map((data) => {
 
 if (output) {
   fs.appendFileSync(
-    "./Output.txt",
+    "./log.txt",
     `${new Date().toLocaleString("en-US", {
       month: "long",
       day: "2-digit",
