@@ -3,7 +3,8 @@ const path = require("path");
 
 const employee = require("./employee.json");
 const fileName = fs.readdirSync("./pictures");
-let sbu = process.argv[2];
+
+const sbu = process.argv[2];
 if (!sbu) {
   console.log("Input SBU");
   return;
@@ -21,7 +22,7 @@ let letterFirst = fileName.sort((a, b) => {
 
 letterFirst.map((data) => {
   employee.map(({ firstname, lastname, department, sss }) => {
-    let newFileName = `${firstname} ${lastname}_${sbu}(${department})${path.extname(
+    const newFileName = `${firstname} ${lastname}_${sbu}(${department})${path.extname(
       data
     )}`;
     if (fs.existsSync(`./pictures/${newFileName}`)) {
