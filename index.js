@@ -28,6 +28,7 @@ letterFirst.map((data) => {
       data
     )}`;
     if (fs.existsSync(`./pictures/${newFileName}`)) {
+      console.log(`Alread rename: ${newFileName}`);
       return;
     } else if (
       data.toLowerCase().indexOf(firstname.toLowerCase()) >= 0 &&
