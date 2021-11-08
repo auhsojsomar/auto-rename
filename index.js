@@ -36,7 +36,7 @@ letterFirst.map((data) => {
     const newFileName = `${firstname} ${lastname}_${sbu}(${department})${path.extname(
       data
     )}`;
-    if (fs.existsSync(`./pictures/${newFileName}`)) {
+    if (fs.existsSync(`./pictures/done/${newFileName}`)) {
       return;
     } else if (
       data.toLowerCase().indexOf(firstname.toLowerCase()) >= 0 &&
