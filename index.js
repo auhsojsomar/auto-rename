@@ -1,3 +1,4 @@
+const { count } = require("console");
 const fs = require("fs");
 const path = require("path");
 
@@ -28,7 +29,6 @@ letterFirst.map((data) => {
       data
     )}`;
     if (fs.existsSync(`./pictures/${newFileName}`)) {
-      console.log(`Already rename: ${newFileName}`);
       return;
     } else if (
       data.toLowerCase().indexOf(firstname.toLowerCase()) >= 0 &&
@@ -39,11 +39,13 @@ letterFirst.map((data) => {
         console.log(`Based on Fullname: ${newFileName}`);
         output += `${data} -> ${firstname} ${lastname} \n`;
       }
-    } else if (data.indexOf(sss) >= 0) {
-      if (fs.existsSync(`./pictures/${data}`)) {
-        fs.renameSync(`./pictures/${data}`, `./pictures/${newFileName}`);
-        console.log(`Based on SSS#: ${newFileName}`);
-        output += `${data} -> ${firstname} ${lastname} \n`;
+    } else if (sss) {
+      if (data.indexOf(sss) >= 0) {
+        if (fs.existsSync(`./pictures/${data}`)) {
+          fs.renameSync(`./pictures/${data}`, `./pictures/${newFileName}`);
+          console.log(`Based on SSS#: ${newFileName}`);
+          output += `${data} -> ${firstname} ${lastname} \n`;
+        }
       }
     }
   });
