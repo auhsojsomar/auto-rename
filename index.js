@@ -1,6 +1,14 @@
-const { count } = require("console");
 const fs = require("fs");
 const path = require("path");
+
+// Check if ./pictures and ./done is exist
+
+if (!fs.existsSync("./pictures")) {
+  fs.mkdirSync("./pictures");
+}
+if (!fs.existsSync("./pictures/done")) {
+  fs.mkdirSync("./pictures/done");
+}
 
 const employee = require("./employee.json");
 const fileName = fs.readdirSync("./pictures");
