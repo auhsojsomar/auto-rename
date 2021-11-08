@@ -35,16 +35,16 @@ letterFirst.map((data) => {
       data.toLowerCase().indexOf(lastname.toLowerCase()) >= 0
     ) {
       if (fs.existsSync(`./pictures/${data}`)) {
-        fs.renameSync(`./pictures/${data}`, `./pictures/${newFileName}`);
+        fs.renameSync(`./pictures/${data}`, `./pictures/done/${newFileName}`);
         console.log(`Based on Fullname: ${newFileName}`);
-        output += `${data} -> ${firstname} ${lastname} \n`;
+        output += `${data} -> ${newFileName} \n`;
       }
     } else if (sss) {
       if (data.indexOf(sss) >= 0) {
         if (fs.existsSync(`./pictures/${data}`)) {
-          fs.renameSync(`./pictures/${data}`, `./pictures/${newFileName}`);
+          fs.renameSync(`./pictures/${data}`, `./pictures/done/${newFileName}`);
           console.log(`Based on SSS#: ${newFileName}`);
-          output += `${data} -> ${firstname} ${lastname} \n`;
+          output += `${data} -> ${newFileName} \n`;
         }
       }
     }

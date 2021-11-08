@@ -1,20 +1,4004 @@
 [
   {
+    "firstname": "Rowena",
+    "lastname": "Del Prado",
+    "department": "Restaurant Resources",
+    "sss": 3350681354
+  },
+  {
+    "firstname": "Joann",
+    "lastname": "Cruz",
+    "department": "OPS",
+    "sss": 3364579216
+  },
+  {
+    "firstname": "Lorlyn",
+    "lastname": "Cordero",
+    "department": "Restaurant Support",
+    "sss": 613176017
+  },
+  {
+    "firstname": "Epifanio Reiner",
+    "lastname": "Mariano lll",
+    "department": "HR",
+    "sss": 3407872883
+  },
+  {
+    "firstname": "Kathrine Mae",
+    "lastname": "Nabuya",
+    "department": "HR",
+    "sss": 3426572465
+  },
+  {
+    "firstname": "Jessica Dannielle",
+    "lastname": "Base",
+    "department": "HR",
+    "sss": 3474178206
+  },
+  {
+    "firstname": "Erralyn",
+    "lastname": "Pascual",
+    "department": "OPS",
+    "sss": 3372224799
+  },
+  {
+    "firstname": "Rowena",
+    "lastname": "Payomo",
+    "department": "Restaurant Support",
+    "sss": 407801271
+  },
+  {
+    "firstname": "Celeste",
+    "lastname": "Estrella",
+    "department": "OPS",
+    "sss": 3363163898
+  },
+  {
+    "firstname": "Jayson",
+    "lastname": "Giray",
+    "department": "Business Channels",
+    "sss": 3415684186
+  },
+  {
+    "firstname": "Michelle",
+    "lastname": "Valderrama",
+    "department": "FIN",
+    "sss": 3359164199
+  },
+  {
+    "firstname": "Osmond",
+    "lastname": "Molina",
+    "department": "Trade Marketing",
+    "sss": 3393514734
+  },
+  {
+    "firstname": "Elizabeth",
+    "lastname": "Catalan",
+    "department": "Store Ops",
+    "sss": 3323612305
+  },
+  {
+    "firstname": "Christopher",
+    "lastname": "Punsalan",
+    "department": "Restaurant Support",
+    "sss": 3394629534
+  },
+  {
+    "firstname": "Paul Christian",
+    "lastname": "Gorriceta",
+    "department": "Restaurant Support",
+    "sss": 3354068669
+  },
+  {
+    "firstname": "Jericho",
+    "lastname": "Jauod",
+    "department": "FIN",
+    "sss": 3442085347
+  },
+  {
+    "firstname": "Christina",
+    "lastname": "Aleria",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Lorraine",
+    "lastname": "Mamangun",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Roy Allen",
+    "lastname": "Achas",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Henry",
+    "lastname": "Vergara",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rodrigo Melchor",
+    "lastname": "Lazo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Grace Ann",
+    "lastname": "De Leon",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Desiree Anne",
+    "lastname": "Cortez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jaydel",
+    "lastname": "De Leon",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Allan",
+    "lastname": "Poblete",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Arianne Rhea",
+    "lastname": "Zurita",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Loremie",
+    "lastname": "Davis",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Catherine",
+    "lastname": "Gamao",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Katrina",
+    "lastname": "Acenas",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rayson Jay",
+    "lastname": "Francisco",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jason",
+    "lastname": "Pepito",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marycris",
+    "lastname": "Legaspi",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Elenita",
+    "lastname": "Garcia",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Romel",
+    "lastname": "Abrasado",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Benjie",
+    "lastname": "Ecawat",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kim Billy",
+    "lastname": "Molina",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Raissa",
+    "lastname": "Silo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Dominica",
+    "lastname": "Carrascal",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jonah",
+    "lastname": "Borreros",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Christian",
+    "lastname": "Oliveros",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jane",
+    "lastname": "Arnibal",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Francis Luis Alfonso",
+    "lastname": "Lapus",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Anne Marikit",
+    "lastname": "Nicart",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Aiko",
+    "lastname": "Almario",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Joselle",
+    "lastname": "Golo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Raven",
+    "lastname": "Siron",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Von Joseph",
+    "lastname": "Crisostomo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Sheelin Mae",
+    "lastname": "Trangia",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "John Renzil",
+    "lastname": "Pace",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Katrina",
+    "lastname": "Magbiro",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marlon",
+    "lastname": "Amancio",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Sheena Mae",
+    "lastname": "Tahil",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Aimee",
+    "lastname": "Vallar",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jan Ariez",
+    "lastname": "Yrigan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Charity Joy",
+    "lastname": "Casinao",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marlon",
+    "lastname": "Palenzuela",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Emmanuel",
+    "lastname": "De Los Santos",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ruby Kay",
+    "lastname": "Wisco",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mary Ann",
+    "lastname": "De Vera",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Victor",
+    "lastname": "Argenio, Jr.",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Michael",
+    "lastname": "Cabiles",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Emilene",
+    "lastname": "Cuaresma",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jonalyn",
+    "lastname": "Rivera",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Anne Nikki",
+    "lastname": "Boo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ronald Allan",
+    "lastname": "Sangalang",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Pollyanna Marie",
+    "lastname": "Diamla",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Reytess",
+    "lastname": "Santos",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Fhaizal",
+    "lastname": "Tumagantang",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Bilson",
+    "lastname": "Brosas",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Sharon",
+    "lastname": "Edquila",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Eleazar",
+    "lastname": "Daniel",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mary Jane",
+    "lastname": "Ubando",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Vanessa",
+    "lastname": "Lacsamana",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Lindon",
+    "lastname": "Rabanes",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Dexter Karl",
+    "lastname": "Dinampo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jen Clarize",
+    "lastname": "Sojor",
+    "department": "Store Ops",
+    "sss": 1012177072
+  },
+  {
+    "firstname": "Haniza",
+    "lastname": "Sumampil",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Danica Jane",
+    "lastname": "Manalo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mari Chris",
+    "lastname": "Masungca",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Michael",
+    "lastname": "Petilla",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Wilfredo",
+    "lastname": "Enojardo, Jr.",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Emy Jean",
+    "lastname": "Fernandez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jane Henny Ono",
+    "lastname": "Estores",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kim",
+    "lastname": "Hojilla",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jevelyn",
+    "lastname": "Dandoy",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kalvin",
+    "lastname": "Atienza",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Melody",
+    "lastname": "Escara",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mechael",
+    "lastname": "Tutor",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jomari",
+    "lastname": "Payod",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jose Sandie",
+    "lastname": "Peteros, Jr.",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ma. Angela",
+    "lastname": "De Belen",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jon Von Jovi",
+    "lastname": "Fua",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rechelle Anne",
+    "lastname": "Martinez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jessa",
+    "lastname": "Lopega",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "William",
+    "lastname": "Tinte",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Robert",
+    "lastname": "Lim",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mary Joyce",
+    "lastname": "Andal",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kimberly",
+    "lastname": "Panlilio",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mark Christopher",
+    "lastname": "Lucas",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jerome",
+    "lastname": "Tecson",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Julie-Ann",
+    "lastname": "Limin",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Michelle",
+    "lastname": "Valenzuela",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Angel Miracle Clara",
+    "lastname": "Go",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Regie",
+    "lastname": "Lazarte",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Danica",
+    "lastname": "Torres",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Gilbert",
+    "lastname": "Dizon",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mary Grace",
+    "lastname": "Lao",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Leorosa",
+    "lastname": "Pascual",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Hecel",
+    "lastname": "Mecenas",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jayson",
+    "lastname": "Rosa",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Glenn",
+    "lastname": "Quintos",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Charles Emmett",
+    "lastname": "Mortela",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Maria Lucila",
+    "lastname": "Asuncion",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mark Angelo",
+    "lastname": "Acapulco",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rabelito",
+    "lastname": "Cruz",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jerwin Paolo",
+    "lastname": "Bautista",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Francisco",
+    "lastname": "Teodoro, Jr.",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Charine Mee",
+    "lastname": "Mermida",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ma. Filipina",
+    "lastname": "Maalihan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jhon",
+    "lastname": "Vergara",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mona Lisa",
+    "lastname": "Montemayor",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Dyan Mari",
+    "lastname": "Garcia",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Roque",
+    "lastname": "Rosello",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Aileen",
+    "lastname": "Valenzuela",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Paul Adrei",
+    "lastname": "Lorica",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rene",
+    "lastname": "Salomon, Jr.",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Diomedes",
+    "lastname": "Escalera, Jr.",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Michelle",
+    "lastname": "Lomotan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Eugene Vincent",
+    "lastname": "Sarraga",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Lloyd",
+    "lastname": "Luna",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Renna Lee",
+    "lastname": "Franco",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ma. Rexie",
+    "lastname": "Gancia",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Cris",
+    "lastname": "Barredo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Celine Mae",
+    "lastname": "Nadres",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Gloria",
+    "lastname": "Atienza",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jeerhome",
+    "lastname": "Malaluan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Maria Luisa",
+    "lastname": "Cruz",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Joy Ann",
+    "lastname": "Herrera",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Desiree",
+    "lastname": "Gaddi",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ma. Carmela",
+    "lastname": "Tumonong",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Cicil",
+    "lastname": "Buquid",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Erwin",
+    "lastname": "Casino",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Bengie",
+    "lastname": "Vi�a",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Carlo",
+    "lastname": "Yusi",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jayson",
+    "lastname": "Pilao",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Robin",
+    "lastname": "Padilla",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "John David",
+    "lastname": "Moral",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jennalyn",
+    "lastname": "Yabut",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mary Grace",
+    "lastname": "Escobia",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Grace Ann",
+    "lastname": "Sabroso",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Arnold",
+    "lastname": "Almenanza",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Cecilia",
+    "lastname": "Bombita",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Carvin",
+    "lastname": "Angeles",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Dominador",
+    "lastname": "Rufino, Jr.",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jhon Daniel",
+    "lastname": "Bumanlag",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Eduard",
+    "lastname": "Cayetano",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Joecer",
+    "lastname": "Elepa�o",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ron Derick",
+    "lastname": "Santos",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Alma Mhay",
+    "lastname": "Porio",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jordan",
+    "lastname": "Rosales",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Melody",
+    "lastname": "Molina",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Roger Vincent",
+    "lastname": "Padua",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rachelle",
+    "lastname": "Amburgo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mark Oliver",
+    "lastname": "Bartolome",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Buenalynne",
+    "lastname": "Pinalba",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Arnold",
+    "lastname": "Razon",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Herlyn",
+    "lastname": "Relente",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jela Mae",
+    "lastname": "Fetil",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Renan",
+    "lastname": "Lumawag",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Carl Josef",
+    "lastname": "Garcia",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Sarah Jane",
+    "lastname": "Callanta",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jean-Recy",
+    "lastname": "Rato",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Alfredo",
+    "lastname": "Galera, Jr.",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Calvin Jay",
+    "lastname": "Generalao",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Christopher",
+    "lastname": "Lerasan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Camille Laurice",
+    "lastname": "Belen",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Nikka Irish",
+    "lastname": "Navelgas",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mary Grace",
+    "lastname": "Agpaoa",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ryan Anthony",
+    "lastname": "De Guzman",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Irene",
+    "lastname": "Garcia",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Justin Hector",
+    "lastname": "Tordilla",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kevin Ross",
+    "lastname": "Bonabon",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Irene",
+    "lastname": "Padilla",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Cherrylyn",
+    "lastname": "Valencia",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ria Rose",
+    "lastname": "Blanca",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Karen Grace",
+    "lastname": "Tacoloy",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Stella Irish",
+    "lastname": "Quidlat",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mera Melca",
+    "lastname": "Pregellana",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Joseph Edrien",
+    "lastname": "Cruz",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rommel",
+    "lastname": "Nodado",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Maria Ester",
+    "lastname": "Rodriguez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Anna Rowena",
+    "lastname": "Buen",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Christian",
+    "lastname": "Resurreccion",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Edgardo",
+    "lastname": "Agno",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ma. Cristina",
+    "lastname": "Malapit",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Anthony Ryan",
+    "lastname": "Javier",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ramon",
+    "lastname": "Baltero",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mark Angelo",
+    "lastname": "Cruz",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Adrian",
+    "lastname": "Jose",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Romel",
+    "lastname": "Legaspi",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Adrian",
+    "lastname": "Evangelista",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jenalyn",
+    "lastname": "Geraldino",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Abegail",
+    "lastname": "Pajares",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mhel Vinson",
+    "lastname": "Vingua",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Maryanne",
+    "lastname": "Tayag",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jocelyn",
+    "lastname": "Dela Cruz",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marvie",
+    "lastname": "Petate",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Francisco",
+    "lastname": "Lanuza",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "May",
+    "lastname": "Principe",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mary Joy",
+    "lastname": "Ocampo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marian Joy",
+    "lastname": "Lee",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Eulenita",
+    "lastname": "Chou",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Nash",
+    "lastname": "Gaddi",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jennifer",
+    "lastname": "Arceo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jovill",
+    "lastname": "Fajardo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Eaurika",
+    "lastname": "Mori",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ruth",
+    "lastname": "De Leon",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Karen Aubrey",
+    "lastname": "Pingol",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Edward",
+    "lastname": "Vergara",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Angelita",
+    "lastname": "Lagco",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Shiela Jane",
+    "lastname": "Santiago",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Cris John Andrew",
+    "lastname": "Di�o",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Richard",
+    "lastname": "Carbonell",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mary Jean",
+    "lastname": "Constantino",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rosabelle",
+    "lastname": "Lumogdang",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Lorielle",
+    "lastname": "Jumagdao",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kia Marie",
+    "lastname": "Cabahug",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Michael",
+    "lastname": "Santiago",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Janeziel",
+    "lastname": "Celerinos",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jenny",
+    "lastname": "Cofreros",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Elias",
+    "lastname": "Llenas, Jr.",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Sherwin",
+    "lastname": "Repil",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Wilyn",
+    "lastname": "Arante",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Sarah Jane",
+    "lastname": "Bandola",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Zarah Jane",
+    "lastname": "Mario",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Michelle",
+    "lastname": "Boncayao",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rodel",
+    "lastname": "Niduaza",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Bernadette",
+    "lastname": "Sarucam",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Albert",
+    "lastname": "Reclusado",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Pedro",
+    "lastname": "Pascual",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Farrah",
+    "lastname": "Casabuena",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jesson",
+    "lastname": "Colis",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Angeli",
+    "lastname": "Namora",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Cherry",
+    "lastname": "Marbella",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Christopher",
+    "lastname": "Sarmiento",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Vanessa",
+    "lastname": "Lacerna",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Glaiza",
+    "lastname": "Fabiosa",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mildred",
+    "lastname": "Santos",
+    "department": "OPS",
+    "sss": ""
+  },
+  {
+    "firstname": "Javelyn Vanessa",
+    "lastname": "Oclarit",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Arlan",
+    "lastname": "Mejia",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Stephanie Paye",
+    "lastname": "Bernabe",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Elizaldy",
+    "lastname": "Gannod",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Eloisa",
+    "lastname": "Cruz",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Princess Marelit",
+    "lastname": "Helado",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marieliza",
+    "lastname": "Diano",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Erick",
+    "lastname": "Aguilar",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marina",
+    "lastname": "Bulusan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Joana Abelyn Elysa",
+    "lastname": "Gana",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jomer",
+    "lastname": "Diaz",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Leilani",
+    "lastname": "Briones",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rose Ann",
+    "lastname": "Santos",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Benver",
+    "lastname": "Buena",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marie Claire",
+    "lastname": "Dimaano",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ybon Mae",
+    "lastname": "Cadano",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jeid",
+    "lastname": "Superales",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Justine Mae",
+    "lastname": "Catbagan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Christian",
+    "lastname": "Gomez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mark Anthony",
+    "lastname": "Baluyot",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jinky Marie",
+    "lastname": "Lachica",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Roy",
+    "lastname": "Constantino",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rubirosa",
+    "lastname": "Ballesteros",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Garnet Reginald",
+    "lastname": "Bautista",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Richyl",
+    "lastname": "Selda",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Joseph",
+    "lastname": "Tan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rena",
+    "lastname": "de la Torre",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kristine Ivy",
+    "lastname": "Vermudo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ferlin",
+    "lastname": "Cunanan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jesus",
+    "lastname": "Bravo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Sheena Mae",
+    "lastname": "Revilloza",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Bernard Lou",
+    "lastname": "Padilla",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rose Ann",
+    "lastname": "Pamintuan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jomari",
+    "lastname": "Andal",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Reymar",
+    "lastname": "Maguigad",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jenny Veb",
+    "lastname": "Arcilla",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jose Amado",
+    "lastname": "Dominguez",
+    "department": "General Manager",
+    "sss": ""
+  },
+  {
+    "firstname": "Joey",
+    "lastname": "Panghulan",
+    "department": "HR",
+    "sss": ""
+  },
+  {
+    "firstname": "Karole Michaela",
+    "lastname": "Santos",
+    "department": "MKTG",
+    "sss": ""
+  },
+  {
+    "firstname": "Sarah Jane",
+    "lastname": "Valerio",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Nesmarl Rayver",
+    "lastname": "Olitoquit",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Joanna Christel",
+    "lastname": "De Leon",
+    "department": "Business Development",
+    "sss": ""
+  },
+  {
+    "firstname": "Caezar",
+    "lastname": "Marigomen",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Patricia Francesca",
+    "lastname": "Sara",
+    "department": "MKTG",
+    "sss": ""
+  },
+  {
+    "firstname": "Monica",
+    "lastname": "Solo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Milan",
+    "lastname": "Fabillar",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Fernando",
+    "lastname": "Escobar, Jr.",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mariel",
+    "lastname": "Superable",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jeanette",
+    "lastname": "Aculado",
+    "department": "OPS",
+    "sss": ""
+  },
+  {
+    "firstname": "Audrey",
+    "lastname": "Echalar",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Audy",
+    "lastname": "Doropan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mannylyn",
+    "lastname": "Dado",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rose Ann Camille",
+    "lastname": "Almario",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Arlene",
+    "lastname": "Rizalde",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Angelo",
+    "lastname": "Esca�o",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Angela",
+    "lastname": "Iba�ez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Elizabeth",
+    "lastname": "Santiago",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Olive Joy",
+    "lastname": "Se�o",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ronan",
+    "lastname": "Hernandez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "John Paul",
+    "lastname": "Tiongco",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Renilyn",
+    "lastname": "Ripalda",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Phillip Roy",
+    "lastname": "Marzo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Camille Joyce",
+    "lastname": "Poyaoan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Nelson",
+    "lastname": "Ampuan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jay-Ar",
+    "lastname": "De Castro",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Carlos",
+    "lastname": "Dalogdog, Jr.",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jordan",
+    "lastname": "Alit",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Manny",
+    "lastname": "Rongavilla",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Hazel",
+    "lastname": "Escarten",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Aira",
+    "lastname": "Ago",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Katherine",
+    "lastname": "Mangio",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Justine",
+    "lastname": "Marqueta",
+    "department": "Store Ops",
+    "sss": 3427234498
+  },
+  {
+    "firstname": "Anthony",
+    "lastname": "Tolentino",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rafael",
+    "lastname": "San Jose",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marife",
+    "lastname": "Fruelda",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Richard",
+    "lastname": "Matias, Jr.",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jenifer",
+    "lastname": "Algo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kriss",
+    "lastname": "Masanque",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
     "firstname": "Joshua",
+    "lastname": "Radores",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Novy",
+    "lastname": "Pueren",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Alan",
+    "lastname": "Bongon",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jonathan",
+    "lastname": "De Guzman",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Renabel",
+    "lastname": "Bautista",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Monette",
+    "lastname": "Planta",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jerel",
+    "lastname": "Carranza",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Hazel",
+    "lastname": "Garrido",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jess Mhar",
+    "lastname": "Vinluan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Cobico",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "John Smith",
+    "lastname": "Flores",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Sharmaine",
+    "lastname": "Enfesta",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Robin",
+    "lastname": "Mirambel",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Joelysis",
+    "lastname": "Cala",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marjorie Ann",
+    "lastname": "Francisco",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "John Benedict",
+    "lastname": "Belaro",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kaylin",
+    "lastname": "Esguerra",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Cherry Fe",
+    "lastname": "Vallarta",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Albert John",
+    "lastname": "Pasion",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Meryam",
+    "lastname": "Cea",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kary-Lyn",
+    "lastname": "Angulo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Geraldine",
+    "lastname": "Enano",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Aljohn",
+    "lastname": "Palapag",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Benjie",
+    "lastname": "Orence",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marylyn",
+    "lastname": "Fetalino",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Stephen John",
+    "lastname": "Buenaflor",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jhon Paul",
+    "lastname": "Mondero",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "John Ric",
+    "lastname": "Timbang",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Dexter",
+    "lastname": "Consad",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Pauline",
+    "lastname": "Huete",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Archel",
+    "lastname": "Patay",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Joedario",
+    "lastname": "Libodlibod",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Carolyn",
+    "lastname": "Icaro",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Madel",
+    "lastname": "Garachico",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ruben",
+    "lastname": "Atendido",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Earyl John",
+    "lastname": "Aratea",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Eric",
+    "lastname": "Reyes",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Dennis William",
+    "lastname": "Lowe",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Hanna Jamaica",
+    "lastname": "Labe",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "N.R.",
+    "lastname": "Tamayo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Melvin",
+    "lastname": "Maceda",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ericson",
+    "lastname": "Tutor",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Catherine Joy",
+    "lastname": "Pelueta",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Arnold",
+    "lastname": "Casabuena",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mhechelle",
+    "lastname": "Mayo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Anna Lorraine",
+    "lastname": "Vilog",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Miriam",
+    "lastname": "Fortes",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Dina Shaira",
+    "lastname": "Alcantara",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Judelyn",
+    "lastname": "Aranel",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Joanne Catherine",
+    "lastname": "Gatela",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Nika Ela",
+    "lastname": "Luna",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Analyn",
+    "lastname": "Almenanza",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Cherry Anne",
+    "lastname": "Nevalga",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "John Mariel",
+    "lastname": "Gallardo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jovelyn",
+    "lastname": "Bongon",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jalen",
+    "lastname": "Salvador",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Julie Ann",
+    "lastname": "Vermudez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Nina",
+    "lastname": "Tamega",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Samantha Isabella",
+    "lastname": "Singayan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jay",
+    "lastname": "Nicolas",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rolan Jay",
+    "lastname": "Sindayen",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jefferson",
+    "lastname": "Perez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Verna",
+    "lastname": "Damaso",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mia",
+    "lastname": "Alolor",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Criselda",
+    "lastname": "Maravilla",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Shermaine",
+    "lastname": "Mua�a",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Lhorraine Ann",
+    "lastname": "Dizon",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ariane Hercy",
+    "lastname": "Cruz",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Judy",
+    "lastname": "Porciuncula",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rode",
+    "lastname": "Montecastro",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "April Lou",
+    "lastname": "Cortez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Angelo Arvin",
+    "lastname": "Santiago",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Krystver Jan",
+    "lastname": "Cayanan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Harimiyah",
+    "lastname": "Calma",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Emma",
+    "lastname": "Sinues",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rey Ann Jonald",
+    "lastname": "Rivero",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marites",
+    "lastname": "Maigan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mark",
+    "lastname": "Fornis",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mary Jane",
+    "lastname": "Botero",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Regine",
+    "lastname": "Divina",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Frederick",
+    "lastname": "Macaraeg",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jaesa Mae",
+    "lastname": "Gregorio",
+    "department": "Store Ops",
+    "sss": 729817202
+  },
+  {
+    "firstname": "Lea",
+    "lastname": "Tella-In",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Franz Marion",
+    "lastname": "Jaramilla",
+    "department": "Store Ops",
+    "sss": 3422440481
+  },
+  {
+    "firstname": "Marry Joy",
+    "lastname": "Armillos",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "John Rey",
+    "lastname": "Balangue",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Erika Mae",
+    "lastname": "Alvaro",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Edna",
+    "lastname": "Pala-A",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Janneska Nickole",
+    "lastname": "Demano",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Geraldine",
+    "lastname": "Acebuche",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jino",
+    "lastname": "Lagrimas",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Robert Justin",
+    "lastname": "Saquian, Jr.",
+    "department": "Store Ops",
+    "sss": 3460119842
+  },
+  {
+    "firstname": "Maria Shams",
+    "lastname": "Camacho",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rian Aizel",
+    "lastname": "Villanueva",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Regina Lyn",
+    "lastname": "Castro",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jocel",
+    "lastname": "Gorospe",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ariel",
+    "lastname": "Divino",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Christopher",
+    "lastname": "Magada",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mary Ann",
+    "lastname": "Usi",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Anarosa",
+    "lastname": "Arcenas",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mido",
+    "lastname": "Pagulayan, Jr",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jericho",
+    "lastname": "Bondoc",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mary Ann",
+    "lastname": "Cabanas",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rose Ann",
+    "lastname": "Umapas",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Maria Jesusa",
+    "lastname": "Amahit",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Katherene",
+    "lastname": "Cosme",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Melanie Joy",
+    "lastname": "Tuibeo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Edwin John",
+    "lastname": "Alido",
+    "department": "OPS",
+    "sss": ""
+  },
+  {
+    "firstname": "Shairra Lyn",
+    "lastname": "Paroginog",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kenneth",
+    "lastname": "Eroy",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Michael Ervin",
+    "lastname": "Lopez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Leah",
+    "lastname": "Calzado",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ralph Lloyd",
+    "lastname": "Hapon",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ma. Teresa",
+    "lastname": "Jose",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Arjay",
+    "lastname": "Paredes",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Camille",
+    "lastname": "Atienza",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Juan",
+    "lastname": "Tanael",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Hazel Joy",
+    "lastname": "Malinao",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jhonel",
+    "lastname": "Karunungan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rowen",
+    "lastname": "Canen",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kimberly",
+    "lastname": "Tanador",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Joanna",
+    "lastname": "Tuando",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Arnie Joseph",
+    "lastname": "Paraino",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Cherry",
+    "lastname": "Larioza",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Francis Cezar",
+    "lastname": "Galdones",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Lilibeth",
+    "lastname": "Macabare",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Espy",
+    "lastname": "Sollestre",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Gilbert Bj",
+    "lastname": "Gerardo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Lester",
+    "lastname": "Gomez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Sheryl",
+    "lastname": "Baria",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Bedel",
+    "lastname": "Zacarias",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marisul",
+    "lastname": "Bolor",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Regine",
+    "lastname": "Cerantes",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Arra Nicole",
+    "lastname": "Pugay",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Lloyd Ryan",
+    "lastname": "Benitez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Nelmar",
+    "lastname": "Baluya",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Regina Yazmin",
+    "lastname": "Palinacion",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ann Margarette",
+    "lastname": "Capili",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Arvin",
+    "lastname": "Cartagenas",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Elena",
+    "lastname": "Buenaventura",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Gracia Marie",
+    "lastname": "Cenar",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jerome",
+    "lastname": "Dominguez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Leonisa",
+    "lastname": "Escobar",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Pilomeno",
+    "lastname": "Andaya",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rhenzel",
+    "lastname": "Villanueva",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Clarice",
+    "lastname": "Camacho",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Cyra Joy",
+    "lastname": "Sta. Catalina",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Darwin",
+    "lastname": "De Guzman",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Gilbert",
+    "lastname": "Pura",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Isabelita",
+    "lastname": "Garcia",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ma. Elena",
+    "lastname": "Ara�es",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Roi Vinzon",
+    "lastname": "Ro�o",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Allyson Brenda",
+    "lastname": "Cruz",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Charlene Kate",
+    "lastname": "Garcia",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ellamor",
+    "lastname": "Gondra",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mary Gale",
+    "lastname": "Urot",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Michael",
+    "lastname": "De Los Santos",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jerus John",
+    "lastname": "Pontevedra",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Matthew",
+    "lastname": "Magdali",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Alexander",
+    "lastname": "Albaracin",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jessibel",
+    "lastname": "Cayang",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Maria Cecilia",
+    "lastname": "Tumbaga",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Myko",
+    "lastname": "Esguerra",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rozell",
+    "lastname": "Badiola",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Russel",
+    "lastname": "Garcia",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Shiena Mae",
+    "lastname": "Albaracin",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Tobie",
+    "lastname": "Cabreros",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ezekiel",
+    "lastname": "Mara�o",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Wilma",
+    "lastname": "Valdez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Princess Joy",
+    "lastname": "Macabodbod",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ana Marie",
     "lastname": "Ramos",
     "department": "Store Ops",
     "sss": ""
   },
   {
-    "firstname": "Auhsoj",
-    "lastname": "Somar",
-    "department": "MFG",
+    "firstname": "Danianne",
+    "lastname": "Aseo",
+    "department": "Store Ops",
     "sss": ""
   },
   {
-    "firstname": "Samuel",
-    "lastname": "Labong",
-    "department": "MKTG",
+    "firstname": "Jomen Roi",
+    "lastname": "Armenio",
+    "department": "Store Ops",
     "sss": ""
+  },
+  {
+    "firstname": "Marjoh Alva",
+    "lastname": "Montemayor",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mary Ann",
+    "lastname": "Hugos",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Nerissa",
+    "lastname": "Yap",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Richelle Anne",
+    "lastname": "Torres",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Roma May",
+    "lastname": "Dulce",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Chiara Michaela",
+    "lastname": "Bautista",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Bryan",
+    "lastname": "Ramos",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Roderick",
+    "lastname": "Rebadeo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Allyjon",
+    "lastname": "Contaoi",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Christelle Mae",
+    "lastname": "Valenzuela",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Elaine May",
+    "lastname": "Puno",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kurt Lander",
+    "lastname": "Balmes",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Princess",
+    "lastname": "Agustin",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Christian Dalton",
+    "lastname": "Perez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Clara",
+    "lastname": "Acebuche",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "July Mark",
+    "lastname": "Manubag",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marven",
+    "lastname": "Palomar",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Maria Sheilinan",
+    "lastname": "Ricarte",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Vincent",
+    "lastname": "Babida",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Carmela",
+    "lastname": "Cabilin",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Joyce",
+    "lastname": "Lopez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Babylou",
+    "lastname": "Valencia",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jamilah Ann",
+    "lastname": "Malapit",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jethro",
+    "lastname": "Corteza",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jinnylyn",
+    "lastname": "Wisco",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rigo",
+    "lastname": "Dimaguila",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Manilyn",
+    "lastname": "Pulido",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Aileen",
+    "lastname": "Arisga",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marc",
+    "lastname": "Clarus",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ritchell",
+    "lastname": "Maglalang",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Roseline Michelle",
+    "lastname": "Las Marias",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Melvin",
+    "lastname": "Moratalla",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rocel",
+    "lastname": "Cachumbo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kenneth Cibelle",
+    "lastname": "De Leon",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Denise",
+    "lastname": "Zaragoza",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Dwight Cyrus",
+    "lastname": "Pacion",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Isabel",
+    "lastname": "Abigan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Vallyn",
+    "lastname": "Silot",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Adela Mae",
+    "lastname": "Ferrer",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Annalyn",
+    "lastname": "Salvador",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jane Eyre",
+    "lastname": "Bagundol",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Joenifer",
+    "lastname": "Alturino",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Cate Jasmin",
+    "lastname": "Odevilas",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Cielo",
+    "lastname": "Bacarisas",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Lyncel",
+    "lastname": "Balbido",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Maria Elena",
+    "lastname": "Suicon",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mariel",
+    "lastname": "Macabenta",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marteen",
+    "lastname": "Pagulayan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marbella",
+    "lastname": "Abece",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Daniel",
+    "lastname": "Llanes",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kevin",
+    "lastname": "Dura",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Shella Mae",
+    "lastname": "Corsiga",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Armon",
+    "lastname": "Bucad",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Denise Anne",
+    "lastname": "Digal",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Dan Michael",
+    "lastname": "Pabilona",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Carl Anthony",
+    "lastname": "Baylon",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rolando",
+    "lastname": "Ramos",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jackielyn",
+    "lastname": "Marcial",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ronalyn",
+    "lastname": "Martin",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ruth",
+    "lastname": "Limos",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ma. Louzelle",
+    "lastname": "Aseremo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jinckie",
+    "lastname": "Ismael",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kaye Charlotte",
+    "lastname": "Polvorosa",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rudianne Cristine",
+    "lastname": "Coronado",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kristine Joy",
+    "lastname": "Nota",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Beverly",
+    "lastname": "Haboc",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kierr Leo",
+    "lastname": "Genito",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Janette",
+    "lastname": "Villarosa",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marnelle Joy",
+    "lastname": "Gacutan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ma. Theresa",
+    "lastname": "Benigno",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Charlene",
+    "lastname": "Gumban",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rodel",
+    "lastname": "Garachico Jr.",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ron Don",
+    "lastname": "Fua",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jerome",
+    "lastname": "Villarama",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jonalyn",
+    "lastname": "Verdeflor",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Shaira Eve",
+    "lastname": "Lorica",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Beverly",
+    "lastname": "Dumilao",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Louie Jay",
+    "lastname": "Oranza",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Genises",
+    "lastname": "De Vera",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Apple Grace",
+    "lastname": "Aguas",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jomarie",
+    "lastname": "Omnes",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Garry",
+    "lastname": "Eustacio Jr.",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Roniel",
+    "lastname": "Camacho",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rayniel",
+    "lastname": "Magpantay",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Flora Mei",
+    "lastname": "Cadorna",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ally Mar",
+    "lastname": "Lintecan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Cherry Jane",
+    "lastname": "Maca",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jayvee",
+    "lastname": "Divina",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Paul John",
+    "lastname": "Calbario",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ar Jay",
+    "lastname": "Sanchez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Wilbert",
+    "lastname": "Bacudio",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Emily Pilar",
+    "lastname": "Roma",
+    "department": "Store Ops",
+    "sss": 615240857
+  },
+  {
+    "firstname": "Maria Ellaine Bernadette",
+    "lastname": "Baun",
+    "department": "Store Ops",
+    "sss": 3431606397
+  },
+  {
+    "firstname": "Muriel",
+    "lastname": "Fajardo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Arces John",
+    "lastname": "Gabiola",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Laila",
+    "lastname": "Estacio",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Clarice",
+    "lastname": "Oliveros",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Danielle",
+    "lastname": "Cruz",
+    "department": "Store Ops",
+    "sss": 3431763800
+  },
+  {
+    "firstname": "Junah",
+    "lastname": "Dayon",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Julie Ann",
+    "lastname": "Nobleza",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rose Ann",
+    "lastname": "Lopez",
+    "department": "Store Ops",
+    "sss": 3391336707
+  },
+  {
+    "firstname": "Kristine",
+    "lastname": "Enojardo",
+    "department": "Store Ops",
+    "sss": 3373379847
+  },
+  {
+    "firstname": "Ritchelle",
+    "lastname": "Escasinas",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Johara Kris",
+    "lastname": "Veloso",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Darel",
+    "lastname": "Tejano",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Arden Joy",
+    "lastname": "Limpuasan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Rowanni",
+    "lastname": "Mondez",
+    "department": "Store Ops",
+    "sss": 3354730845
+  },
+  {
+    "firstname": "Bonjovi",
+    "lastname": "Lomboy",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Angelica",
+    "lastname": "Mesias",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Chiery",
+    "lastname": "Toraja",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Anika",
+    "lastname": "Kalalo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Cassandra Nicola",
+    "lastname": "Cruz",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Catrina",
+    "lastname": "Lugue",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Lindsy",
+    "lastname": "Manarang",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marlon James",
+    "lastname": "Niega",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jacqueline",
+    "lastname": "Castro",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Cecile",
+    "lastname": "Eduardo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Sherlyn",
+    "lastname": "Banag",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mary Joy",
+    "lastname": "Macosme",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marinelle",
+    "lastname": "Nu�ez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Melanie Mae",
+    "lastname": "Larios",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Helen",
+    "lastname": "Aquino",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Claudine Jean",
+    "lastname": "Billones",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Princess Marelit",
+    "lastname": "Helado",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mark Joseph",
+    "lastname": "Gutierrez",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Adelette",
+    "lastname": "Santoc",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marrynel",
+    "lastname": "Solis",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Laarni",
+    "lastname": "Dioma",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Chris",
+    "lastname": "Dela Cruz",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Irene",
+    "lastname": "Pigarido",
+    "department": "Store Ops",
+    "sss": 3425625805
+  },
+  {
+    "firstname": "Edito",
+    "lastname": "Bacuetes",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mary Lyn",
+    "lastname": "Abordo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Adrian",
+    "lastname": "Aquino",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jean Marie",
+    "lastname": "Carmelo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jennalyn",
+    "lastname": "Macaspac",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Ericka",
+    "lastname": "Carlos",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jeffrey",
+    "lastname": "Talbo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jose Allan",
+    "lastname": "Alba",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Melody",
+    "lastname": "Torceno",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jelo",
+    "lastname": "Arendain",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Roy",
+    "lastname": "Tapales",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jeremiah Jamie",
+    "lastname": "Bodoy",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Kristina Corazon",
+    "lastname": "Ygo�a",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Peter Paul",
+    "lastname": "Egloria",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jordan Peter",
+    "lastname": "Amansec",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Yzel Joy",
+    "lastname": "Baldonado",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Maritess",
+    "lastname": "Balmes",
+    "department": "Store Ops",
+    "sss": 3305231270
+  },
+  {
+    "firstname": "Barbara Jane",
+    "lastname": "Regalado",
+    "department": "Store Ops",
+    "sss": 3361276392
+  },
+  {
+    "firstname": "Michael Angelo",
+    "lastname": "Labana",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Joanna Marie",
+    "lastname": "de Duque",
+    "department": "MKTG",
+    "sss": 3437600465
+  },
+  {
+    "firstname": "Glenn",
+    "lastname": "Holgado",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Maureen",
+    "lastname": "Pascual",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Jerson",
+    "lastname": "Edo",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Joshua",
+    "lastname": "Sarmiento",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Mark Lester",
+    "lastname": "Pineda",
+    "department": "Store Ops",
+    "sss": 3390241893
+  },
+  {
+    "firstname": "Angelo Arvin",
+    "lastname": "Santiago",
+    "department": "Store Ops",
+    "sss": 3436447946
+  },
+  {
+    "firstname": "Kint",
+    "lastname": "Mirasol",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Marina",
+    "lastname": "Bulusan",
+    "department": "Store Ops",
+    "sss": ""
+  },
+  {
+    "firstname": "Joni",
+    "lastname": "Naluz",
+    "department": "Restaurant Support",
+    "sss": 3312516454
+  },
+  {
+    "firstname": "Angelica Marie",
+    "lastname": "Aguila",
+    "department": "HR",
+    "sss": 3436154585
+  },
+  {
+    "firstname": "Genelyn",
+    "lastname": "Aro",
+    "department": "FIN",
+    "sss": 3441981798
+  },
+  {
+    "firstname": "Michelle",
+    "lastname": "San Jose",
+    "department": "OPS",
+    "sss": 3333482693
+  },
+  {
+    "firstname": "Adonis Anthony",
+    "lastname": "Carpizo",
+    "department": "Restaurant Support",
+    "sss": 3343859782
+  },
+  {
+    "firstname": "Gerald",
+    "lastname": "Gercayo",
+    "department": "Business Channels",
+    "sss": 417270410
+  },
+  {
+    "firstname": "Jeffrrey",
+    "lastname": "Catama",
+    "department": "Restaurant Support",
+    "sss": 3462754661
+  },
+  {
+    "firstname": "Karen Marielle",
+    "lastname": "Nieva",
+    "department": "Restaurant Support",
+    "sss": 3436405205
+  },
+  {
+    "firstname": "Merilee Lorraine",
+    "lastname": "Lota",
+    "department": "FIN",
+    "sss": 3418569062
+  },
+  {
+    "firstname": "Donna Rose",
+    "lastname": "Amper",
+    "department": "OPS",
+    "sss": 3466815357
   }
 ]
