@@ -15,7 +15,7 @@ const fileName = fs.readdirSync("./pictures");
 
 let output = "";
 
-const sbu = process.argv[2];
+let sbu = process.argv[2];
 if (!sbu) {
   console.log("Please input the SBU...");
   return;
@@ -33,7 +33,7 @@ const letterFirst = fileName.sort((a, b) => {
 
 letterFirst.map((data) => {
   employee.map(({ firstname, lastname, department, sss }) => {
-    const newFileName = `${firstname} ${lastname}_${sbu}(${department})${path.extname(
+    const newFileName = `${firstname} ${lastname}_${sbu.toUpperCase()}(${department})${path.extname(
       data
     )}`;
     if (fs.existsSync(`./pictures/done/${newFileName}`)) {
