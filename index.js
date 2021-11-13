@@ -57,17 +57,14 @@ letterFirst.map((data) => {
 
 // Output to textfile
 
+const now = new Date();
+now.setUTCHours(21);
+const logFile =
+  now.toISOString().replace(/\..+/, "").replace(/:/g, "-") + ".txt";
+
 if (output) {
-  fs.appendFileSync(
-    "./log.txt",
-    `${new Date().toLocaleString("en-US", {
-      month: "long",
-      day: "2-digit",
-      year: "numeric",
-      hour12: true,
-      hour: "numeric",
-      minute: "2-digit",
-      second: "2-digit",
-    })}\n${output}`
-  );
+  if (!fs.existsSync("./logs")) {
+    fs.mkdirSync("./logs");
+  }
+  fs.writeFileSync(path.join("logs", logFile), output);
 }
