@@ -15,12 +15,6 @@ const fileName = fs.readdirSync("./pictures");
 
 let output = "";
 
-let sbu = process.argv[2];
-if (!sbu) {
-  console.log("Please input the SBU...");
-  return;
-}
-
 // Sort array by Letterfirst then number
 
 const letterFirst = fileName.sort((a, b) => {
@@ -32,10 +26,12 @@ const letterFirst = fileName.sort((a, b) => {
 // Auto Rename based on Firstname and Lastname first then SSS#
 
 letterFirst.map((data) => {
-  employee.map(({ firstname, lastname, department, sss }) => {
-    const newFileName = `${firstname} ${lastname}_${sbu.toUpperCase()}(${department})${path.extname(
-      data
-    )}`;
+  employee.map(({ firstname, lastname, sss }) => {
+    const newFileName = `${lastname
+      .toLowerCase()
+      .replace(/ /g, "_")}_${firstname
+      .toLowerCase()
+      .replace(/ /g, "_")}${path.extname(data)}`;
     if (fs.existsSync(`./pictures/done/${newFileName}`)) {
       return;
     } else if (

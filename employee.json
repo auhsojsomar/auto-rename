@@ -1,4880 +1,1532 @@
 [
   {
-    "lastname": "Rabe",
-    "firstname": "John Marco",
-    "sss": "",
-    "department": "MFG"
+    "lastname": "Chavez",
+    "firstname": "Robyn Alyssa",
+    "sss": ""
   },
   {
-    "lastname": "De Guzman",
-    "firstname": "Kent Dexter",
-    "sss": "",
-    "department": "MFG"
+    "lastname": "Veloso",
+    "firstname": "Maria Elise",
+    "sss": 3426130865
   },
   {
-    "lastname": "Obaña",
-    "firstname": "John Francis",
-    "sss": "",
-    "department": "MFG"
+    "lastname": "Sabado",
+    "firstname": "Arsenio",
+    "sss": 396111535
   },
   {
-    "lastname": "Magadia",
-    "firstname": "Fred Wayne",
-    "sss": "",
-    "department": "MFG"
+    "lastname": "Lu",
+    "firstname": "Schuyler Hugo",
+    "sss": 3473915101
   },
   {
-    "lastname": "Pagcaliwagan",
-    "firstname": "Lester",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Sargento",
-    "firstname": "Jason",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Bumagat",
-    "firstname": "Vincent",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ortega",
-    "firstname": "James Vicent",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Tesoro",
-    "firstname": "Hazel Jane",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mendoza",
-    "firstname": "Queenie",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Palopalo",
-    "firstname": "Erizza Claire",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Tamayo",
-    "firstname": "Nonie Cris",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ramos",
-    "firstname": "Emilson",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cueto",
-    "firstname": "Ralph Warren",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Guerra",
-    "firstname": "Jay R",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Napiza",
-    "firstname": "Mar Dawn Mikhail",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ogoc",
-    "firstname": "Kemberlyn",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Tolentino",
-    "firstname": "Donn Bryan",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Javier",
-    "firstname": "Jean Marion",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Carranza",
-    "firstname": "Alvin Jhon",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Pera",
-    "firstname": "Andrian",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Rana",
-    "firstname": "Gerwin",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Loto",
-    "firstname": "Edelbert",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Samiano",
-    "firstname": "Jeffrey",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Paraiso",
-    "firstname": "Gremael",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Pachejo",
-    "firstname": "Peter John",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ellarda",
-    "firstname": "Loraine",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Nagua",
-    "firstname": "Joy",
-    "sss": "",
-    "department": "PPIC"
-  },
-  {
-    "lastname": "Villarmino",
-    "firstname": "Maxlim",
-    "sss": "",
-    "department": "Site Logistics"
-  },
-  {
-    "lastname": "Leycano",
-    "firstname": "Rhozelyne",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Anog",
-    "firstname": "Reamelle",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Ortiz Luis",
-    "firstname": "Charisse Anne",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Bontimel",
-    "firstname": "Cristine Mae",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Cristobal",
-    "firstname": "Cline Aaron Angel",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Crisostomo",
-    "firstname": "Rusell",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Nacido",
-    "firstname": "Camille",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Tiongco",
-    "firstname": "Patrick Jason",
-    "sss": "",
-    "department": "Logistics"
-  },
-  {
-    "lastname": "Ticala",
-    "firstname": "Richard",
-    "sss": "",
-    "department": "Engineering"
-  },
-  {
-    "lastname": "Garcia",
-    "firstname": "Caira Denise",
-    "sss": "",
-    "department": "Logistics"
-  },
-  {
-    "lastname": "Cruz",
-    "firstname": "Archie Byron",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Bonda",
-    "firstname": "Demae",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "De Lapaz",
-    "firstname": "Renzo Aeron",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Tosino",
-    "firstname": "Mark Leodell",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Suelto",
-    "firstname": "Rose",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Tabangay",
-    "firstname": "Lucila",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Sagaral",
-    "firstname": "Mc Aaron",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Del Mundo",
-    "firstname": "Mary May",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Banzon",
-    "firstname": "Rannie",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Malabanan",
-    "firstname": "Cindy Mae",
-    "sss": "",
-    "department": "IE"
-  },
-  {
-    "lastname": "Abante",
-    "firstname": "May Janne",
-    "sss": "",
-    "department": "Logistics"
-  },
-  {
-    "lastname": "Butaslac",
-    "firstname": "Madelene",
-    "sss": "",
-    "department": "Logistics"
-  },
-  {
-    "lastname": "Herrera",
-    "firstname": "Richard",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Villafuerte",
-    "firstname": "Aldrin",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Hernandez",
-    "firstname": "Renante",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Grumez",
-    "firstname": "Renemuel Xavier",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Eser",
-    "firstname": "Marc Anthony",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Javier",
-    "firstname": "Waldie",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Marqueses",
-    "firstname": "Ian Emil",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Calabia",
-    "firstname": "Eugene",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Encarnado",
-    "firstname": "Reymond",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Bogate",
-    "firstname": "Victor",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Gagala",
-    "firstname": "Novie",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Remo",
-    "firstname": "Jennes",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Parato",
-    "firstname": "Gerald",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Pancho",
-    "firstname": "Mou Quints",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Claveria",
-    "firstname": "Bernie",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Rongalerios",
-    "firstname": "Jonnel",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Umandap",
-    "firstname": "Ran Sherwin",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Baleña",
-    "firstname": "Mark Jerome",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Remojo",
-    "firstname": "Jaypee",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Pagurayan",
-    "firstname": "Jim",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Canania",
-    "firstname": "Rorry Rex",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Contreras",
-    "firstname": "Marc Christian",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Montesa",
-    "firstname": "Wilbert",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Arrogante",
-    "firstname": "Arjay",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Natividad",
-    "firstname": "Joanna",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Turano",
-    "firstname": "Julius",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Arceño",
-    "firstname": "Juliane Mark",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cenedoza",
-    "firstname": "Noverencio",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Parocha",
-    "firstname": "Ruvinson",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Tapia",
-    "firstname": "Mhay Ann",
-    "sss": "",
-    "department": "Site Logistics"
-  },
-  {
-    "lastname": "Digueño",
-    "firstname": "Mary Grace",
-    "sss": "",
-    "department": "Site Logistics"
-  },
-  {
-    "lastname": "Samiano",
-    "firstname": "Judy Ann",
-    "sss": "",
-    "department": "Site Logistics"
-  },
-  {
-    "lastname": "Fameronag",
-    "firstname": "Patrick Louie",
-    "sss": "",
-    "department": "Site Logistics"
-  },
-  {
-    "lastname": "Tatlongmaria",
-    "firstname": "Marvin",
-    "sss": "",
-    "department": "Site Logistics"
-  },
-  {
-    "lastname": "Rama",
-    "firstname": "Chrisrick",
-    "sss": "",
-    "department": "Site Logistics"
-  },
-  {
-    "lastname": "Iglesia",
-    "firstname": "Laila Mae",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Lontoc",
-    "firstname": "Kathleen",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Ruiz",
-    "firstname": "Jecko Ray",
-    "sss": "",
-    "department": "Engineering"
-  },
-  {
-    "lastname": "Vanguardia",
-    "firstname": "Dindo",
-    "sss": "0430427509",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Dizon",
-    "firstname": "Elna",
-    "sss": 3347522581,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Deangkinay",
-    "firstname": "Fe",
-    "sss": 3300095741,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Rea",
-    "firstname": "John Emmanuel",
-    "sss": "0424702557",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Sanchez, Jr.",
-    "firstname": "Luis",
-    "sss": 3387585258,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Yerro",
-    "firstname": "Martin Alan",
-    "sss": 3316971338,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Mamuad",
-    "firstname": "Joenel",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Furton",
-    "firstname": "Armando",
-    "sss": "0508448452",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Layague",
-    "firstname": "Cliff",
-    "sss": "0723281436",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Maraan",
-    "firstname": "Marie Korina",
-    "sss": 3410437370,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Elma",
-    "firstname": "Teodoro",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Dela Fuente",
-    "firstname": "Neil Patrick",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Avendaño",
-    "firstname": "Michael Eric",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Otero",
-    "firstname": "Jay Angelo",
-    "sss": 3413790001,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Gallego",
-    "firstname": "Jocel Mae",
-    "sss": "0723379018",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Sumugat, Jr.",
-    "firstname": "Solomon",
-    "sss": 3396950382,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Mendoza",
-    "firstname": "Sharlyn Mae",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Aguilar",
-    "firstname": "Precious",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Hernandez",
-    "firstname": "Victorino Jose",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Cuevas",
-    "firstname": "Diana Rose",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Aquino",
-    "firstname": "Ernie Patrick",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Corpuz",
-    "firstname": "Claridel",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Vidal",
-    "firstname": "Judith",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Diocera",
-    "firstname": "Maria Lalaine",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Prieto",
-    "firstname": "Margarita",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Reyes",
-    "firstname": "Loudylaine",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Espeleta",
-    "firstname": "Nicole Ann",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Sunga",
-    "firstname": "Emmaricel",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Labangco",
-    "firstname": "Aljon",
-    "sss": "0427749928",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Ona",
-    "firstname": "Leona Jane",
-    "sss": "0429398694",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Masangkay",
-    "firstname": "Mabelle",
-    "sss": "0417116066",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Nacua",
-    "firstname": "Maria Fe",
-    "sss": "0414479926",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Gino",
-    "firstname": "Maribeth",
-    "sss": 3353946067,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Ilagan",
-    "firstname": "Maricel",
-    "sss": 3310775365,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Guevarra",
-    "firstname": "Noemi",
-    "sss": "0421158395",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "De Chavez",
-    "firstname": "Angelica Joy",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Panganiban",
-    "firstname": "Jerica Lyn",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Comia",
-    "firstname": "Jan Daryl",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Pabellon",
-    "firstname": "Kim",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Andal",
-    "firstname": "Maria Fe",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Vidallo",
-    "firstname": "Darling",
-    "sss": 3335312240,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Abanilla",
-    "firstname": "Freddie",
-    "sss": "0407104826",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Caolboy",
-    "firstname": "Rubelyn",
-    "sss": "0419187763",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Las Pinas",
-    "firstname": "Rolando",
-    "sss": 3301127553,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Buhain",
-    "firstname": "Aleli Glaiza",
-    "sss": "0417092698",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Mendoza",
-    "firstname": "Art Vincent",
-    "sss": "0437293419",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Carandang",
-    "firstname": "Carmi",
-    "sss": 3423186977,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Terrible",
-    "firstname": "Fritzie Anne",
-    "sss": "0436390753",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Rancapan",
-    "firstname": "Grace",
-    "sss": 3354555923,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Felix",
-    "firstname": "Jocel Angelo",
-    "sss": 3439231191,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Aquiatan",
-    "firstname": "Jojit",
-    "sss": "0410320451",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Hadap",
-    "firstname": "Krista Sienna",
-    "sss": 3443807715,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Mercado",
-    "firstname": "Renee Veronica",
-    "sss": 3452449546,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Edem",
-    "firstname": "Zorayda",
-    "sss": 3345152270,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Arbolado",
-    "firstname": "Ronn Carlo",
-    "sss": 3467646130,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Valledor",
-    "firstname": "Elyzza Mae",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Jardinero",
-    "firstname": "Yazmin",
-    "sss": 3352851810,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Alcantara",
-    "firstname": "Arnel",
-    "sss": "",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Puntanar",
-    "firstname": "Iris Pandora",
-    "sss": "0435830502",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Marcellana",
-    "firstname": "Jennelyn",
-    "sss": "0437568801",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Carag",
-    "firstname": "Jennifer",
-    "sss": 3360828835,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Urbano",
-    "firstname": "Rosalinda",
-    "sss": "0612070583",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Marata",
-    "firstname": "Yanilet",
-    "sss": "0419867931",
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Bernales",
-    "firstname": "Neil Albert",
-    "sss": "",
-    "department": "Engineering"
-  },
-  {
-    "lastname": "Reyes",
-    "firstname": "Almar",
-    "sss": "",
-    "department": "Engineering"
-  },
-  {
-    "lastname": "Andres",
-    "firstname": "Aries",
-    "sss": "",
-    "department": "Engineering"
-  },
-  {
-    "lastname": "Pacate",
-    "firstname": "Marie Kristine Joy",
-    "sss": "",
-    "department": "Engineering"
-  },
-  {
-    "lastname": "Zapata",
-    "firstname": "Graham Russel",
-    "sss": "",
-    "department": "Engineering"
-  },
-  {
-    "lastname": "Alejo",
-    "firstname": "Anthony",
-    "sss": 3438361839,
-    "department": "Engineering"
-  },
-  {
-    "lastname": "Manguiat",
-    "firstname": "Gexter Bryan",
-    "sss": 3453766590,
-    "department": "Engineering"
-  },
-  {
-    "lastname": "Patawaran",
-    "firstname": "Loida",
-    "sss": "",
-    "department": "Executive Secretary"
-  },
-  {
-    "lastname": "Caingay",
-    "firstname": "Czarlene Anne",
-    "sss": "",
-    "department": "FIN"
-  },
-  {
-    "lastname": "Belgica",
-    "firstname": "Hazel Mae",
-    "sss": "",
-    "department": "FIN"
-  },
-  {
-    "lastname": "Juliano",
-    "firstname": "Gerard Joseph",
-    "sss": "",
-    "department": "HR"
-  },
-  {
-    "lastname": "Marasigan",
-    "firstname": "Joieme",
-    "sss": "",
-    "department": "IE"
-  },
-  {
-    "lastname": "Godilano",
-    "firstname": "Lloyd John",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Magnaye",
-    "firstname": "Jerome",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Brecinio",
-    "firstname": "Malcolm Brando",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Regasa",
-    "firstname": "Jonathan",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mangubat",
-    "firstname": "Disnhee Lyra",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Callos",
-    "firstname": "Christian Jay",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Osmeña",
-    "firstname": "Jan Alister",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Gocalin",
-    "firstname": "John Marvin",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Baclig",
-    "firstname": "Irma",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Andal",
-    "firstname": "Victor",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Aguinaldo",
-    "firstname": "Fritz John",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ramirez",
-    "firstname": "Jason Reiner",
-    "sss": "",
-    "department": "EHS"
-  },
-  {
-    "lastname": "Consuelo",
-    "firstname": "Leo-Mar",
-    "sss": "",
-    "department": "EHS"
-  },
-  {
-    "lastname": "Lalusin",
-    "firstname": "Madelyn",
-    "sss": "",
-    "department": "PPIC"
-  },
-  {
-    "lastname": "Tipan",
-    "firstname": "Shery Lyn",
-    "sss": "",
-    "department": "PPIC"
-  },
-  {
-    "lastname": "Ladimo",
-    "firstname": "Fervie Antonette",
-    "sss": 3455104859,
-    "department": "QA"
-  },
-  {
-    "lastname": "De Guzman",
-    "firstname": "Jhonard",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Domingo",
-    "firstname": "Pauline Luchelle",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Abuel",
-    "firstname": "Russel",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Villaruel",
-    "firstname": "Jerry",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Chingtoco",
-    "firstname": "Ulpius Schweitzer",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Santiago",
+    "lastname": "Asiones",
     "firstname": "John Kevin",
-    "sss": "0425400159",
-    "department": "Site Logistics"
-  },
-  {
-    "lastname": "Repancol",
-    "firstname": "Maria Theresa",
-    "sss": "0434911406",
-    "department": "Site Logistics"
-  },
-  {
-    "lastname": "Mendoza",
-    "firstname": "Marian",
-    "sss": "",
-    "department": "Site Logistics"
-  },
-  {
-    "lastname": "Matala",
-    "firstname": "Sheena Joy",
-    "sss": "",
-    "department": "Site Support"
-  },
-  {
-    "lastname": "Pamplona",
-    "firstname": "Kerwin Andrei",
-    "sss": "",
-    "department": "IE"
-  },
-  {
-    "lastname": "Canillas",
-    "firstname": "Maria Lourdes",
-    "sss": "",
-    "department": "PPIC"
-  },
-  {
-    "lastname": "Buyco",
-    "firstname": "Jasthine",
-    "sss": "",
-    "department": "Supply Planning"
-  },
-  {
-    "lastname": "Bulan",
-    "firstname": "Sheryll",
-    "sss": "",
-    "department": "Supply Planning"
-  },
-  {
-    "lastname": "Pablo",
-    "firstname": "Darlene Mae",
-    "sss": "",
-    "department": "Supply Planning"
-  },
-  {
-    "lastname": "Duay",
-    "firstname": "Michael",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Malibiran",
-    "firstname": "Albert",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Rosimo",
-    "firstname": "Harris",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Panopio",
-    "firstname": "Jeffrey",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Encarquez",
-    "firstname": "DJJ Rolf",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Villapando",
-    "firstname": "Kevin",
-    "sss": "",
-    "department": "Engineering"
-  },
-  {
-    "lastname": "Napiza",
-    "firstname": "Erold",
-    "sss": "",
-    "department": "Engineering"
-  },
-  {
-    "lastname": "Camañan",
-    "firstname": "Kenneth",
-    "sss": "",
-    "department": "Engineering"
-  },
-  {
-    "lastname": "Castillo",
-    "firstname": "Eivan Paul",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ramirez",
-    "firstname": "Bobby",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cudal",
-    "firstname": "Rondale",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Casabal",
-    "firstname": "Joel",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Alejandro",
-    "firstname": "Lance",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Buccat",
-    "firstname": "Gerry Niel",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Castillo",
-    "firstname": "Catherine",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Penasbo",
-    "firstname": "Ely Jay",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Asunto",
-    "firstname": "Mac Jason",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Macariola",
-    "firstname": "Marc Ryan",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mejino",
-    "firstname": "Ranilo",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Odasco",
-    "firstname": "Rio",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Rodela",
-    "firstname": "Jeffrey",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Chua",
-    "firstname": "Ralph Joseph",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Dalde",
-    "firstname": "Rick",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ratio",
-    "firstname": "Harold",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Blay",
-    "firstname": "Justine",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Padua",
-    "firstname": "Rafael",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Oligo",
-    "firstname": "Diomar",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Norbe",
-    "firstname": "Paulo",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cortez",
-    "firstname": "Rico",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Olaivar",
-    "firstname": "Roi",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Resusta",
-    "firstname": "Ervin",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Baal",
-    "firstname": "Mark Joseph",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Verdera",
-    "firstname": "Kristian Kim",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Aureada",
-    "firstname": "Jomar",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Encamina, Jr",
-    "firstname": "George",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Tindugan",
-    "firstname": "Jhon Carlo",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Reyes",
-    "firstname": "Ronel Matthew",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mayor",
-    "firstname": "Anselm",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Salindo",
-    "firstname": "Bien Joshua",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Vallecera",
-    "firstname": "Rodipol Francis",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Simbahan",
-    "firstname": "John Paul",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Hernandez",
-    "firstname": "Gendell",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Rayos",
-    "firstname": "Mark Joseph",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Manigo",
-    "firstname": "Jireh Amiel",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Dicen",
-    "firstname": "Jomar",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Galanida",
-    "firstname": "Edson",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Pellejo",
-    "firstname": "Jerson",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Gutierrez",
-    "firstname": "Edzel",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Lunar",
-    "firstname": "Niña",
-    "sss": "",
-    "department": "FIN"
-  },
-  {
-    "lastname": "Borres",
-    "firstname": "Brent Kenneth",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Limbo",
-    "firstname": "Kenneth",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ilagan",
-    "firstname": "Jake",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Coyoca",
-    "firstname": "Carlson Ray",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ruado",
-    "firstname": "Richard",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ureta",
-    "firstname": "Dan Lester",
-    "sss": "",
-    "department": "Engineering"
-  },
-  {
-    "lastname": "Manapul",
-    "firstname": "Kenneth",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Gomez",
-    "firstname": "Melvin Andre",
-    "sss": "",
-    "department": "PM Group"
-  },
-  {
-    "lastname": "Cariño",
-    "firstname": "Katherine",
-    "sss": 3410614326,
-    "department": "FIN"
-  },
-  {
-    "lastname": "Cupido",
-    "firstname": "Anthony Lois",
-    "sss": "",
-    "department": "Logistics"
-  },
-  {
-    "lastname": "Benedicto",
-    "firstname": "Roselyn Joy",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Jomantoc",
-    "firstname": "Joice Sopia",
-    "sss": "",
-    "department": "Logistics"
-  },
-  {
-    "lastname": "Paner",
-    "firstname": "Efren",
-    "sss": "0636548732",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Barite",
-    "firstname": "Fatima",
-    "sss": "0423272884",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Reoganis",
-    "firstname": "Glenn",
-    "sss": 3367097258,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Vega",
-    "firstname": "Maria Margarita Fe",
-    "sss": "0413913360",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Bronze",
-    "firstname": "Mary Ann",
-    "sss": 3413982107,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Enriquez",
-    "firstname": "Neil",
-    "sss": 3308167778,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Gonzales",
-    "firstname": "Nilda",
-    "sss": "0423050530",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Parinas",
-    "firstname": "Noel",
-    "sss": "0211805667",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Fortes",
-    "firstname": "Riza",
-    "sss": "0435642651",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Arboleda",
-    "firstname": "Michael-Angelo",
-    "sss": 3379576631,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Tamayo",
-    "firstname": "Sherwin",
-    "sss": 3459305968,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Umandap",
-    "firstname": "Geraldine",
-    "sss": 3465708290,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Deuda",
-    "firstname": "Xyrence",
-    "sss": "0242253039",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Bandelaria",
-    "firstname": "Marcelino",
-    "sss": 3357169277,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Bagalla, Jr.",
-    "firstname": "Tomas",
-    "sss": 3438096405,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Soriano",
-    "firstname": "Albert",
-    "sss": 3302656405,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Virgo",
-    "firstname": "Edgardo",
-    "sss": 3334064667,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Salen",
-    "firstname": "Edmundo",
-    "sss": 3341081976,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Legaspi",
-    "firstname": "Fermarc Edison",
-    "sss": "0118388070",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Magtaas, Jr.",
-    "firstname": "Florentino",
-    "sss": "0441015421",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Catimbang",
-    "firstname": "Gerald",
-    "sss": 3432571780,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Barola",
-    "firstname": "Jenrich Ronel",
-    "sss": "0441380350",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Tumambing",
-    "firstname": "Jeric",
-    "sss": "0441075144",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Matillano",
-    "firstname": "Joefred",
-    "sss": 3368699435,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Libao",
-    "firstname": "John Carlo",
-    "sss": 3479084492,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ella",
-    "firstname": "John Michael",
-    "sss": 3455318276,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Timbang",
-    "firstname": "John Paul",
-    "sss": 3474079075,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Castillo",
-    "firstname": "John Vincent",
-    "sss": "0441178300",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Dorado",
-    "firstname": "Jurdel",
-    "sss": "0427811898",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Vizcarra",
-    "firstname": "Melvin John",
-    "sss": 3407451301,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Polvos",
-    "firstname": "Nuelito",
-    "sss": 3375593469,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Asi",
-    "firstname": "Oliver",
-    "sss": "0422746418",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Leonardo",
-    "firstname": "Patrick",
-    "sss": 3347817953,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Nuynuyan",
-    "firstname": "Robert John",
-    "sss": 3351708977,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cruz",
-    "firstname": "Roberto",
-    "sss": 3317926492,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ignacio",
-    "firstname": "Ryan",
-    "sss": 3371827278,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Palma",
-    "firstname": "Jed",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Fabroa",
-    "firstname": "Dexter",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Macaraeg",
-    "firstname": "Donald",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Regalado",
-    "firstname": "John Robert",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Villaluz",
-    "firstname": "Jaykee John",
-    "sss": "0417905714",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Alvarez",
-    "firstname": "Jesus",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "De Vega",
-    "firstname": "Raymark",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Felecio",
-    "firstname": "Aldrin",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Roque",
-    "firstname": "Mark Christian",
-    "sss": "0233231219",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Capino",
-    "firstname": "Georich",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Medenilla",
-    "firstname": "Marwin",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ibarrola",
-    "firstname": "Glenford",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Viñas",
-    "firstname": "Renz Aaron",
-    "sss": "0427137776",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ansay",
-    "firstname": "Jaymar",
-    "sss": "0419831242",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Macatangay",
-    "firstname": "Rowen",
-    "sss": "0440361888",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Bacsa",
-    "firstname": "Mari John",
-    "sss": "0429255708",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Abalos",
-    "firstname": "Wilson",
-    "sss": "0423195767",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Roxas",
-    "firstname": "Aldrin",
-    "sss": "0426796752",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Banaag",
-    "firstname": "Angelo Edmun",
-    "sss": "0436916409",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Manganan",
-    "firstname": "Ar Jay",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Magnaye",
-    "firstname": "Charmine",
-    "sss": "0437387367",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Palacio",
-    "firstname": "Elaine Mae",
-    "sss": 3475488746,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Pojas",
-    "firstname": "Honeycar",
-    "sss": 3459520073,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Alib",
-    "firstname": "Jayvee John",
-    "sss": "0426574440",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Alastre",
-    "firstname": "John Michael",
-    "sss": "0435916633",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Macatangay",
-    "firstname": "Julius Ceasar",
-    "sss": "0413752356",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Pellejera",
-    "firstname": "Levi",
-    "sss": "0426881191",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Villanueva",
-    "firstname": "Roland",
-    "sss": "0427590928",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Dimaculangan",
-    "firstname": "Staniel",
-    "sss": "0429379299",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ricamata",
-    "firstname": "Mark Anthony",
-    "sss": "0426708724",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cabrera",
-    "firstname": "John Dave",
-    "sss": "0427508224",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Rufo",
-    "firstname": "Danilo",
-    "sss": "0227004300",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Da-Arol",
-    "firstname": "Joselito",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Olaez",
-    "firstname": "Aris",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cabe, Jr.",
-    "firstname": "Carlito",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mendoza",
-    "firstname": "Roy",
-    "sss": "0424022347",
-    "department": "MFG"
-  },
-  {
-    "lastname": "De Vera",
-    "firstname": "Ramel",
-    "sss": "0430717552",
-    "department": "MFG"
-  },
-  {
-    "lastname": "De Guzman",
-    "firstname": "Anthony",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "De Guia",
-    "firstname": "Jay Robin",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mendoza",
-    "firstname": "Mario",
-    "sss": "0411207777",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Felicidario",
-    "firstname": "Mark Anthony",
-    "sss": "0429847394",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Custorio, Jr.",
-    "firstname": "Yolando",
-    "sss": "0224186658",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Magcayan",
-    "firstname": "Patricia May",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Sanchez",
-    "firstname": "Neal Alvin",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cantos",
-    "firstname": "Ronald",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Gonzales",
-    "firstname": "Geriel",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ronquillo",
-    "firstname": "Lady Bell Marjorie",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Villapando",
-    "firstname": "Micalyn",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Faelmarin",
-    "firstname": "Rowena",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Liang",
-    "firstname": "Eugene",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Palenzuela",
-    "firstname": "Mary Joy",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Nava",
-    "firstname": "Nykol Kevin",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Padua",
-    "firstname": "John Mico",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Aguilos, Jr.",
-    "firstname": "Edwin",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Marcial",
-    "firstname": "Lawrence Beryl",
-    "sss": "0424009276",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ibarrientos",
-    "firstname": "Dianne Kristine",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Pastor",
-    "firstname": "Christian",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Malaca",
-    "firstname": "Emmanuel",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Batac",
-    "firstname": "John Thomas Emanuelle",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Riego",
-    "firstname": "Karen Joy",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Baucas",
-    "firstname": "Kzer Jay",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Balasabas",
-    "firstname": "Aljhun",
-    "sss": "0437418744",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cuyno, Jr.",
-    "firstname": "Asonsuelo",
-    "sss": 3313324865,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Vito",
-    "firstname": "Daimler Ding",
-    "sss": "0437435303",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Resurreccion",
-    "firstname": "Joseph",
-    "sss": "0427623934",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Matienzo",
-    "firstname": "Lester John",
-    "sss": "0420474054",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Barajas",
-    "firstname": "Nelson",
-    "sss": 3316229954,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Delos Santos",
-    "firstname": "Roel",
-    "sss": "0372553081",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Gerodias",
-    "firstname": "Alexis",
-    "sss": "0421498327",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ore",
-    "firstname": "John Robert",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Sulabo",
-    "firstname": "Ivan Jayvee",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cometa",
-    "firstname": "Chad Gaveriel",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Carrera",
-    "firstname": "Mark Christian",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Igot",
-    "firstname": "Angel",
-    "sss": "0613122391",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Dimla",
-    "firstname": "Edmund",
-    "sss": "0615473103",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Lano",
-    "firstname": "Rodolfo",
-    "sss": "0616163616",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Leopardez",
-    "firstname": "Richie",
-    "sss": "0811556387",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Bucad",
-    "firstname": "Kurt Russell",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Elbancol",
-    "firstname": "Jireh Ainsley",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Goya",
-    "firstname": "Marry Jane",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Fernandez",
-    "firstname": "Alfred",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Abad",
-    "firstname": "Monica",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Gamboa",
-    "firstname": "William Jayson",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Aclan",
-    "firstname": "Johnric",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Sinuto",
-    "firstname": "Joseph",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Barrios",
-    "firstname": "Joseph Khaizz",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Bantang",
-    "firstname": "Shaira",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Desuyo",
-    "firstname": "Geovanne",
-    "sss": "",
-    "department": "Engineering"
-  },
-  {
-    "lastname": "Suson",
-    "firstname": "Paul John",
-    "sss": "",
-    "department": "Engineering"
-  },
-  {
-    "lastname": "Tambis",
-    "firstname": "Danwil",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ferrer",
-    "firstname": "Alexis Mae",
-    "sss": "0441235942",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Tamayo",
-    "firstname": "Lilibeth",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Caguiñgin",
-    "firstname": "Elysse Ann",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Bontia",
-    "firstname": "Froilan",
-    "sss": "0618373543",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Depositario, Jr.",
-    "firstname": "Marcelino",
-    "sss": "0615388298",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Tajanlangit",
-    "firstname": "Gil",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Teves, Jr.",
-    "firstname": "Joseph Benje",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Dulfo",
-    "firstname": "Reeve",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Recio",
-    "firstname": "Abraham Rholand",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Estuita",
-    "firstname": "Allan Ray",
-    "sss": 3390981357,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Sollesta",
-    "firstname": "Barry",
-    "sss": "0733207581",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Chato",
-    "firstname": "Boniver",
-    "sss": 3363483675,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mobida",
-    "firstname": "Clifford",
-    "sss": "0634320101",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ajero",
-    "firstname": "Danmar",
-    "sss": "0436221738",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Arante",
-    "firstname": "Daryll Arnan",
-    "sss": "0632444364",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Villahermosa",
-    "firstname": "Dionisio",
-    "sss": "0372460116",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Valenciano",
-    "firstname": "Donnel",
-    "sss": 3369390092,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mariano",
-    "firstname": "Francis",
-    "sss": "0219274782",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Peñafiel",
-    "firstname": "Ivan",
-    "sss": "0736473600",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Eusebio",
-    "firstname": "Jasper Kei",
-    "sss": "0417624189",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Lontok",
-    "firstname": "Jay Norwel",
-    "sss": "0428767064",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Retrita",
-    "firstname": "Jeffre",
-    "sss": 3431248658,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Buenaventura, Jr.",
-    "firstname": "Jesus",
-    "sss": "0223981647",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Regalo",
-    "firstname": "John Byron",
-    "sss": "0423475209",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Samonte",
-    "firstname": "John Fritz",
-    "sss": "0418601088",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cortezano",
-    "firstname": "Jonathan",
-    "sss": "0427464119",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Taaca",
-    "firstname": "Juan",
-    "sss": "0372049142",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Evangelista",
-    "firstname": "Juan Bernardo",
-    "sss": "0424857978",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Organo",
-    "firstname": "Louie",
-    "sss": "0423015834",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mandigma",
-    "firstname": "Manuelo",
-    "sss": 3315843218,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mabute",
-    "firstname": "Mark",
-    "sss": "0420544159",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Lusuegro",
-    "firstname": "Mark Anlin",
-    "sss": "0507851943",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Grijalde",
-    "firstname": "Michael",
-    "sss": 3333532954,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Reyes, Jr.",
-    "firstname": "Perfecto",
-    "sss": "0434684238",
-    "department": "MFG"
-  },
-  {
-    "lastname": "De Borja",
-    "firstname": "Ramiro",
-    "sss": 3311535520,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Esquierdo",
-    "firstname": "Ray-An",
-    "sss": 3437378917,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Perez",
-    "firstname": "Reiniere",
-    "sss": "0414740684",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Coronel",
-    "firstname": "Reymundo",
-    "sss": 3309523560,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Bautista",
-    "firstname": "Richard",
-    "sss": 339767003,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Monteclaro",
-    "firstname": "Richard Mark",
-    "sss": "0422325062",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Pastor, Jr.",
-    "firstname": "Rodelio",
-    "sss": "0722228199",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Digdigan",
-    "firstname": "Sanny",
-    "sss": "0394771443",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Nagua",
-    "firstname": "Sherwin",
-    "sss": 3379668565,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Andal",
-    "firstname": "Tristan Jake",
-    "sss": 3450355687,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Regencia",
-    "firstname": "William",
-    "sss": 3394796467,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Bagui",
-    "firstname": "Jerome",
-    "sss": "0428265511",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Basco",
-    "firstname": "Kenny James",
-    "sss": "0441383221",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Camagong",
-    "firstname": "Josefina Christina",
-    "sss": "0429116177",
-    "department": "MFG"
-  },
-  {
-    "lastname": "dela Cruz",
-    "firstname": "Euclid",
-    "sss": "0424022444",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Dimaano",
-    "firstname": "Leonard",
-    "sss": "0435678395",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Lacaba",
-    "firstname": "Mark Kevin",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Villavicencio",
-    "firstname": "Paul Julius",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Eraga",
-    "firstname": "Edward",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Redula",
-    "firstname": "Hevir",
-    "sss": "0730628532",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Piso",
-    "firstname": "Junelle",
-    "sss": "0441110452",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Aldea",
-    "firstname": "Cydrick",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Solis",
-    "firstname": "Christina Georgina",
-    "sss": "0412266322",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Lopez",
-    "firstname": "Mendel",
-    "sss": "0414607125",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Montano",
-    "firstname": "Maria Riza",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Arrienda",
-    "firstname": "Catherine Anne",
-    "sss": "0426515991",
-    "department": "HR"
-  },
-  {
-    "lastname": "Portales",
-    "firstname": "Celerina",
-    "sss": "0432138582",
-    "department": "HR"
-  },
-  {
-    "lastname": "Ticzon",
-    "firstname": "Hengeline Joy",
-    "sss": 3410399308,
-    "department": "HR"
-  },
-  {
-    "lastname": "Escobar l",
-    "firstname": "Jay Mart",
-    "sss": "0429004425",
-    "department": "HR"
-  },
-  {
-    "lastname": "Montaner",
-    "firstname": "Kris Lorie Anne",
-    "sss": "0418611023",
-    "department": "HR"
-  },
-  {
-    "lastname": "Arboleda",
-    "firstname": "Krisna",
-    "sss": "0420998909",
-    "department": "HR"
-  },
-  {
-    "lastname": "Maalindog",
-    "firstname": "Marie Angelie",
-    "sss": 3411214107,
-    "department": "HR"
-  },
-  {
-    "lastname": "Reodica",
-    "firstname": "Mariel",
-    "sss": 3404286676,
-    "department": "HR"
-  },
-  {
-    "lastname": "Lirio",
-    "firstname": "Mayen",
-    "sss": 3356688746,
-    "department": "HR"
-  },
-  {
-    "lastname": "Habana",
-    "firstname": "Roselle",
-    "sss": 3464465725,
-    "department": "HR"
-  },
-  {
-    "lastname": "Judilla",
-    "firstname": "Stephannie",
-    "sss": "0626859635",
-    "department": "HR"
-  },
-  {
-    "lastname": "Menor",
-    "firstname": "Tabitha",
-    "sss": 3372158920,
-    "department": "HR"
-  },
-  {
-    "lastname": "Narzabal",
-    "firstname": "Anjeli",
-    "sss": "0423702972",
-    "department": "HR"
-  },
-  {
-    "lastname": "Layog",
-    "firstname": "Angela Rose",
-    "sss": "0416424092",
-    "department": "HR"
-  },
-  {
-    "lastname": "Repunte",
-    "firstname": "Ray",
-    "sss": "",
-    "department": "HR"
-  },
-  {
-    "lastname": "Manalang",
-    "firstname": "Elaine Joy",
-    "sss": 3479829372,
-    "department": "QA"
-  },
-  {
-    "lastname": "Orajay",
-    "firstname": "Abigail",
-    "sss": 3452996387,
-    "department": "QA"
-  },
-  {
-    "lastname": "Olguera",
-    "firstname": "Aldwin",
-    "sss": "0437457860",
-    "department": "QA"
-  },
-  {
-    "lastname": "Llave",
-    "firstname": "Analyn",
-    "sss": "0425553475",
-    "department": "QA"
-  },
-  {
-    "lastname": "Ronquillo",
-    "firstname": "Angelique",
-    "sss": 3414573366,
-    "department": "QA"
-  },
-  {
-    "lastname": "Abulencia",
-    "firstname": "Carolyn",
-    "sss": "0429590816",
-    "department": "QA"
-  },
-  {
-    "lastname": "Villarico",
-    "firstname": "Celerina",
-    "sss": "0619144315",
-    "department": "QA"
-  },
-  {
-    "lastname": "Cruz",
-    "firstname": "Christine Joy",
-    "sss": 3398066902,
-    "department": "QA"
-  },
-  {
-    "lastname": "Haboc",
-    "firstname": "Denice Anne",
-    "sss": 3462017777,
-    "department": "QA"
-  },
-  {
-    "lastname": "Ocampo",
-    "firstname": "Francia",
-    "sss": "0510384782",
-    "department": "QA"
-  },
-  {
-    "lastname": "Ocampo",
-    "firstname": "Geremy",
-    "sss": 3459517714,
-    "department": "QA"
-  },
-  {
-    "lastname": "Pono",
-    "firstname": "Ghennis",
-    "sss": "0437504328",
-    "department": "QA"
-  },
-  {
-    "lastname": "Tandoc",
-    "firstname": "Jelyn",
-    "sss": 3367198487,
-    "department": "QA"
-  },
-  {
-    "lastname": "Del Castillo",
-    "firstname": "Joanna Marie",
-    "sss": 3422407699,
-    "department": "QA"
-  },
-  {
-    "lastname": "Arceo",
-    "firstname": "John Carlo",
-    "sss": "0513144217",
-    "department": "QA"
-  },
-  {
-    "lastname": "Llaneta lll",
-    "firstname": "Jose",
-    "sss": "0412325894",
-    "department": "QA"
-  },
-  {
-    "lastname": "Leyson",
-    "firstname": "Josiefe",
-    "sss": "0616937923",
-    "department": "QA"
-  },
-  {
-    "lastname": "Corpuz",
-    "firstname": "Justin",
-    "sss": "0435973689",
-    "department": "QA"
-  },
-  {
-    "lastname": "Borja",
-    "firstname": "Keizz Sheene",
-    "sss": "0428965675",
-    "department": "QA"
-  },
-  {
-    "lastname": "Comia",
-    "firstname": "Kenn Arvin",
-    "sss": "0512640644",
-    "department": "QA"
-  },
-  {
-    "lastname": "Aquino",
-    "firstname": "Ma. Donna",
-    "sss": "0429664195",
-    "department": "QA"
-  },
-  {
-    "lastname": "Tenorio",
-    "firstname": "Ma. Francia",
-    "sss": "0427739158",
-    "department": "QA"
-  },
-  {
-    "lastname": "Pabellon",
-    "firstname": "Maria Madel",
-    "sss": "0425770199",
-    "department": "QA"
-  },
-  {
-    "lastname": "Umayam",
-    "firstname": "Michael Bryan",
-    "sss": "0125727792",
-    "department": "QA"
-  },
-  {
-    "lastname": "Gesmundo",
-    "firstname": "Patrick James",
-    "sss": "0119903222",
-    "department": "QA"
-  },
-  {
-    "lastname": "Tombaga",
-    "firstname": "Paula Jenine",
-    "sss": 3457917934,
-    "department": "QA"
-  },
-  {
-    "lastname": "Mariano",
-    "firstname": "Paulo",
-    "sss": "0412412671",
-    "department": "QA"
-  },
-  {
-    "lastname": "Abuzman",
-    "firstname": "Pearla",
-    "sss": "0424031406",
-    "department": "QA"
-  },
-  {
-    "lastname": "Lerio",
-    "firstname": "Raiza",
-    "sss": "0632678745",
-    "department": "QA"
-  },
-  {
-    "lastname": "Alilam",
-    "firstname": "Raquel Sarah",
-    "sss": "0426054368",
-    "department": "QA"
-  },
-  {
-    "lastname": "Almanza",
-    "firstname": "Regene",
-    "sss": "0437459758",
-    "department": "QA"
-  },
-  {
-    "lastname": "Gabatin",
-    "firstname": "Reymar",
-    "sss": "0437651776",
-    "department": "QA"
-  },
-  {
-    "lastname": "Hapi",
-    "firstname": "Rosalin",
-    "sss": 1010156985,
-    "department": "QA"
-  },
-  {
-    "lastname": "Ramos",
-    "firstname": "Ryan Jay",
-    "sss": "0437459703",
-    "department": "QA"
-  },
-  {
-    "lastname": "Baluyo",
-    "firstname": "Joyce Ann",
-    "sss": "0514421078",
-    "department": "QA"
-  },
-  {
-    "lastname": "Lajara",
-    "firstname": "Noemi",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Vibar",
-    "firstname": "Kaith Ann",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Garejo",
-    "firstname": "Nikki Rose",
-    "sss": "0429003109",
-    "department": "QA"
-  },
-  {
-    "lastname": "Alzona",
-    "firstname": "Geogette",
-    "sss": 3476979076,
-    "department": "QA"
-  },
-  {
-    "lastname": "Panganiban",
-    "firstname": "Jennilyn",
-    "sss": "0415952536",
-    "department": "QA"
-  },
-  {
-    "lastname": "Aguila",
-    "firstname": "John Joffer",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Bustamante",
-    "firstname": "Sherlene Lyda",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Ruiz",
-    "firstname": "Zaira Mae",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Palestroque",
-    "firstname": "Kim Brian",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Basig",
-    "firstname": "Ma. Janina",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Matta",
-    "firstname": "Adrienne Faith",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Diano",
-    "firstname": "John Andrew",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Abarquez",
-    "firstname": "Leonides",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Suazo",
-    "firstname": "Alaine",
-    "sss": 3438102865,
-    "department": "QA"
-  },
-  {
-    "lastname": "Escolano",
-    "firstname": "Arlie",
-    "sss": "0419812012",
-    "department": "Site Support"
-  },
-  {
-    "lastname": "Adriano",
-    "firstname": "Catherine",
-    "sss": "0407799943",
-    "department": "Site Support"
-  },
-  {
-    "lastname": "Noya",
-    "firstname": "Cristina",
-    "sss": "0371738674",
-    "department": "Site Support"
-  },
-  {
-    "lastname": "Canoy",
-    "firstname": "Engels",
-    "sss": "0635302364",
-    "department": "Site Support"
-  },
-  {
-    "lastname": "Gonzales",
-    "firstname": "Jacquelyn",
-    "sss": "0421078789",
-    "department": "Site Support"
-  },
-  {
-    "lastname": "Nonat",
-    "firstname": "Jerrie Lyn",
-    "sss": "0421336586",
-    "department": "Site Support"
-  },
-  {
-    "lastname": "Dysoco",
-    "firstname": "Marianne",
-    "sss": "0431142142",
-    "department": "Site Support"
-  },
-  {
-    "lastname": "Padrones",
-    "firstname": "May Ann",
-    "sss": "0633362937",
-    "department": "Site Support"
-  },
-  {
-    "lastname": "Pagilagan",
-    "firstname": "Mutya",
-    "sss": "0421970117",
-    "department": "Site Support"
-  },
-  {
-    "lastname": "Maranan",
-    "firstname": "Yellen",
-    "sss": "0414929722",
-    "department": "Site Support"
-  },
-  {
-    "lastname": "Maramot",
-    "firstname": "Sache",
-    "sss": "",
-    "department": "Supply Planning"
-  },
-  {
-    "lastname": "Orzo",
-    "firstname": "Paul John",
-    "sss": "",
-    "department": "Supply Planning"
-  },
-  {
-    "lastname": "Aala",
-    "firstname": "John Kenneth",
-    "sss": "",
-    "department": "Supply Planning"
-  },
-  {
-    "lastname": "Orbe",
-    "firstname": "Jayssa Jane",
-    "sss": "",
-    "department": "Supply Planning"
-  },
-  {
-    "lastname": "Esmana",
-    "firstname": "John Patrick",
-    "sss": "",
-    "department": "Supply Planning"
-  },
-  {
-    "lastname": "Lugar",
-    "firstname": "Krizzia",
-    "sss": "",
-    "department": "Supply Planning"
-  },
-  {
-    "lastname": "Hamut",
-    "firstname": "Noeme",
-    "sss": 3302339269,
-    "department": "Supply Chain"
-  },
-  {
-    "lastname": "Cobacha",
-    "firstname": "Adrian Mark",
-    "sss": 3400918621,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Catindig",
-    "firstname": "Chlaribelle",
-    "sss": "0420498519",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Que",
-    "firstname": "Jerwin",
-    "sss": "0426726311",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Magno",
-    "firstname": "Jonathan",
-    "sss": "0417340094",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Baclayon",
-    "firstname": "Lyssa",
-    "sss": "0436405279",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Catin",
-    "firstname": "Maria Kristela",
-    "sss": 3443314020,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Jongco",
-    "firstname": "Mark Josel",
-    "sss": "0427217586",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Olinares",
-    "firstname": "Maximo",
-    "sss": "0395631977",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Capunpon",
-    "firstname": "Nancy",
-    "sss": "0429014376",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Perez",
-    "firstname": "Princess Karessa",
-    "sss": "0425442146",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Amaba",
-    "firstname": "Ruth",
-    "sss": "0427322413",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Manaligod",
-    "firstname": "Cristine",
-    "sss": "0427165379",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Leynes",
-    "firstname": "Nienoel",
-    "sss": "0428298533",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Diana",
-    "firstname": "Alexander",
-    "sss": "0433550088",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Tompong",
-    "firstname": "Clarence",
-    "sss": 3378776209,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Delen",
-    "firstname": "Efraim",
-    "sss": "0423162745",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Amoroso",
-    "firstname": "Emmil Shanir",
-    "sss": 3391787039,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Nisperos",
-    "firstname": "Julius",
-    "sss": "0420240084",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Dela Cruz",
-    "firstname": "Laurence",
-    "sss": 3336756520,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Marata",
-    "firstname": "Raliegh",
-    "sss": 3361971503,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cedalla",
-    "firstname": "Marjhon",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Tamondong",
-    "firstname": "Jason",
-    "sss": "0225772168",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Borlagdan",
-    "firstname": "Arwen",
-    "sss": "0426813994",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Fernandez",
-    "firstname": "Joseph",
-    "sss": "0225429783",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Manrique",
-    "firstname": "Ricky",
-    "sss": "0507295910",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Macapala",
-    "firstname": "Vernon",
-    "sss": 3379876496,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Gamier",
-    "firstname": "Estefano",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ebora",
-    "firstname": "Dexter John",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Martinez",
-    "firstname": "Ken Reymart",
-    "sss": "0429049901",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Valdez",
-    "firstname": "Ferdinand",
-    "sss": 3321751365,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Untalan",
-    "firstname": "Ben Jeremiah",
-    "sss": "0439273657",
-    "department": "MFG"
+    "sss": ""
   },
   {
     "lastname": "Santos",
-    "firstname": "Alexander",
-    "sss": 3417027136,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Liquido",
-    "firstname": "Allan",
-    "sss": "0414294648",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Rodriguez",
-    "firstname": "Allan",
-    "sss": "0424253404",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Uy",
-    "firstname": "Angeline",
-    "sss": 3435614709,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Moreño",
-    "firstname": "Harby",
-    "sss": 3366764427,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Dazo",
-    "firstname": "John Joseph",
-    "sss": "0438093678",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Galan",
-    "firstname": "Leonil",
-    "sss": 3450707950,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Reodica",
-    "firstname": "Mark",
-    "sss": 3340016638,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Calise",
-    "firstname": "Noel",
-    "sss": "0413415266",
-    "department": "MFG"
-  },
-  {
-    "lastname": "De La Cruz",
-    "firstname": "Randolph Jun",
-    "sss": 3457335914,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Enano",
-    "firstname": "Regin",
-    "sss": "0407978162",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ligeralde",
-    "firstname": "Richard",
-    "sss": "0114928683",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mercado",
-    "firstname": "Rodel",
-    "sss": "0419722296",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Verzo",
-    "firstname": "Ryson",
-    "sss": "0424230197",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Balani",
-    "firstname": "Victor",
-    "sss": "0508868045",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ilagan, Jr.",
-    "firstname": "Virgilio",
-    "sss": "0510355164",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Gonzales",
-    "firstname": "John Paul",
-    "sss": "0423105760",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Eulatic",
-    "firstname": "Jeric",
-    "sss": "0435140881",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ladra",
-    "firstname": "Patric",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Lim",
-    "firstname": "Kenneth Charles",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Laureles",
-    "firstname": "Ricky",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Sevial",
-    "firstname": "Ricson",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Calado",
-    "firstname": "Rene",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Alvarez",
-    "firstname": "Jeffrey",
-    "sss": "0417074661",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Batang, Jr.",
-    "firstname": "Michael",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Dumanig, Jr.",
-    "firstname": "Joel",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Hernandez",
-    "firstname": "Carlo",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Magtanong",
-    "firstname": "Dandie",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cudia",
-    "firstname": "Charlie",
-    "sss": "0217290140",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Flor, Jr.",
-    "firstname": "Juanito",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ruelan",
-    "firstname": "Richard",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cena",
-    "firstname": "Melquiades",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mellina, Jr.",
-    "firstname": "Arthur",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Arellano",
-    "firstname": "Mar",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Sampang",
-    "firstname": "Mark Joseph",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Quintos",
-    "firstname": "Jonas James",
-    "sss": "",
-    "department": "MFG"
+    "firstname": "Maria Consuelo",
+    "sss": 374062826
   },
   {
     "lastname": "Reyes",
-    "firstname": "Herbert",
-    "sss": "0411782975",
-    "department": "MFG"
+    "firstname": "Arturo",
+    "sss": 3317751256
+  },
+  {
+    "lastname": "Lacuna",
+    "firstname": "Marites",
+    "sss": 3302444565
+  },
+  {
+    "lastname": "Subido",
+    "firstname": "Jose Alexander",
+    "sss": 3304274047
+  },
+  {
+    "lastname": "Mindanao",
+    "firstname": "Anthony Jonathan",
+    "sss": 382927979
+  },
+  {
+    "lastname": "Sogue",
+    "firstname": "Nina Ricci",
+    "sss": ""
+  },
+  {
+    "lastname": "Buenviaje",
+    "firstname": "Maripi",
+    "sss": ""
+  },
+  {
+    "lastname": "Jiao",
+    "firstname": "Alyssa Camille",
+    "sss": ""
+  },
+  {
+    "lastname": "Caramto",
+    "firstname": "Carl Rudolph",
+    "sss": 124073780
+  },
+  {
+    "lastname": "Rafol",
+    "firstname": "Eleonor",
+    "sss": ""
+  },
+  {
+    "lastname": "Umali",
+    "firstname": "Emmanuel",
+    "sss": 3351647339
+  },
+  {
+    "lastname": "Pasumbal",
+    "firstname": "Katherine",
+    "sss": 714240240
+  },
+  {
+    "lastname": "Luchico",
+    "firstname": "Maria Rochie",
+    "sss": 3371636388
+  },
+  {
+    "lastname": "Benedicto",
+    "firstname": "Genevieve",
+    "sss": 387257945
+  },
+  {
+    "lastname": "Nu�ez",
+    "firstname": "Mary Ellen",
+    "sss": 3318597707
+  },
+  {
+    "lastname": "Cortez",
+    "firstname": "Eriel",
+    "sss": 383422224
+  },
+  {
+    "lastname": "Nape",
+    "firstname": "Ronel",
+    "sss": 3306855794
+  },
+  {
+    "lastname": "Dominguez",
+    "firstname": "Jose Amado",
+    "sss": ""
+  },
+  {
+    "lastname": "Magdangan",
+    "firstname": "Winnie",
+    "sss": ""
+  },
+  {
+    "lastname": "Cerde�a",
+    "firstname": "Arrianne",
+    "sss": ""
+  },
+  {
+    "lastname": "Reyes",
+    "firstname": "Dominic Rowell",
+    "sss": ""
+  },
+  {
+    "lastname": "Aquino",
+    "firstname": "Mary Rose",
+    "sss": ""
+  },
+  {
+    "lastname": "Lau",
+    "firstname": "Ma. Adrea",
+    "sss": ""
+  },
+  {
+    "lastname": "Rubia",
+    "firstname": "Jocelyn",
+    "sss": 396812041
+  },
+  {
+    "lastname": "Que",
+    "firstname": "Kathy Lhyn",
+    "sss": ""
+  },
+  {
+    "lastname": "Tanmantiong",
+    "firstname": "Ernesto",
+    "sss": 362926990
+  },
+  {
+    "lastname": "Acosta",
+    "firstname": "Leila",
+    "sss": 3301663790
+  },
+  {
+    "lastname": "Santos",
+    "firstname": "Rhea",
+    "sss": 3352853436
+  },
+  {
+    "lastname": "Narciso",
+    "firstname": "Annabelle",
+    "sss": 381184894
+  },
+  {
+    "lastname": "Chanto",
+    "firstname": "Jan Meryll",
+    "sss": 3414446464
+  },
+  {
+    "lastname": "Tan Untiong",
+    "firstname": "William",
+    "sss": 332574518
+  },
+  {
+    "lastname": "King",
+    "firstname": "Azucena",
+    "sss": 350039381
+  },
+  {
+    "lastname": "Flores",
+    "firstname": "Dennis",
+    "sss": 609086836
+  },
+  {
+    "lastname": "Pinugu",
+    "firstname": "Jerome",
+    "sss": 3385611014
+  },
+  {
+    "lastname": "Tan",
+    "firstname": "Juanito",
+    "sss": 3331711832
+  },
+  {
+    "lastname": "Arce�o",
+    "firstname": "Katrina Joyce",
+    "sss": 3379792619
+  },
+  {
+    "lastname": "Del Rosario",
+    "firstname": "Julie Fe",
+    "sss": 505458979
+  },
+  {
+    "lastname": "Guevarra",
+    "firstname": "Soledad",
+    "sss": 3308501431
+  },
+  {
+    "lastname": "Sumanga",
+    "firstname": "Maria Christina",
+    "sss": 3416517760
+  },
+  {
+    "lastname": "Tan",
+    "firstname": "Michelle",
+    "sss": 3398078097
+  },
+  {
+    "lastname": "Limin",
+    "firstname": "Arnold",
+    "sss": 3356723083
+  },
+  {
+    "lastname": "Salvatierra",
+    "firstname": "Rose Anne",
+    "sss": 226749585
+  },
+  {
+    "lastname": "Dela Cruz",
+    "firstname": "Charmagne",
+    "sss": 3441705550
+  },
+  {
+    "lastname": "Medina",
+    "firstname": "Julie Anne",
+    "sss": 3372903641
+  },
+  {
+    "lastname": "Arabit",
+    "firstname": "Mariz",
+    "sss": ""
+  },
+  {
+    "lastname": "Anduyon",
+    "firstname": "Sheena Mae",
+    "sss": 3415389368
+  },
+  {
+    "lastname": "Yumang",
+    "firstname": "Mary Gladys",
+    "sss": 3459773862
+  },
+  {
+    "lastname": "Tan",
+    "firstname": "Patricia Bernice",
+    "sss": ""
+  },
+  {
+    "lastname": "Guisando",
+    "firstname": "Rochelle Anne",
+    "sss": 3437175576
+  },
+  {
+    "lastname": "Comia",
+    "firstname": "Romulo",
+    "sss": 3371874179
+  },
+  {
+    "lastname": "Natalio",
+    "firstname": "Rosalie",
+    "sss": 3307700958
+  },
+  {
+    "lastname": "Comoda",
+    "firstname": "Editha",
+    "sss": 3306809119
+  },
+  {
+    "lastname": "Mojar",
+    "firstname": "Marily",
+    "sss": 3325034114
+  },
+  {
+    "lastname": "Caballes",
+    "firstname": "Darlene",
+    "sss": 3439010778
+  },
+  {
+    "lastname": "Eusuya",
+    "firstname": "Emmalyn Camille",
+    "sss": 3455092806
+  },
+  {
+    "lastname": "Abril",
+    "firstname": "Crystal Kc",
+    "sss": ""
+  },
+  {
+    "lastname": "De Leon",
+    "firstname": "Selina",
+    "sss": ""
+  },
+  {
+    "lastname": "Molera",
+    "firstname": "Sheryl Anne",
+    "sss": 3398687158
+  },
+  {
+    "lastname": "Villaruel",
+    "firstname": "Ridel",
+    "sss": 3466182844
+  },
+  {
+    "lastname": "Gamboa",
+    "firstname": "Kristyl Joy",
+    "sss": 3404276628
+  },
+  {
+    "lastname": "Salvador",
+    "firstname": "Amelita",
+    "sss": 3387078820
+  },
+  {
+    "lastname": "Gertes",
+    "firstname": "Normita",
+    "sss": 3331297518
+  },
+  {
+    "lastname": "Baysa",
+    "firstname": "Ysmael",
+    "sss": 342282191
+  },
+  {
+    "lastname": "Tuason",
+    "firstname": "Marie Andrea",
+    "sss": ""
+  },
+  {
+    "lastname": "Mayorga",
+    "firstname": "Neshren",
+    "sss": 3434801212
+  },
+  {
+    "lastname": "Ahmed",
+    "firstname": "Katherine",
+    "sss": 3374686623
+  },
+  {
+    "lastname": "Santiago",
+    "firstname": "Sharlene Karesse",
+    "sss": 3443048396
+  },
+  {
+    "lastname": "Trespeses",
+    "firstname": "Marian Alysa",
+    "sss": 3432740919
+  },
+  {
+    "lastname": "Buentipo",
+    "firstname": "Emil Jon",
+    "sss": 3448518520
+  },
+  {
+    "lastname": "Bagaoisan",
+    "firstname": "Mark Benjie",
+    "sss": 3422425794
+  },
+  {
+    "lastname": "Montes",
+    "firstname": "Dianne Camille",
+    "sss": 3436078755
+  },
+  {
+    "lastname": "Alapar",
+    "firstname": "Rizza Mei",
+    "sss": 3433124628
+  },
+  {
+    "lastname": "Santos",
+    "firstname": "Margarita",
+    "sss": 385071217
+  },
+  {
+    "lastname": "Hera�a",
+    "firstname": "Shane",
+    "sss": 3441802327
+  },
+  {
+    "lastname": "Tungol",
+    "firstname": "Nonicar",
+    "sss": 3313796202
+  },
+  {
+    "lastname": "Miranda",
+    "firstname": "Cheryllgrace",
+    "sss": 150508626
+  },
+  {
+    "lastname": "Lacap",
+    "firstname": "Lara Carmella",
+    "sss": 3420314661
+  },
+  {
+    "lastname": "Villa",
+    "firstname": "Abigail",
+    "sss": 437848958
+  },
+  {
+    "lastname": "Punongbayan",
+    "firstname": "Ann Michelle",
+    "sss": 3362709978
+  },
+  {
+    "lastname": "Repalda",
+    "firstname": "Jose",
+    "sss": 3344519487
+  },
+  {
+    "lastname": "Roxas",
+    "firstname": "Marie Anjanette",
+    "sss": 3466139622
+  },
+  {
+    "lastname": "Peralta, Jr.",
+    "firstname": "Maximino",
+    "sss": 3308343301
+  },
+  {
+    "lastname": "Guevara",
+    "firstname": "Monique",
+    "sss": 3441746933
+  },
+  {
+    "lastname": "Lopez",
+    "firstname": "Myla",
+    "sss": 3383358447
+  },
+  {
+    "lastname": "Alcantara",
+    "firstname": "Rodel",
+    "sss": 3301124873
+  },
+  {
+    "lastname": "Rejano",
+    "firstname": "Vladimir",
+    "sss": 3323542530
+  },
+  {
+    "lastname": "Tan",
+    "firstname": "Jerry",
+    "sss": ""
+  },
+  {
+    "lastname": "Mora",
+    "firstname": "Meliza",
+    "sss": 3388265959
+  },
+  {
+    "lastname": "Tan Caktiong",
+    "firstname": "Tony",
+    "sss": 332290342
+  },
+  {
+    "lastname": "Ebero",
+    "firstname": "Cristopher Marion",
+    "sss": ""
+  },
+  {
+    "lastname": "Natividad",
+    "firstname": "Aileen",
+    "sss": 3334847295
+  },
+  {
+    "lastname": "Sianson",
+    "firstname": "Salmae Jane",
+    "sss": ""
+  },
+  {
+    "lastname": "Kim",
+    "firstname": "Cathleen June",
+    "sss": ""
+  },
+  {
+    "lastname": "Zamudio",
+    "firstname": "Karia Rosalyne",
+    "sss": ""
+  },
+  {
+    "lastname": "Puen",
+    "firstname": "Christopher Edward",
+    "sss": ""
+  },
+  {
+    "lastname": "Reyes",
+    "firstname": "Ron Christopher",
+    "sss": ""
   },
   {
     "lastname": "Bernaldez",
     "firstname": "Abegail",
-    "sss": "",
-    "department": "MFG"
+    "sss": ""
   },
   {
-    "lastname": "Villarino",
-    "firstname": "Aldwin Joe",
-    "sss": "0428807364",
-    "department": "MFG"
+    "lastname": "Barrientos",
+    "firstname": "Ernani",
+    "sss": ""
   },
   {
-    "lastname": "Lucero",
-    "firstname": "Susan",
-    "sss": "",
-    "department": "MFG"
+    "lastname": "Mi�ana, Jr.",
+    "firstname": "Jose Ma.",
+    "sss": 383936228
   },
   {
-    "lastname": "Salisi",
-    "firstname": "Abegail",
-    "sss": 3365930948,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Sanchez",
-    "firstname": "Ann Marie",
-    "sss": "0617285454",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Panlilio",
-    "firstname": "Joedith Laurice",
-    "sss": 3399959979,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Vargas",
-    "firstname": "Maricar",
-    "sss": "0429294581",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Bunda",
-    "firstname": "Sharon Rose",
-    "sss": "0412037014",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ramos",
-    "firstname": "Reyjinia Sarah",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cadag",
-    "firstname": "Jennica",
-    "sss": "0428838485",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Duma",
-    "firstname": "Efrelyn",
-    "sss": "0423760419",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mayuga",
-    "firstname": "Renilyn",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Pataueg",
-    "firstname": "Mary Grace",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Enriquez",
-    "firstname": "Jeffrey",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Fideles",
-    "firstname": "Daryljun",
-    "sss": "0817838025",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Añora",
-    "firstname": "Arnulfo",
-    "sss": "0609656554",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Hortelano",
-    "firstname": "Herrah",
-    "sss": "0635927257",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Longos",
-    "firstname": "Ivy",
-    "sss": "0813357571",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Teves",
-    "firstname": "Kiert",
-    "sss": "0632446210",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cogtas",
-    "firstname": "Marc Louis",
-    "sss": "0617810191",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Grandea",
-    "firstname": "Mark Anthony",
-    "sss": "0174467769",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Hermoso",
-    "firstname": "Keneth",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Obon",
-    "firstname": "Fredritz Gil",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Leopoldo",
-    "firstname": "Robert Dean",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cuya",
-    "firstname": "Erwin",
-    "sss": "",
-    "department": "MFG"
+    "lastname": "Lota",
+    "firstname": "Merilee Lorraine",
+    "sss": ""
   },
   {
     "lastname": "Magat",
-    "firstname": "Jimmy",
-    "sss": "",
-    "department": "MFG"
+    "firstname": "Ruth Chrissa",
+    "sss": ""
   },
   {
-    "lastname": "Aclan",
-    "firstname": "Alphaeus",
-    "sss": "0440079578",
-    "department": "MFG"
+    "lastname": "Sacidon",
+    "firstname": "Alec Renzo",
+    "sss": ""
   },
   {
-    "lastname": "Calucin",
-    "firstname": "Arnel",
-    "sss": "",
-    "department": "MFG"
+    "lastname": "Palena",
+    "firstname": "Gillian Mark",
+    "sss": ""
   },
   {
-    "lastname": "Closa",
-    "firstname": "Christian",
-    "sss": "0422201322",
-    "department": "MFG"
+    "lastname": "Sy",
+    "firstname": "Michelle Aubrey",
+    "sss": ""
   },
   {
-    "lastname": "Adam",
-    "firstname": "Elven John",
-    "sss": "0433281438",
-    "department": "MFG"
+    "lastname": "Bonita",
+    "firstname": "Rochelle Jehanne Mae",
+    "sss": ""
   },
   {
-    "lastname": "Magsico, Jr.",
-    "firstname": "Generoso",
-    "sss": 3316685776,
-    "department": "MFG"
+    "lastname": "Ang",
+    "firstname": "Cho Sit",
+    "sss": ""
   },
   {
-    "lastname": "Servidad",
-    "firstname": "John King",
-    "sss": "0940315826",
-    "department": "MFG"
+    "lastname": "Joson",
+    "firstname": "Carlo Marx",
+    "sss": 3372382097
   },
   {
-    "lastname": "Duguran",
-    "firstname": "John Mari",
-    "sss": "0433796321",
-    "department": "MFG"
+    "lastname": "Tan",
+    "firstname": "Madelaine",
+    "sss": 3330860360
   },
   {
-    "lastname": "Llamoso",
-    "firstname": "Jordan",
-    "sss": "0418588211",
-    "department": "MFG"
+    "lastname": "Noblezada",
+    "firstname": "Jennelle",
+    "sss": ""
   },
   {
-    "lastname": "Macasaquit",
-    "firstname": "Jose Francis",
-    "sss": "0215357072",
-    "department": "MFG"
+    "lastname": "Felix",
+    "firstname": "Janice",
+    "sss": ""
   },
   {
-    "lastname": "Perez",
-    "firstname": "Jun-jun",
-    "sss": "0441359255",
-    "department": "MFG"
+    "lastname": "Allen",
+    "firstname": "Samantha Jane",
+    "sss": ""
   },
   {
-    "lastname": "Bagay",
-    "firstname": "Leocyl",
-    "sss": 3405147455,
-    "department": "MFG"
+    "lastname": "Borromeo",
+    "firstname": "Paul John",
+    "sss": 3437431540
   },
   {
-    "lastname": "Salinas",
-    "firstname": "Manuel",
-    "sss": "0632444335",
-    "department": "MFG"
+    "lastname": "Mariano",
+    "firstname": "Mary Denelle",
+    "sss": ""
   },
   {
-    "lastname": "Escobal",
-    "firstname": "Marz",
-    "sss": 3422420401,
-    "department": "MFG"
+    "lastname": "Bautista",
+    "firstname": "Charlene Anne",
+    "sss": 3419425053
   },
   {
-    "lastname": "Baliwag",
-    "firstname": "Neriel",
-    "sss": "0423810903",
-    "department": "MFG"
+    "lastname": "Eroles",
+    "firstname": "Anajean",
+    "sss": 3397558026
   },
   {
-    "lastname": "Vicente",
-    "firstname": "Ramil",
-    "sss": 3302166513,
-    "department": "MFG"
+    "lastname": "Borlongan",
+    "firstname": "Maria Diana",
+    "sss": ""
   },
   {
-    "lastname": "Blaza",
-    "firstname": "Renel",
-    "sss": "0415896605",
-    "department": "MFG"
+    "lastname": "Policar",
+    "firstname": "Romeo",
+    "sss": ""
   },
   {
-    "lastname": "Nario",
-    "firstname": "Rodel",
-    "sss": "0219507776",
-    "department": "MFG"
+    "lastname": "Vinta",
+    "firstname": "Andrea",
+    "sss": 3432203032
   },
   {
-    "lastname": "Lacquio",
-    "firstname": "Wedigardo",
-    "sss": 3311666156,
-    "department": "MFG"
+    "lastname": "Medrana",
+    "firstname": "Johm Emmanuel",
+    "sss": ""
   },
   {
-    "lastname": "Binalla",
-    "firstname": "Wilzen Paolo",
-    "sss": "0420190864",
-    "department": "MFG"
+    "lastname": "Tagamolila",
+    "firstname": "Leah Mae",
+    "sss": 3312119194
   },
   {
-    "lastname": "Castillo",
-    "firstname": "Jayson-Rey",
-    "sss": "",
-    "department": "MFG"
+    "lastname": "Supetran",
+    "firstname": "Isadora",
+    "sss": 3369966552
   },
   {
-    "lastname": "Andal",
-    "firstname": "Aldwin",
-    "sss": "0419774503",
-    "department": "MFG"
+    "lastname": "Rabino",
+    "firstname": "Alyssa Marie",
+    "sss": ""
   },
   {
-    "lastname": "Anonas",
-    "firstname": "Arnold",
-    "sss": "0506639454",
-    "department": "MFG"
+    "lastname": "Estiaga",
+    "firstname": "Catherine",
+    "sss": 414935444
   },
   {
-    "lastname": "Palomares",
-    "firstname": "Christopher",
-    "sss": 3309565667,
-    "department": "MFG"
+    "lastname": "Enriquez",
+    "firstname": "Lazaro",
+    "sss": 3324834726
   },
   {
-    "lastname": "Jalandoni",
-    "firstname": "Jaymarie",
-    "sss": "0433544421",
-    "department": "MFG"
+    "lastname": "Roa",
+    "firstname": "Clea Jean",
+    "sss": 728807527
   },
   {
-    "lastname": "Reyes",
-    "firstname": "Johnny Liton",
-    "sss": "0422355346",
-    "department": "MFG"
+    "lastname": "Yusoo",
+    "firstname": "Christine",
+    "sss": 3334349162
   },
   {
-    "lastname": "Exconde",
-    "firstname": "Julius",
-    "sss": "0436018336",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Guntinas",
-    "firstname": "Rene",
-    "sss": 3377864743,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Baugbog",
-    "firstname": "April Love",
-    "sss": "0633162674",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Bacani",
-    "firstname": "Arlene",
-    "sss": "0425850356",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Bucio",
-    "firstname": "Arnel",
-    "sss": "0814353079",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Credo",
-    "firstname": "Herma Niña",
-    "sss": 3372856413,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Asi",
-    "firstname": "John Mark",
-    "sss": "0428849199",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Lataquin",
-    "firstname": "Joy",
-    "sss": "0385886509",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Gloria",
-    "firstname": "Lemuel",
-    "sss": "0923858591",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Catibog, Jr.",
-    "firstname": "Lorenzo",
-    "sss": "0409703584",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Nario",
-    "firstname": "Maria Felisa",
-    "sss": "0411689544",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Malaluan",
-    "firstname": "Nancy",
-    "sss": "0437596527",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cruz",
-    "firstname": "Ronaldo",
-    "sss": 3350829899,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Telmo",
-    "firstname": "Roselyn",
-    "sss": 3319530174,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mabanto",
-    "firstname": "Bernhard",
-    "sss": "0439717249",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Sumague",
-    "firstname": "John Cedrick",
-    "sss": "0437462981",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Alimagno ll",
-    "firstname": "Mario",
-    "sss": "0420992756",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Garcia",
-    "firstname": "Benjie Mar",
-    "sss": "0431246268",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ombi-on",
-    "firstname": "Andro",
-    "sss": 3421814380,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mangawang, Jr.",
-    "firstname": "Antonio",
-    "sss": 3357094465,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mateo, Jr.",
-    "firstname": "Arcadio",
-    "sss": 3379604888,
-    "department": "MFG"
-  },
-  {
-    "lastname": "De Ocampo",
-    "firstname": "Benjamin",
-    "sss": "0439832292",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Soriano",
-    "firstname": "Benjie",
-    "sss": "0916542762",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Delos Santos",
-    "firstname": "Gerry",
-    "sss": 3304753270,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Angeles",
-    "firstname": "Jansen",
-    "sss": "0225823635",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Pajares",
-    "firstname": "Karl",
-    "sss": "0423764415",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Eje",
-    "firstname": "Lucilo",
-    "sss": 3384044666,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Macatangay",
-    "firstname": "Paolo",
-    "sss": "0440079361",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Suarez",
-    "firstname": "Zernan",
-    "sss": 3449277637,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Laborte",
-    "firstname": "Alvin",
-    "sss": "0438690419",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Brual",
-    "firstname": "Ammiel Kit",
-    "sss": "0441479999",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Salazar",
-    "firstname": "Clide",
-    "sss": "0432911880",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Oropieza, Jr.",
-    "firstname": "Daniel",
-    "sss": "0437387406",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Castillo",
-    "firstname": "Lino",
-    "sss": "0424915661",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Pitogo",
-    "firstname": "Mark Ian",
-    "sss": "0439377304",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Maquiñana",
-    "firstname": "Ramil",
-    "sss": 3370317213,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Bobier, Jr.",
-    "firstname": "Senen",
-    "sss": "0439304801",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Lobredo lll",
-    "firstname": "Wilfredo",
-    "sss": "0419759638",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Garcia",
-    "firstname": "Christian Laettner",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Morales",
-    "firstname": "Alex",
-    "sss": "0615438915",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Quiachon",
-    "firstname": "Geozep Issachar",
-    "sss": "0825509401",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Genelaso",
-    "firstname": "Henrich William",
-    "sss": "0637998682",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Pitogo",
-    "firstname": "Joseph Robin",
-    "sss": "0623123597",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mendez",
-    "firstname": "Richard",
-    "sss": "0614404092",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Bayno",
-    "firstname": "Rodney",
-    "sss": "0641547016",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Amante",
-    "firstname": "Orven",
-    "sss": "0421766745",
-    "department": "PM Group"
-  },
-  {
-    "lastname": "Capillanes",
-    "firstname": "Arvin",
-    "sss": 3478724180,
-    "department": "PM Group"
-  },
-  {
-    "lastname": "Quiminiano",
-    "firstname": "Jeanky Lae",
-    "sss": "0427619935",
-    "department": "PM Group"
-  },
-  {
-    "lastname": "Bonifacio",
-    "firstname": "Jeremy",
-    "sss": "0441229343",
-    "department": "PM Group"
-  },
-  {
-    "lastname": "Tumbaga",
-    "firstname": "Johara",
-    "sss": "0440823533",
-    "department": "PM Group"
-  },
-  {
-    "lastname": "Ederoso",
-    "firstname": "Sarah",
-    "sss": "0423183216",
-    "department": "PM Group"
-  },
-  {
-    "lastname": "Cornista",
-    "firstname": "Viviene",
-    "sss": 3471088001,
-    "department": "PM Group"
-  },
-  {
-    "lastname": "De Ocampo",
-    "firstname": "Aristotle",
-    "sss": "",
-    "department": "PM Group"
-  },
-  {
-    "lastname": "Mapacpac",
-    "firstname": "Nestor",
-    "sss": "0424261124",
-    "department": "PM Group"
-  },
-  {
-    "lastname": "Grado",
-    "firstname": "Donnalyn",
-    "sss": "",
-    "department": "PM Group"
-  },
-  {
-    "lastname": "Huelgas",
-    "firstname": "Cipriano",
-    "sss": "",
-    "department": "PM Group"
-  },
-  {
-    "lastname": "Mariñas",
-    "firstname": "Lyzanie",
-    "sss": "0413820929",
-    "department": "PM Group"
-  },
-  {
-    "lastname": "Ayad",
-    "firstname": "Edwin",
-    "sss": "0386210132",
-    "department": "QA"
-  },
-  {
-    "lastname": "Ocfemia",
-    "firstname": "Mark Joseph",
-    "sss": "0512641148",
-    "department": "QA"
-  },
-  {
-    "lastname": "Angad",
-    "firstname": "Deborah",
-    "sss": "0436482865",
-    "department": "QA"
-  },
-  {
-    "lastname": "Macapagal",
-    "firstname": "Hannah",
-    "sss": 3477291601,
-    "department": "QA"
-  },
-  {
-    "lastname": "De Los Reyes",
-    "firstname": "Joko",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Baliwag",
-    "firstname": "Junel",
-    "sss": "0441300453",
-    "department": "QA"
-  },
-  {
-    "lastname": "Gloriani",
-    "firstname": "Kathelyn",
-    "sss": 3461800338,
-    "department": "QA"
-  },
-  {
-    "lastname": "Abel",
-    "firstname": "Madlyn",
-    "sss": "0427005442",
-    "department": "QA"
-  },
-  {
-    "lastname": "Paclibare",
-    "firstname": "Phyllis Anne",
-    "sss": 3478350101,
-    "department": "QA"
-  },
-  {
-    "lastname": "Lagazo",
-    "firstname": "Caroline",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Briñas",
-    "firstname": "John Rey",
-    "sss": 3476514486,
-    "department": "QA"
-  },
-  {
-    "lastname": "Gonzales",
-    "firstname": "April Joy",
-    "sss": "0438045886",
-    "department": "QA"
-  },
-  {
-    "lastname": "Fidel",
-    "firstname": "Marc Titus",
-    "sss": 3439336245,
-    "department": "QA"
-  },
-  {
-    "lastname": "Angeles",
-    "firstname": "Danicalyn",
-    "sss": "042248694",
-    "department": "QA"
-  },
-  {
-    "lastname": "Laude",
-    "firstname": "Reina Angelene",
-    "sss": "0429213711",
-    "department": "QA"
-  },
-  {
-    "lastname": "Calingasan",
-    "firstname": "John Paul",
-    "sss": 3455046519,
-    "department": "QA"
-  },
-  {
-    "lastname": "Paguio",
-    "firstname": "Jeane",
-    "sss": "",
-    "department": "QA"
-  },
-  {
-    "lastname": "Gamlanga",
-    "firstname": "Al",
-    "sss": 3356602191,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Casabuena",
-    "firstname": "Allen Paul",
-    "sss": "0426071590",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Castillo",
-    "firstname": "Alvin",
-    "sss": "0724782248",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ebreo",
-    "firstname": "Arnel",
-    "sss": "0438035524",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ongkiatco",
-    "firstname": "Christopher Cedric",
-    "sss": "0427064713",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Lumbres",
-    "firstname": "Dennis",
-    "sss": "0430417483",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mendoza",
-    "firstname": "Elmark",
-    "sss": "0428951155",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Aure",
-    "firstname": "Gregorio",
-    "sss": 3343896392,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mayor",
-    "firstname": "Jameel",
-    "sss": 346876977,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Camposano",
-    "firstname": "Jay",
-    "sss": "0427165256",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ortiz",
-    "firstname": "Jayson",
-    "sss": "0239542672",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Populi",
-    "firstname": "Jhon Elurde",
-    "sss": "0441255362",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Delos Santos",
-    "firstname": "Jimmy",
-    "sss": "0225375277",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Casabuena",
-    "firstname": "Joey",
-    "sss": 3325970090,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Alcantara",
-    "firstname": "Joshua Phete",
-    "sss": "0437820206",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Aala",
-    "firstname": "Kenneth",
-    "sss": "0427312517",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mocorro, Jr.",
-    "firstname": "Luciano",
-    "sss": 3316516010,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Yude",
-    "firstname": "Mike Lee",
-    "sss": "0729109826",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Suario",
-    "firstname": "Rhinoler",
-    "sss": "0424150125",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Rayos",
-    "firstname": "Ronnie",
-    "sss": "0427812305",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Jegillos",
-    "firstname": "Rowan Carlo",
-    "sss": "0508426681",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cantal",
-    "firstname": "Vladimir Rhyll",
-    "sss": "0437714600",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Llorin",
-    "firstname": "Walton",
-    "sss": "0504224366",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Macatangay",
-    "firstname": "Wilson",
-    "sss": "0418788545",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Lapore",
-    "firstname": "Cris John",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Barin",
-    "firstname": "Aaron",
-    "sss": "0439317652",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ola",
-    "firstname": "Arjay",
-    "sss": 3428789175,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Panillon, Jr.",
-    "firstname": "Gregorio",
-    "sss": "0626937324",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Tenorio, Jr.",
-    "firstname": "Hector",
-    "sss": "0435823292",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Parayno",
-    "firstname": "John Paulo",
-    "sss": "0441352922",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cepriano",
-    "firstname": "Leo",
-    "sss": "0722288605",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Macalalad",
-    "firstname": "Marlon",
-    "sss": 3478381484,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Caringal",
-    "firstname": "Nelson",
-    "sss": "0437447427",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cuaterno",
-    "firstname": "Allan Brando",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Laflores, Jr",
-    "firstname": "Renato",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Oblenida",
-    "firstname": "Jerwin",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Barcenas",
-    "firstname": "Ember",
-    "sss": "0625887750",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Alterado",
-    "firstname": "Francis Ian",
-    "sss": "0632417676",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Jore",
-    "firstname": "Jonel",
-    "sss": "0632309593",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Arazan",
-    "firstname": "Leonardo",
-    "sss": "0614486971",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Apas",
-    "firstname": "Marvin",
-    "sss": "0618266113",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Opigal",
-    "firstname": "Melvin",
-    "sss": "0619889971",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Pepito",
-    "firstname": "Rey",
-    "sss": "0617114936",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cajes",
-    "firstname": "John Ryan",
-    "sss": "0628222341",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Grencio",
-    "firstname": "Ederick",
-    "sss": "0439311687",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Pacia",
-    "firstname": "Allen Joseph",
-    "sss": "0427275612",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mendones",
-    "firstname": "Angelito",
-    "sss": "0432865156",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Contreras",
-    "firstname": "Arnold",
-    "sss": 3323809516,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Inojales",
-    "firstname": "Crispina",
-    "sss": "0919101906",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Barba",
-    "firstname": "Joyce",
-    "sss": "0432983504",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Buloron",
-    "firstname": "Marecel",
-    "sss": "0434909845",
-    "department": "MFG"
-  },
-  {
-    "lastname": "De Leon",
-    "firstname": "Maridee",
-    "sss": "0417263197",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Cruz",
-    "firstname": "Renato",
-    "sss": 3340530680,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ronquillo",
-    "firstname": "William",
-    "sss": 3387697311,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Anonuevo",
-    "firstname": "Mark Renzo",
-    "sss": "0441025039",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Torres",
-    "firstname": "Neil Kristian",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Millares",
-    "firstname": "Joseph",
-    "sss": "0418580604",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Diaz",
-    "firstname": "Justin",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Macarandang",
-    "firstname": "Joseph",
-    "sss": "0414349056",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Anselmo",
-    "firstname": "Angelie",
-    "sss": "0438769777",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Estrella",
-    "firstname": "August",
-    "sss": 3334027073,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Villalobos",
-    "firstname": "Camille",
-    "sss": "0424042437",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Labing",
-    "firstname": "Dexter",
-    "sss": "0418702893",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Espejo",
-    "firstname": "Earl Vincent",
-    "sss": "0174837454",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Bucasas",
-    "firstname": "Edwin",
-    "sss": 3307781540,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Rosales",
-    "firstname": "Gilbert",
-    "sss": "0427313749",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Mamino",
-    "firstname": "Ivan",
-    "sss": "0422584890",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Roxas",
-    "firstname": "John Mark Angelo",
-    "sss": "0435924191",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Jandonero, Jr.",
-    "firstname": "Jose Mari Noel",
-    "sss": 3412492274,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Ortiz",
-    "firstname": "Joycee",
-    "sss": "0424111452",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Almazora",
-    "firstname": "Mariel",
-    "sss": "0427312339",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Simeon",
-    "firstname": "Mary Rose",
-    "sss": 3438737175,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Tibayan",
-    "firstname": "Noreen Kristina",
-    "sss": "0435835811",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Lantican",
-    "firstname": "Paul Christian",
-    "sss": 3404550438,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Capulong",
-    "firstname": "Reynalyn",
-    "sss": "0424080994",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Perido",
-    "firstname": "Ricky",
-    "sss": 3302455282,
-    "department": "MFG"
-  },
-  {
-    "lastname": "Engay",
-    "firstname": "Rollyn",
-    "sss": "0429072486",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Danao",
-    "firstname": "Ryan",
-    "sss": "0429072460",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Opeña",
-    "firstname": "Angelo",
-    "sss": "0423239238",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Serviño",
-    "firstname": "Mark Joshua",
-    "sss": "0427008639",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Llarena",
-    "firstname": "Jeffrey",
-    "sss": "0418579518",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Duller",
-    "firstname": "Unibert",
-    "sss": "0422401135",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Vocal",
-    "firstname": "Jeward",
-    "sss": "0425375637",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Gonzales",
-    "firstname": "Ronald",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Reyes",
-    "firstname": "Marlon",
-    "sss": "0425608634",
-    "department": "MFG"
+    "lastname": "De Jesus",
+    "firstname": "Katrina",
+    "sss": 3374974092
   },
   {
     "lastname": "Carandang",
-    "firstname": "Mark Jason",
-    "sss": "0439542919",
-    "department": "MFG"
+    "firstname": "Marita",
+    "sss": 3300524814
   },
   {
-    "lastname": "Rivera",
-    "firstname": "Shiela Rose",
-    "sss": "0429105308",
-    "department": "MFG"
+    "lastname": "Ando",
+    "firstname": "Jeffrey",
+    "sss": 419213103
   },
   {
-    "lastname": "Dagook",
-    "firstname": "Angiela",
-    "sss": "",
-    "department": "MFG"
+    "lastname": "Calinaya",
+    "firstname": "Alexander",
+    "sss": 3364593755
   },
   {
-    "lastname": "Buis",
-    "firstname": "John Julius",
-    "sss": "0427288298",
-    "department": "MFG"
+    "lastname": "Tuazon",
+    "firstname": "Rolando",
+    "sss": 3328827234
   },
   {
-    "lastname": "Basbas",
-    "firstname": "Edmon",
-    "sss": "",
-    "department": "MFG"
+    "lastname": "Leal",
+    "firstname": "Oliver",
+    "sss": 414282906
   },
   {
-    "lastname": "Sanchez",
-    "firstname": "Flor Antonette",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Dequiña",
-    "firstname": "Andres",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Verdejo",
-    "firstname": "Steve Fernand",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Dela Cruz",
-    "firstname": "Claire Joy",
-    "sss": "",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Estorgio",
-    "firstname": "Eleazar",
-    "sss": "0616828896",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Gumia",
-    "firstname": "Mark Antonette",
-    "sss": "0631497354",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Añora",
-    "firstname": "Zenito",
-    "sss": "0614402450",
-    "department": "MFG"
-  },
-  {
-    "lastname": "Agpaoa",
-    "firstname": "Precious Charisse Roxanne",
-    "sss": "",
-    "department": "Site Logistics"
+    "lastname": "Silva",
+    "firstname": "Glenn Mark",
+    "sss": ""
   },
   {
     "lastname": "Mendoza",
+    "firstname": "Rocky",
+    "sss": ""
+  },
+  {
+    "lastname": "Pastrana",
+    "firstname": "Mark David",
+    "sss": ""
+  },
+  {
+    "lastname": "Napicol",
+    "firstname": "Christian",
+    "sss": ""
+  },
+  {
+    "lastname": "Bobiles",
+    "firstname": "Emeline Marie",
+    "sss": 395479061
+  },
+  {
+    "lastname": "Castelo",
+    "firstname": "Ana Isabel",
+    "sss": ""
+  },
+  {
+    "lastname": "Tanbuntiong",
     "firstname": "Joseph",
-    "sss": "",
-    "department": "Logistics"
+    "sss": 3399414430
+  },
+  {
+    "lastname": "Encinas",
+    "firstname": "Edray",
+    "sss": 3405373698
+  },
+  {
+    "lastname": "Giberson",
+    "firstname": "Sheryl",
+    "sss": 3359142904
+  },
+  {
+    "lastname": "Rivera",
+    "firstname": "Romeo",
+    "sss": ""
+  },
+  {
+    "lastname": "Reyes",
+    "firstname": "Ramil",
+    "sss": ""
+  },
+  {
+    "lastname": "Sarmiento",
+    "firstname": "Denise",
+    "sss": ""
+  },
+  {
+    "lastname": "Alejandro",
+    "firstname": "Karmina",
+    "sss": ""
+  },
+  {
+    "lastname": "Valdez",
+    "firstname": "Alyssa Mae",
+    "sss": ""
+  },
+  {
+    "lastname": "Parulan Jr.",
+    "firstname": "Joselito",
+    "sss": ""
+  },
+  {
+    "lastname": "Concepcion",
+    "firstname": "Ma. Glenda",
+    "sss": ""
+  },
+  {
+    "lastname": "Atole",
+    "firstname": "Liezl",
+    "sss": ""
+  },
+  {
+    "lastname": "Cadiz",
+    "firstname": "Camille Rae",
+    "sss": ""
+  },
+  {
+    "lastname": "Lomboy",
+    "firstname": "Ana Marie",
+    "sss": ""
+  },
+  {
+    "lastname": "Bautista",
+    "firstname": "Gretchen Louise",
+    "sss": ""
+  },
+  {
+    "lastname": "Roxas",
+    "firstname": "Hannah",
+    "sss": ""
+  },
+  {
+    "lastname": "Unias",
+    "firstname": "Maricar",
+    "sss": ""
+  },
+  {
+    "lastname": "Casipit",
+    "firstname": "Diomedes",
+    "sss": ""
+  },
+  {
+    "lastname": "Abesamis",
+    "firstname": "Hosanna Joy",
+    "sss": 3387447587
+  },
+  {
+    "lastname": "Jaucian",
+    "firstname": "Jerome",
+    "sss": ""
+  },
+  {
+    "lastname": "Camero",
+    "firstname": "Ellen",
+    "sss": ""
+  },
+  {
+    "lastname": "Alcantara",
+    "firstname": "Nelson John",
+    "sss": ""
+  },
+  {
+    "lastname": "Vergara",
+    "firstname": "Alyssa",
+    "sss": ""
+  },
+  {
+    "lastname": "Banaria",
+    "firstname": "Christian",
+    "sss": 3409790644
+  },
+  {
+    "lastname": "Aguirre",
+    "firstname": "Emmylou",
+    "sss": 3314819560
+  },
+  {
+    "lastname": "Kuizon",
+    "firstname": "Monica Angel",
+    "sss": 3408874466
+  },
+  {
+    "lastname": "Regner",
+    "firstname": "Leonardo",
+    "sss": 389507075
+  },
+  {
+    "lastname": "Pilariza",
+    "firstname": "Aidarme",
+    "sss": 3391383394
+  },
+  {
+    "lastname": "El-Asaad",
+    "firstname": "Marvin Omar",
+    "sss": ""
+  },
+  {
+    "lastname": "Contreras",
+    "firstname": "Mary Abigail",
+    "sss": 3439490152
+  },
+  {
+    "lastname": "Saludez",
+    "firstname": "Nice",
+    "sss": 225784444
+  },
+  {
+    "lastname": "Jaranilla",
+    "firstname": "Jan Keith",
+    "sss": 3448082658
+  },
+  {
+    "lastname": "Roleda",
+    "firstname": "Marlyn",
+    "sss": 392690872
+  },
+  {
+    "lastname": "Rufino",
+    "firstname": "Rona",
+    "sss": 3400231955
+  },
+  {
+    "lastname": "Paguio",
+    "firstname": "Margot",
+    "sss": 3317207632
+  },
+  {
+    "lastname": "Polintan",
+    "firstname": "Albert",
+    "sss": 3418518628
+  },
+  {
+    "lastname": "Mendoza",
+    "firstname": "Glenn",
+    "sss": ""
+  },
+  {
+    "lastname": "Palomar",
+    "firstname": "Corazon",
+    "sss": 386156458
+  },
+  {
+    "lastname": "Miraflor",
+    "firstname": "Angeline Mary",
+    "sss": 3379324935
+  },
+  {
+    "lastname": "Omalza",
+    "firstname": "Frederick",
+    "sss": ""
+  },
+  {
+    "lastname": "Abaquita",
+    "firstname": "Patricia Melissa",
+    "sss": ""
+  },
+  {
+    "lastname": "Lim",
+    "firstname": "Jadice",
+    "sss": ""
+  },
+  {
+    "lastname": "Gaudia",
+    "firstname": "Rosita",
+    "sss": ""
+  },
+  {
+    "lastname": "Guantes",
+    "firstname": "Arnel",
+    "sss": 3318449211
+  },
+  {
+    "lastname": "Bautista",
+    "firstname": "John Irvin",
+    "sss": ""
+  },
+  {
+    "lastname": "Liao",
+    "firstname": "Adrian James",
+    "sss": ""
+  },
+  {
+    "lastname": "Dela Cruz",
+    "firstname": "Carla Angeline",
+    "sss": ""
+  },
+  {
+    "lastname": "Maines",
+    "firstname": "Mark Anthony",
+    "sss": ""
+  },
+  {
+    "lastname": "Delfin",
+    "firstname": "Mary Anne Janette",
+    "sss": ""
+  },
+  {
+    "lastname": "Cristobal",
+    "firstname": "Joan Joy",
+    "sss": ""
+  },
+  {
+    "lastname": "Lopez",
+    "firstname": "Francis William",
+    "sss": ""
+  },
+  {
+    "lastname": "Esteban",
+    "firstname": "Neil Orven",
+    "sss": ""
+  },
+  {
+    "lastname": "Mendoza",
+    "firstname": "Jazel",
+    "sss": 3312787102
+  },
+  {
+    "lastname": "Angulo",
+    "firstname": "Christian Vince",
+    "sss": ""
+  },
+  {
+    "lastname": "Rufo",
+    "firstname": "Bianca May",
+    "sss": 437974000
+  },
+  {
+    "lastname": "Mayuga",
+    "firstname": "Rowena",
+    "sss": 3369862368
+  },
+  {
+    "lastname": "Alano",
+    "firstname": "Justo III",
+    "sss": 385503536
+  },
+  {
+    "lastname": "Richmond",
+    "firstname": "Lourdes",
+    "sss": 382053607
+  },
+  {
+    "lastname": "Bermio",
+    "firstname": "Patricia Bianca",
+    "sss": 3466887958
+  },
+  {
+    "lastname": "Co",
+    "firstname": "Jessamyn",
+    "sss": 3386056076
+  },
+  {
+    "lastname": "Tuares",
+    "firstname": "Lorelie",
+    "sss": 720883714
+  },
+  {
+    "lastname": "Tividad",
+    "firstname": "Bryan Marc",
+    "sss": 3388485454
+  },
+  {
+    "lastname": "Bandojo",
+    "firstname": "Jesus Ned",
+    "sss": 375992429
+  },
+  {
+    "lastname": "Mantillo",
+    "firstname": "Geraldyn",
+    "sss": ""
+  },
+  {
+    "lastname": "Chong",
+    "firstname": "Angeline",
+    "sss": 3370799352
+  },
+  {
+    "lastname": "Villas",
+    "firstname": "Gilbert Raymond",
+    "sss": ""
+  },
+  {
+    "lastname": "Tan",
+    "firstname": "Allan Patrick",
+    "sss": 3409325338
+  },
+  {
+    "lastname": "Pineda",
+    "firstname": "Josielinda",
+    "sss": 3335048815
+  },
+  {
+    "lastname": "Esmundo",
+    "firstname": "Josephine",
+    "sss": 398717238
+  },
+  {
+    "lastname": "Barredo",
+    "firstname": "Athena Jhemagne",
+    "sss": ""
+  },
+  {
+    "lastname": "Sumawang",
+    "firstname": "Tee Jay",
+    "sss": ""
+  },
+  {
+    "lastname": "Manlulu",
+    "firstname": "Maria Katrina",
+    "sss": ""
+  },
+  {
+    "lastname": "Paras",
+    "firstname": "Peter Paul",
+    "sss": ""
+  },
+  {
+    "lastname": "Prado",
+    "firstname": "Anna Liza",
+    "sss": 3331627887
+  },
+  {
+    "lastname": "Pating",
+    "firstname": "Bernard",
+    "sss": ""
+  },
+  {
+    "lastname": "Beni Dy",
+    "firstname": "Maria Carolina",
+    "sss": ""
+  },
+  {
+    "lastname": "Reolalas",
+    "firstname": "Kathleen Yoradyl",
+    "sss": ""
+  },
+  {
+    "lastname": "Santos",
+    "firstname": "Johannes Christian",
+    "sss": ""
+  },
+  {
+    "lastname": "Manuel",
+    "firstname": "Angela Victoria Renelee",
+    "sss": 3398859782
+  },
+  {
+    "lastname": "Rodriguez",
+    "firstname": "Sarah Jane",
+    "sss": ""
+  },
+  {
+    "lastname": "Bolibol",
+    "firstname": "Daniel Jan",
+    "sss": ""
+  },
+  {
+    "lastname": "Lagman",
+    "firstname": "Marianne Ross",
+    "sss": ""
+  },
+  {
+    "lastname": "Andrade",
+    "firstname": "Noriel",
+    "sss": ""
+  },
+  {
+    "lastname": "Buza",
+    "firstname": "Lyka Pamela",
+    "sss": ""
+  },
+  {
+    "lastname": "Ung-York",
+    "firstname": "Amee Libertinee",
+    "sss": 112335659
+  },
+  {
+    "lastname": "Lim",
+    "firstname": "Mary Anne",
+    "sss": 3367654316
+  },
+  {
+    "lastname": "Hizon",
+    "firstname": "Aries Marco",
+    "sss": 3410083520
+  },
+  {
+    "lastname": "Salle",
+    "firstname": "Maria Rita",
+    "sss": 3305060726
+  },
+  {
+    "lastname": "Baltazar",
+    "firstname": "Rustan Paulo",
+    "sss": ""
+  },
+  {
+    "lastname": "Alapan",
+    "firstname": "Miguel Francisco",
+    "sss": ""
+  },
+  {
+    "lastname": "Nu�ez",
+    "firstname": "Rogelio",
+    "sss": 381178211
+  },
+  {
+    "lastname": "Mispe�as",
+    "firstname": "Lovely Joy",
+    "sss": 3433643002
+  },
+  {
+    "lastname": "Bertiz",
+    "firstname": "Vina Vanessa",
+    "sss": 3383692022
+  },
+  {
+    "lastname": "Salazar",
+    "firstname": "Aynaranda",
+    "sss": 3436237020
+  },
+  {
+    "lastname": "Samblingo",
+    "firstname": "Sigourney",
+    "sss": 927040253
+  },
+  {
+    "lastname": "Badillo",
+    "firstname": "Mary Francis",
+    "sss": 3398702596
+  },
+  {
+    "lastname": "Alicante",
+    "firstname": "Michelle Anne",
+    "sss": 234941676
+  },
+  {
+    "lastname": "Tanlimco",
+    "firstname": "Alyssa Mae",
+    "sss": ""
+  },
+  {
+    "lastname": "Pangatungan, Jr.",
+    "firstname": "Alejandro",
+    "sss": 387027997
+  },
+  {
+    "lastname": "Caligagan",
+    "firstname": "Rolando",
+    "sss": 379008160
+  },
+  {
+    "lastname": "Calderon",
+    "firstname": "Genesis Faith",
+    "sss": 3426673966
+  },
+  {
+    "lastname": "Coronado",
+    "firstname": "Pia Maristel",
+    "sss": 3474062105
+  },
+  {
+    "lastname": "Masancay",
+    "firstname": "Anastacia",
+    "sss": 334656612
+  },
+  {
+    "lastname": "Chua",
+    "firstname": "Johanna Lynn",
+    "sss": 3402971352
+  },
+  {
+    "lastname": "Sibayan",
+    "firstname": "Marilou",
+    "sss": 399641769
+  },
+  {
+    "lastname": "Lacandula",
+    "firstname": "Dennis",
+    "sss": 3320035558
+  },
+  {
+    "lastname": "Quinio",
+    "firstname": "Rechelle",
+    "sss": 3369055722
+  },
+  {
+    "lastname": "Molina",
+    "firstname": "Lester Felixon",
+    "sss": 3397982029
+  },
+  {
+    "lastname": "Tan",
+    "firstname": "Clarita",
+    "sss": 904887808
+  },
+  {
+    "lastname": "Bio",
+    "firstname": "Leizl",
+    "sss": 3413992304
+  },
+  {
+    "lastname": "Vizconde",
+    "firstname": "Rhodora",
+    "sss": 393692345
+  },
+  {
+    "lastname": "Jacinto",
+    "firstname": "Maria Eloisa",
+    "sss": 3325639179
+  },
+  {
+    "lastname": "Amante",
+    "firstname": "Valerie",
+    "sss": 717692471
+  },
+  {
+    "lastname": "Flores",
+    "firstname": "Francis Aldwin",
+    "sss": 3351665748
+  },
+  {
+    "lastname": "Arandia",
+    "firstname": "Edward",
+    "sss": 3367150797
+  },
+  {
+    "lastname": "Paras",
+    "firstname": "Jeragynn",
+    "sss": 3347667394
+  },
+  {
+    "lastname": "Ching",
+    "firstname": "Clinton",
+    "sss": 507292942
+  },
+  {
+    "lastname": "Velasco lll",
+    "firstname": "Luis",
+    "sss": 3330973972
+  },
+  {
+    "lastname": "Camus",
+    "firstname": "Joaquin Maria",
+    "sss": 3453724388
+  },
+  {
+    "lastname": "Tangco",
+    "firstname": "Ma. Amsther",
+    "sss": 3372156980
+  },
+  {
+    "lastname": "Vijandre",
+    "firstname": "Rowel",
+    "sss": 3316464117
+  },
+  {
+    "lastname": "Wenceslao",
+    "firstname": "Winston",
+    "sss": 3379477138
+  },
+  {
+    "lastname": "Ranin",
+    "firstname": "Jefferson",
+    "sss": 3388328469
+  },
+  {
+    "lastname": "Angeles",
+    "firstname": "Ruth",
+    "sss": 3330701283
+  },
+  {
+    "lastname": "Cestina",
+    "firstname": "Veronica",
+    "sss": 3443892513
+  },
+  {
+    "lastname": "Gomez lll",
+    "firstname": "Daniel Rafael Ramon",
+    "sss": 3330975967
+  },
+  {
+    "lastname": "Bernardo",
+    "firstname": "Pamela",
+    "sss": 3380460956
+  },
+  {
+    "lastname": "Lanuza",
+    "firstname": "Ma. Josefa Jean",
+    "sss": 3448141528
+  },
+  {
+    "lastname": "Lim",
+    "firstname": "Hazel Myka",
+    "sss": ""
+  },
+  {
+    "lastname": "Baltonado",
+    "firstname": "Elthia May",
+    "sss": 635836458
+  },
+  {
+    "lastname": "Nocom",
+    "firstname": "Michelle",
+    "sss": 3345899960
+  },
+  {
+    "lastname": "Landicho",
+    "firstname": "Ma. Celeste",
+    "sss": 3340500791
+  },
+  {
+    "lastname": "Santos ll",
+    "firstname": "Helen",
+    "sss": 3447347048
+  },
+  {
+    "lastname": "Atun",
+    "firstname": "Lorna",
+    "sss": 3306954200
+  },
+  {
+    "lastname": "Gustilo",
+    "firstname": "Jmabelard",
+    "sss": 3403450018
+  },
+  {
+    "lastname": "Villanueva",
+    "firstname": "Melissa",
+    "sss": 3345614307
+  },
+  {
+    "lastname": "Enriquez",
+    "firstname": "Maricris",
+    "sss": 3370774652
+  },
+  {
+    "lastname": "Ligan",
+    "firstname": "Allison Mari",
+    "sss": 3468661619
+  },
+  {
+    "lastname": "Calleja",
+    "firstname": "Zed Chino",
+    "sss": 3469152460
+  },
+  {
+    "lastname": "Torrijos",
+    "firstname": "Analyn Grace",
+    "sss": 3398733332
+  },
+  {
+    "lastname": "Del Rosario",
+    "firstname": "Maria Theresa",
+    "sss": 3412299192
+  },
+  {
+    "lastname": "Bautista King",
+    "firstname": "Vera Marie",
+    "sss": 3419816374
+  },
+  {
+    "lastname": "Viray",
+    "firstname": "Jaslyn Monique",
+    "sss": 3445481618
+  },
+  {
+    "lastname": "Recto",
+    "firstname": "Marcos Salvador",
+    "sss": 384473492
+  },
+  {
+    "lastname": "Lacea",
+    "firstname": "Edison",
+    "sss": 3467871484
+  },
+  {
+    "lastname": "Amaya",
+    "firstname": "Frances Mara",
+    "sss": 3425057855
+  },
+  {
+    "lastname": "Brodeth",
+    "firstname": "Elaine",
+    "sss": 3349037566
+  },
+  {
+    "lastname": "Lafuente",
+    "firstname": "Jeanelyn",
+    "sss": 3408203545
+  },
+  {
+    "lastname": "Angeles",
+    "firstname": "Aldrin",
+    "sss": 210509278
+  },
+  {
+    "lastname": "Bataller",
+    "firstname": "Lilac Patti",
+    "sss": 3433163579
+  },
+  {
+    "lastname": "Trillanes",
+    "firstname": "Ma. Cecilia",
+    "sss": 3342349170
+  },
+  {
+    "lastname": "Panuelos",
+    "firstname": "Evelyn",
+    "sss": 3332075755
+  },
+  {
+    "lastname": "Gosioco",
+    "firstname": "Anabelle",
+    "sss": 3326217163
+  },
+  {
+    "lastname": "Salgado",
+    "firstname": "Joliza Janelle",
+    "sss": 3449921310
+  },
+  {
+    "lastname": "San Joaquin",
+    "firstname": "Mark",
+    "sss": 3301079999
+  },
+  {
+    "lastname": "Tanlimco",
+    "firstname": "Alyana Marie",
+    "sss": 3474055280
+  },
+  {
+    "lastname": "Tancaktiong",
+    "firstname": "Carl Brian",
+    "sss": 3382872063
+  },
+  {
+    "lastname": "Granale",
+    "firstname": "Jed Venedict",
+    "sss": 3448219939
+  },
+  {
+    "lastname": "Lim",
+    "firstname": "Don Alexander",
+    "sss": 3378700424
+  },
+  {
+    "lastname": "Aragon",
+    "firstname": "Danielle",
+    "sss": 3416134554
+  },
+  {
+    "lastname": "Ramos",
+    "firstname": "Chynna Louise",
+    "sss": 3473943801
+  },
+  {
+    "lastname": "Tan",
+    "firstname": "Jo Anne",
+    "sss": 3415536674
+  },
+  {
+    "lastname": "Lao",
+    "firstname": "Pauline Tiffany",
+    "sss": 3316778926
+  },
+  {
+    "lastname": "Monsod",
+    "firstname": "Nicole Marie",
+    "sss": 3476388510
   }
 ]
