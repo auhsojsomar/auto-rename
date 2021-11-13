@@ -1,9 +1,6 @@
 const fs = require("fs");
 const path = require("path");
 
-const employee = require("./employee.json");
-const fileName = fs.readdirSync("./pictures");
-
 // Check if ./pictures and ./done is exist
 
 if (!fs.existsSync("./pictures")) {
@@ -12,6 +9,9 @@ if (!fs.existsSync("./pictures")) {
 if (!fs.existsSync("./pictures/done")) {
   fs.mkdirSync("./pictures/done");
 }
+
+const employee = require("./employee.json");
+const fileName = fs.readdirSync("./pictures");
 
 let output = "";
 
