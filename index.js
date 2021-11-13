@@ -58,7 +58,7 @@ letterFirst.map((data) => {
 // Output to textfile
 
 const now = new Date();
-now.setUTCHours(21);
+now.setUTCHours(now.getHours());
 const logFile =
   now.toISOString().replace(/\..+/, "").replace(/:/g, "-") + ".txt";
 
