@@ -8,7 +8,7 @@ const compress = async () => {
     destination: "pictures/min",
     plugins: [
       imageminMozjpeg({ quality: 50 }),
-      imageminPngquant({ quality: [0.4, 0.6] }),
+      imageminPngquant({ quality: [0.5, 0.6] }),
     ],
   });
   if (file.length === 0) {
