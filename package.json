@@ -19,8 +19,6 @@
   "homepage": "https://github.com/auhsojsomar/auto-rename#readme",
   "dependencies": {
     "async": "^3.2.2",
-    "imagemin": "^8.0.1",
-    "imagemin-mozjpeg": "^9.0.0",
-    "imagemin-pngquant": "^9.0.2"
+    "jimp": "^0.16.1"
   }
 }
