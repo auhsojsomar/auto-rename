@@ -15,56 +15,6 @@
     "sss": ""
   },
   {
-    "lastname": "Orozco",
-    "firstname": "Ira",
-    "sss": 3455433562
-  },
-  {
-    "lastname": "Servidad",
-    "firstname": "Mark Anthony",
-    "sss": ""
-  },
-  {
-    "lastname": "Pablo",
-    "firstname": "Randall James",
-    "sss": ""
-  },
-  {
-    "lastname": "Lopez",
-    "firstname": "Mark Anthony",
-    "sss": "0225570344"
-  },
-  {
-    "lastname": "Lugtu",
-    "firstname": "Jonathan",
-    "sss": "0210193778"
-  },
-  {
-    "lastname": "Perez",
-    "firstname": "Maria Theresa",
-    "sss": 3387034990
-  },
-  {
-    "lastname": "Garcia",
-    "firstname": "Faith",
-    "sss": 3320913492
-  },
-  {
-    "lastname": "Faller",
-    "firstname": "Maria Lourdes Therese",
-    "sss": 3316433999
-  },
-  {
-    "lastname": "Balbarosa",
-    "firstname": "Angelo",
-    "sss": 3370004720
-  },
-  {
-    "lastname": "Domingo III",
-    "firstname": "Joaquin",
-    "sss": 3314618486
-  },
-  {
     "lastname": "Rivero",
     "firstname": "AprilJoy",
     "sss": "0417627102"
@@ -635,26 +585,6 @@
     "sss": ""
   },
   {
-    "lastname": "Mella",
-    "firstname": "Gina",
-    "sss": "0399533343"
-  },
-  {
-    "lastname": "Tigley",
-    "firstname": "Mary Mae",
-    "sss": "0618797899"
-  },
-  {
-    "lastname": "Cabaluna",
-    "firstname": "Reynante",
-    "sss": "0613362041"
-  },
-  {
-    "lastname": "Eredia",
-    "firstname": "Sarah Jean",
-    "sss": "0614741425"
-  },
-  {
     "lastname": "Palalon",
     "firstname": "Renelyn",
     "sss": 1009517713
@@ -950,11 +880,6 @@
     "sss": ""
   },
   {
-    "lastname": "Cona",
-    "firstname": "Adrian John",
-    "sss": 3416044835
-  },
-  {
     "lastname": "Necesario",
     "firstname": "Cheryl",
     "sss": "0629999518"
@@ -990,29 +915,9 @@
     "sss": ""
   },
   {
-    "lastname": "Montederamos",
-    "firstname": "Lara Maris",
-    "sss": "0627391561"
-  },
-  {
-    "lastname": "Guerrero",
-    "firstname": "Rosa Marinela",
-    "sss": 3386962283
-  },
-  {
     "lastname": "Feliciano",
     "firstname": "Diana Rose",
     "sss": "0115082748"
-  },
-  {
-    "lastname": "Calaton",
-    "firstname": "Aira Mae",
-    "sss": 3445704308
-  },
-  {
-    "lastname": "Delizo",
-    "firstname": "Brigette",
-    "sss": 3421254681
   },
   {
     "lastname": "Collamat / done print",
@@ -1020,144 +925,14 @@
     "sss": "0627023813"
   },
   {
-    "lastname": "Chan",
-    "firstname": "Joselito",
-    "sss": 3322389998
-  },
-  {
     "lastname": "Dote",
     "firstname": "Generose",
     "sss": "0427019056"
   },
   {
-    "lastname": "Gonzales",
-    "firstname": "Hillary",
-    "sss": 3443615790
-  },
-  {
-    "lastname": "Mercado",
-    "firstname": "Margarette Ann",
-    "sss": 3338910979
-  },
-  {
-    "lastname": "Alcantara",
-    "firstname": "Elorlina",
-    "sss": 3367144567
-  },
-  {
-    "lastname": "Liwag",
-    "firstname": "Jhoanne Emilie",
-    "sss": 3449396479
-  },
-  {
-    "lastname": "Marquez",
-    "firstname": "Giselle Sarah",
-    "sss": 3395507448
-  },
-  {
-    "lastname": "De Leon",
-    "firstname": "Jose Mari",
-    "sss": 3391713388
-  },
-  {
-    "lastname": "Manotok",
-    "firstname": "Maricel",
-    "sss": 3319659903
-  },
-  {
-    "lastname": "Ferrer",
-    "firstname": "Jireh Chanpreeya",
-    "sss": 3429617275
-  },
-  {
-    "lastname": "Hernandez",
-    "firstname": "Joanna Marie",
-    "sss": 3451174980
-  },
-  {
-    "lastname": "Cudiamat",
-    "firstname": "Salina Monica",
-    "sss": 3444531705
-  },
-  {
-    "lastname": "Fernandez",
-    "firstname": "Love",
-    "sss": 3373899819
-  },
-  {
-    "lastname": "Inoncillo",
-    "firstname": "Rollen",
-    "sss": 3334853124
-  },
-  {
-    "lastname": "Fronda",
-    "firstname": "Christian Jay",
-    "sss": "0224377360"
-  },
-  {
-    "lastname": "Mata",
-    "firstname": "Beatriz",
-    "sss": "0381500575"
-  },
-  {
-    "lastname": "Nuñez",
-    "firstname": "Nilo",
-    "sss": 3301738243
-  },
-  {
     "lastname": "Dagnal",
     "firstname": "Emie",
     "sss": "0228695899"
-  },
-  {
-    "lastname": "Cutanda",
-    "firstname": "Robredo",
-    "sss": "0619678564"
-  },
-  {
-    "lastname": "Proceso",
-    "firstname": "Bernard",
-    "sss": ""
-  },
-  {
-    "lastname": "Salveron",
-    "firstname": "Saira",
-    "sss": 3461569705
-  },
-  {
-    "lastname": "Tagarda",
-    "firstname": "Gernette",
-    "sss": "0734693466"
-  },
-  {
-    "lastname": "Marabe",
-    "firstname": "Marigold",
-    "sss": ""
-  },
-  {
-    "lastname": "Espayos",
-    "firstname": "Marianne",
-    "sss": "0736415697"
-  },
-  {
-    "lastname": "Vera",
-    "firstname": "Dexter",
-    "sss": "0721252920"
-  },
-  {
-    "lastname": "Bermeo",
-    "firstname": "Elly Mar",
-    "sss": ""
-  },
-  {
-    "lastname": "Sinadjan",
-    "firstname": "Lou Hermes",
-    "sss": "0629709779"
-  },
-  {
-    "lastname": "Matugas",
-    "firstname": "Marie Christie",
-    "sss": "0628100065"
   },
   {
     "lastname": "Maulit",
@@ -1275,176 +1050,6 @@
     "sss": "0385644576"
   },
   {
-    "lastname": "Enerio",
-    "firstname": "Vencis Michael",
-    "sss": "0818245167"
-  },
-  {
-    "lastname": "Jalagat",
-    "firstname": "Marlon",
-    "sss": "0816005545"
-  },
-  {
-    "lastname": "Daal",
-    "firstname": "Syra Faye",
-    "sss": "0629058022"
-  },
-  {
-    "lastname": "Gayares",
-    "firstname": "Celina",
-    "sss": "0720923292"
-  },
-  {
-    "lastname": "Salvador",
-    "firstname": "Allen Dave",
-    "sss": "0820982447"
-  },
-  {
-    "lastname": "Mulat",
-    "firstname": "Jun Ed",
-    "sss": "0823336278"
-  },
-  {
-    "lastname": "Ranque",
-    "firstname": "Glenn",
-    "sss": "0812437748"
-  },
-  {
-    "lastname": "Ibarra Jr.",
-    "firstname": "Nestor",
-    "sss": "0813715841"
-  },
-  {
-    "lastname": "Sumunod",
-    "firstname": "Joffrey",
-    "sss": "0816257005"
-  },
-  {
-    "lastname": "Lasaca",
-    "firstname": "Remmar",
-    "sss": "0634436257"
-  },
-  {
-    "lastname": "Tomabini",
-    "firstname": "Bryan",
-    "sss": "0823793060"
-  },
-  {
-    "lastname": "Gonzales",
-    "firstname": "Jayson",
-    "sss": "0817415930"
-  },
-  {
-    "lastname": "Guilaran",
-    "firstname": "Edson",
-    "sss": "0817139724"
-  },
-  {
-    "lastname": "Valmoria Jr.",
-    "firstname": "Armando",
-    "sss": "0813027762"
-  },
-  {
-    "lastname": "Unico",
-    "firstname": "Violy",
-    "sss": "0813599740"
-  },
-  {
-    "lastname": "Villaluz",
-    "firstname": "Lotis",
-    "sss": "0814613078"
-  },
-  {
-    "lastname": "Valentino",
-    "firstname": "Edgar Allan",
-    "sss": 3315036656
-  },
-  {
-    "lastname": "Ablon",
-    "firstname": "Vanessa",
-    "sss": "0813380331"
-  },
-  {
-    "lastname": "Cabantac",
-    "firstname": "Belly",
-    "sss": "0813732549"
-  },
-  {
-    "lastname": "Rodriguez",
-    "firstname": "Pregilita",
-    "sss": "0810692543"
-  },
-  {
-    "lastname": "Santos",
-    "firstname": "Francis",
-    "sss": "092995540"
-  },
-  {
-    "lastname": "Macabudbod",
-    "firstname": "Ariel",
-    "sss": "0942407457"
-  },
-  {
-    "lastname": "Lombres",
-    "firstname": "Cristina",
-    "sss": "0931943870"
-  },
-  {
-    "lastname": "Esperida",
-    "firstname": "Steven",
-    "sss": "0934144786"
-  },
-  {
-    "lastname": "Birad",
-    "firstname": "Loue",
-    "sss": "0824597485"
-  },
-  {
-    "lastname": "Fuderanan",
-    "firstname": "Nefer",
-    "sss": "0924240483"
-  },
-  {
-    "lastname": "Maido",
-    "firstname": "Precious May",
-    "sss": "0927589060"
-  },
-  {
-    "lastname": "Suriba",
-    "firstname": "Beverly",
-    "sss": "0936804972"
-  },
-  {
-    "lastname": "Ruwaya",
-    "firstname": "Lorelyn",
-    "sss": "0924647963"
-  },
-  {
-    "lastname": "Saporno Jr.",
-    "firstname": "Romeo",
-    "sss": 1006343223
-  },
-  {
-    "lastname": "Barimbad",
-    "firstname": "Misael",
-    "sss": "0919716650"
-  },
-  {
-    "lastname": "Condes",
-    "firstname": "Wilborn",
-    "sss": "0928338485"
-  },
-  {
-    "lastname": "Masisay",
-    "firstname": "Jeffrey",
-    "sss": "0928181454"
-  },
-  {
-    "lastname": "Morata",
-    "firstname": "Jonathan",
-    "sss": "0916266200"
-  },
-  {
     "lastname": "Cadaba",
     "firstname": "Cherielyn",
     "sss": ""
@@ -1453,11 +1058,6 @@
     "lastname": "Lu",
     "firstname": "Michael Angelo",
     "sss": ""
-  },
-  {
-    "lastname": "Mitiam",
-    "firstname": "Isagani",
-    "sss": 3308390697
   },
   {
     "lastname": "David",
@@ -1485,21 +1085,6 @@
     "sss": 3400743550
   },
   {
-    "lastname": "Agdeppa",
-    "firstname": "Ralph Eros",
-    "sss": "0231196916"
-  },
-  {
-    "lastname": "Latigar",
-    "firstname": "Archie",
-    "sss": "0227418572"
-  },
-  {
-    "lastname": "Lee Jr.",
-    "firstname": "Robert",
-    "sss": "0211317595"
-  },
-  {
     "lastname": "Omas-As",
     "firstname": "Mary Jane",
     "sss": "0818442546"
@@ -1517,131 +1102,6 @@
   {
     "lastname": "Guiao",
     "firstname": "Nica",
-    "sss": ""
-  },
-  {
-    "lastname": "Dumayag",
-    "firstname": "Reinelou",
-    "sss": ""
-  },
-  {
-    "lastname": "Gubalane",
-    "firstname": "Shainy Rose",
-    "sss": ""
-  },
-  {
-    "lastname": "Nilo",
-    "firstname": "Eden",
-    "sss": ""
-  },
-  {
-    "lastname": "Batulan",
-    "firstname": "Emelito",
-    "sss": "0618539675"
-  },
-  {
-    "lastname": "Reuyan",
-    "firstname": "Sherryl",
-    "sss": "0631287506"
-  },
-  {
-    "lastname": "Gatela",
-    "firstname": "Cleo",
-    "sss": "0732485621"
-  },
-  {
-    "lastname": "Natino",
-    "firstname": "Haide",
-    "sss": "0627672691"
-  },
-  {
-    "lastname": "Ararao",
-    "firstname": "Jana Patrisha",
-    "sss": "0641120116"
-  },
-  {
-    "lastname": "Sabellana",
-    "firstname": "Roben",
-    "sss": "0622630544"
-  },
-  {
-    "lastname": "Recote",
-    "firstname": "Zenaida",
-    "sss": "0720689523"
-  },
-  {
-    "lastname": "Panon",
-    "firstname": "Alex",
-    "sss": "0615692557"
-  },
-  {
-    "lastname": "Otic",
-    "firstname": "Sherwin",
-    "sss": "0618585810"
-  },
-  {
-    "lastname": "Oledan",
-    "firstname": "Eliseo",
-    "sss": "0616773682"
-  },
-  {
-    "lastname": "Maralang Jr.",
-    "firstname": "Eusebio",
-    "sss": "0612997475"
-  },
-  {
-    "lastname": "Luzano",
-    "firstname": "Sheena",
-    "sss": "0931088007"
-  },
-  {
-    "lastname": "Lugo Jr.",
-    "firstname": "Antonino",
-    "sss": "0616812718"
-  },
-  {
-    "lastname": "Luague",
-    "firstname": "Norman",
-    "sss": "0613992453"
-  },
-  {
-    "lastname": "Camba Jr.",
-    "firstname": "Rodulfo",
-    "sss": "0613006378"
-  },
-  {
-    "lastname": "Brigoli Jr.",
-    "firstname": "Gabriel",
-    "sss": "0430328899"
-  },
-  {
-    "lastname": "Bestil",
-    "firstname": "Lovell Roderick",
-    "sss": "0631671659"
-  },
-  {
-    "lastname": "Bate",
-    "firstname": "Idan",
-    "sss": "0614210804"
-  },
-  {
-    "lastname": "Manalo",
-    "firstname": "Ma. Carmina",
-    "sss": 3331190204
-  },
-  {
-    "lastname": "Ison",
-    "firstname": "Jorelle",
-    "sss": 3396560044
-  },
-  {
-    "lastname": "Rejuso",
-    "firstname": "Jean",
-    "sss": 3312499487
-  },
-  {
-    "lastname": "Cajefe",
-    "firstname": "Maricres",
     "sss": ""
   },
   {
@@ -1680,36 +1140,6 @@
     "sss": 3432124140
   },
   {
-    "lastname": "Garcia",
-    "firstname": "Louis",
-    "sss": 3448396920
-  },
-  {
-    "lastname": "Leguiab",
-    "firstname": "Joy Veronica",
-    "sss": 3412656573
-  },
-  {
-    "lastname": "Peralta",
-    "firstname": "Sarah Joy",
-    "sss": "0509494010"
-  },
-  {
-    "lastname": "Napalla",
-    "firstname": "Jayca",
-    "sss": 3449981350
-  },
-  {
-    "lastname": "Refulgente",
-    "firstname": "Angeline",
-    "sss": 3439313857
-  },
-  {
-    "lastname": "Abad",
-    "firstname": "Claudine",
-    "sss": 3351365705
-  },
-  {
     "lastname": "Bobilles",
     "firstname": "Rona Mae",
     "sss": ""
@@ -1720,34 +1150,9 @@
     "sss": "0365597216"
   },
   {
-    "lastname": "Lacsamana",
-    "firstname": "Rossana",
-    "sss": 3386883003
-  },
-  {
-    "lastname": "Cañete",
-    "firstname": "Mary Grace",
-    "sss": ""
-  },
-  {
     "lastname": "Dumalagan",
     "firstname": "Pamela",
     "sss": 3375358316
-  },
-  {
-    "lastname": "Adlawan",
-    "firstname": "Cipriano",
-    "sss": "0622407418"
-  },
-  {
-    "lastname": "Alfonso",
-    "firstname": "Nelbin",
-    "sss": 1009661119
-  },
-  {
-    "lastname": "Almerol",
-    "firstname": "Brederick",
-    "sss": ""
   },
   {
     "lastname": "Manaytay",
@@ -1757,76 +1162,6 @@
   {
     "lastname": "Reogelon",
     "firstname": "Rosemarie",
-    "sss": ""
-  },
-  {
-    "lastname": "Barte",
-    "firstname": "Alomnie",
-    "sss": "0725245001"
-  },
-  {
-    "lastname": "Alturas",
-    "firstname": "Christine Louanne",
-    "sss": ""
-  },
-  {
-    "lastname": "Herrera",
-    "firstname": "Adrian",
-    "sss": ""
-  },
-  {
-    "lastname": "Arquisola",
-    "firstname": "Analiza",
-    "sss": ""
-  },
-  {
-    "lastname": "Jalandoni",
-    "firstname": "Heazel",
-    "sss": ""
-  },
-  {
-    "lastname": "Garcillanosa",
-    "firstname": "Jayson",
-    "sss": ""
-  },
-  {
-    "lastname": "Alpuerto",
-    "firstname": "Baltazar",
-    "sss": ""
-  },
-  {
-    "lastname": "Marajuki",
-    "firstname": "Eliza",
-    "sss": ""
-  },
-  {
-    "lastname": "Otic",
-    "firstname": "Estela",
-    "sss": ""
-  },
-  {
-    "lastname": "Dalut",
-    "firstname": "Gerald",
-    "sss": ""
-  },
-  {
-    "lastname": "Paquibut",
-    "firstname": "John Arvin",
-    "sss": ""
-  },
-  {
-    "lastname": "Dagaman",
-    "firstname": "John Rex",
-    "sss": ""
-  },
-  {
-    "lastname": "Lapiz",
-    "firstname": "Jonhlenon",
-    "sss": ""
-  },
-  {
-    "lastname": "Hechanova",
-    "firstname": "Heidi Hala",
     "sss": ""
   },
   {
@@ -1860,29 +1195,9 @@
     "sss": ""
   },
   {
-    "lastname": "Alaban",
-    "firstname": "Apple Jean",
-    "sss": ""
-  },
-  {
-    "lastname": "Alamada",
-    "firstname": "Bai Sarah",
-    "sss": ""
-  },
-  {
-    "lastname": "Pascua",
-    "firstname": "Jayreal Francis",
-    "sss": ""
-  },
-  {
     "lastname": "Sarcos",
     "firstname": "Jellybee",
     "sss": ""
-  },
-  {
-    "lastname": "Guirhem",
-    "firstname": "Joey",
-    "sss": "0938191625"
   },
   {
     "lastname": "Datulayta",
@@ -1900,154 +1215,9 @@
     "sss": ""
   },
   {
-    "lastname": "Villapando",
-    "firstname": "Myrna",
-    "sss": ""
-  },
-  {
-    "lastname": "Tuane",
-    "firstname": "Nick",
-    "sss": ""
-  },
-  {
-    "lastname": "Ormilla",
-    "firstname": "Pamela Anne",
-    "sss": ""
-  },
-  {
-    "lastname": "Italio",
-    "firstname": "Wendy",
-    "sss": "0632617285"
-  },
-  {
     "lastname": "Santos",
     "firstname": "Marjori Ann",
     "sss": ""
-  },
-  {
-    "lastname": "Lapira",
-    "firstname": "Alan",
-    "sss": ""
-  },
-  {
-    "lastname": "Valencia",
-    "firstname": "Arlene",
-    "sss": "0215561402"
-  },
-  {
-    "lastname": "Roxas",
-    "firstname": "Arnold Jay",
-    "sss": "0219084529"
-  },
-  {
-    "lastname": "Solomon",
-    "firstname": "Arvie",
-    "sss": "0219142131"
-  },
-  {
-    "lastname": "Santiago",
-    "firstname": "Carlo",
-    "sss": "0225062535"
-  },
-  {
-    "lastname": "Cacap",
-    "firstname": "David",
-    "sss": "0218539703"
-  },
-  {
-    "lastname": "Ramos",
-    "firstname": "Emerson",
-    "sss": "0221727683"
-  },
-  {
-    "lastname": "Bernan",
-    "firstname": "Erwin",
-    "sss": "0215500874"
-  },
-  {
-    "lastname": "Filomeno",
-    "firstname": "Evergrace",
-    "sss": ""
-  },
-  {
-    "lastname": "Soriano",
-    "firstname": "Fatima",
-    "sss": "0233275893"
-  },
-  {
-    "lastname": "Sy",
-    "firstname": "Jelly",
-    "sss": "0226924258"
-  },
-  {
-    "lastname": "Pineda",
-    "firstname": "Jerome",
-    "sss": ""
-  },
-  {
-    "lastname": "Romero",
-    "firstname": "Jerome",
-    "sss": "0217173982"
-  },
-  {
-    "lastname": "De Guzman",
-    "firstname": "Joefrance",
-    "sss": ""
-  },
-  {
-    "lastname": "Flaminiano",
-    "firstname": "Liza",
-    "sss": "0209629635"
-  },
-  {
-    "lastname": "Patdu",
-    "firstname": "Monica",
-    "sss": "0214147348"
-  },
-  {
-    "lastname": "Diola",
-    "firstname": "Nilo",
-    "sss": "0218582556"
-  },
-  {
-    "lastname": "Dizon",
-    "firstname": "Noel",
-    "sss": "0215581505"
-  },
-  {
-    "lastname": "Mallari",
-    "firstname": "Raiza",
-    "sss": "0226864525"
-  },
-  {
-    "lastname": "Manguera",
-    "firstname": "Razen Joy",
-    "sss": ""
-  },
-  {
-    "lastname": "Catacutan",
-    "firstname": "Richard",
-    "sss": "0215460888"
-  },
-  {
-    "lastname": "Siron",
-    "firstname": "Richard",
-    "sss": "0221660782"
-  },
-  {
-    "lastname": "Deñado",
-    "firstname": "Roel",
-    "sss": "0336354484"
-  },
-  {
-    "lastname": "Arador",
-    "firstname": "Rolando",
-    "sss": "0210842074"
-  },
-  {
-    "lastname": "Mendoza",
-    "firstname": "Rona",
-    "sss": "0224366067"
   },
   {
     "lastname": "Cisneros",
@@ -2055,19 +1225,9 @@
     "sss": ""
   },
   {
-    "lastname": "Panganiban",
-    "firstname": "Elisha Marjel",
-    "sss": ""
-  },
-  {
     "lastname": "Molina",
     "firstname": "Janette Arjane",
     "sss": ""
-  },
-  {
-    "lastname": "Castillano",
-    "firstname": "Joriline",
-    "sss": "0933144981"
   },
   {
     "lastname": "Galapin",
@@ -2135,26 +1295,6 @@
     "sss": ""
   },
   {
-    "lastname": "Besorio",
-    "firstname": "Jessa",
-    "sss": ""
-  },
-  {
-    "lastname": "Pereira",
-    "firstname": "Nuvilyn",
-    "sss": ""
-  },
-  {
-    "lastname": "Napallatan",
-    "firstname": "Peter Luis",
-    "sss": ""
-  },
-  {
-    "lastname": "Calalo",
-    "firstname": "Ronald Reyno",
-    "sss": ""
-  },
-  {
     "lastname": "Valdez",
     "firstname": "Arvin Cris",
     "sss": ""
@@ -2162,11 +1302,6 @@
   {
     "lastname": "Mahan",
     "firstname": "Shiela Mae",
-    "sss": ""
-  },
-  {
-    "lastname": "Alvarez",
-    "firstname": "Arleen",
     "sss": ""
   },
   {
@@ -2188,11 +1323,6 @@
     "lastname": "Calo",
     "firstname": "Narley",
     "sss": "0925581840"
-  },
-  {
-    "lastname": "Sebandal",
-    "firstname": "Joseph Rege",
-    "sss": "0146302234"
   },
   {
     "lastname": "Dela Cuesta",
@@ -2232,21 +1362,6 @@
   {
     "lastname": "Lindo",
     "firstname": "Frezsa",
-    "sss": ""
-  },
-  {
-    "lastname": "Ganiban",
-    "firstname": "Ronald",
-    "sss": 3363565030
-  },
-  {
-    "lastname": "Estor",
-    "firstname": "Carmina",
-    "sss": ""
-  },
-  {
-    "lastname": "Valete",
-    "firstname": "Jaylord",
     "sss": ""
   },
   {
@@ -2345,7 +1460,7 @@
     "sss": ""
   },
   {
-    "lastname": "Colinco Jr",
+    "lastname": "Colinco Jr.",
     "firstname": "Eduardo",
     "sss": 3394580893
   },
@@ -2355,7 +1470,7 @@
     "sss": ""
   },
   {
-    "lastname": "Poquiz Jr",
+    "lastname": "Poquiz Jr.",
     "firstname": "Mardonio",
     "sss": 3451566682
   },
@@ -2780,7 +1895,7 @@
     "sss": 3444064997
   },
   {
-    "lastname": "Sequito Jr",
+    "lastname": "Sequito Jr.",
     "firstname": "Graciano",
     "sss": 3310607925
   },
@@ -2790,11 +1905,6 @@
     "sss": 3446956582
   },
   {
-    "lastname": "Tolentino",
-    "firstname": "Allan",
-    "sss": ""
-  },
-  {
     "lastname": "Oracion",
     "firstname": "Bernadeth",
     "sss": ""
@@ -2802,26 +1912,6 @@
   {
     "lastname": "Abarico",
     "firstname": "Irish May",
-    "sss": ""
-  },
-  {
-    "lastname": "Robles",
-    "firstname": "Jodel",
-    "sss": ""
-  },
-  {
-    "lastname": "Magadan",
-    "firstname": "Jovit Paul",
-    "sss": ""
-  },
-  {
-    "lastname": "Sibi",
-    "firstname": "Merlo",
-    "sss": ""
-  },
-  {
-    "lastname": "Ortega",
-    "firstname": "John Carlo",
     "sss": ""
   },
   {
@@ -2885,18 +1975,13 @@
     "sss": ""
   },
   {
-    "lastname": "Cagayat Jr",
+    "lastname": "Cagayat Jr.",
     "firstname": "Armando",
     "sss": ""
   },
   {
     "lastname": "Constantino",
     "firstname": "Eugene Leo",
-    "sss": ""
-  },
-  {
-    "lastname": "Apostol",
-    "firstname": "Ryan",
     "sss": ""
   },
   {
@@ -2932,16 +2017,6 @@
   {
     "lastname": "Pambuena",
     "firstname": "Jullie Ann",
-    "sss": ""
-  },
-  {
-    "lastname": "Margate",
-    "firstname": "Amelou",
-    "sss": ""
-  },
-  {
-    "lastname": "Pascual",
-    "firstname": "Frances Melanie",
     "sss": ""
   },
   {
@@ -3010,11 +2085,6 @@
     "sss": ""
   },
   {
-    "lastname": "Caoagdan",
-    "firstname": "Maribeth",
-    "sss": ""
-  },
-  {
     "lastname": "Lorenzo",
     "firstname": "Daisylyn",
     "sss": ""
@@ -3037,21 +2107,6 @@
   {
     "lastname": "Mateo",
     "firstname": "Hector",
-    "sss": ""
-  },
-  {
-    "lastname": "Alterado",
-    "firstname": "Alyssa Ann",
-    "sss": ""
-  },
-  {
-    "lastname": "Morcilla",
-    "firstname": "Rosemarie",
-    "sss": "0434800478"
-  },
-  {
-    "lastname": "Sta. Ana",
-    "firstname": "John Paulo",
     "sss": ""
   },
   {
@@ -3128,11 +2183,6 @@
     "lastname": "Gamulo",
     "firstname": "Marie Vic",
     "sss": ""
-  },
-  {
-    "lastname": "Decangchon",
-    "firstname": "Faith Maiden",
-    "sss": 3452981460
   },
   {
     "lastname": "Pacomio",
@@ -3390,16 +2440,6 @@
     "sss": ""
   },
   {
-    "lastname": "Praxidio",
-    "firstname": "Jethro",
-    "sss": ""
-  },
-  {
-    "lastname": "Evangelista",
-    "firstname": "Dominic Joyce",
-    "sss": ""
-  },
-  {
     "lastname": "Abad",
     "firstname": "Louie",
     "sss": ""
@@ -3555,19 +2595,9 @@
     "sss": 3400910386
   },
   {
-    "lastname": "Alvarado",
-    "firstname": "Faith",
-    "sss": "0926344714"
-  },
-  {
     "lastname": "Antonio",
     "firstname": "Edward",
     "sss": ""
-  },
-  {
-    "lastname": "Juyad",
-    "firstname": "Ingrid Venna",
-    "sss": "0816162909"
   },
   {
     "lastname": "Dianela",
@@ -3578,11 +2608,6 @@
     "lastname": "Perez",
     "firstname": "Arfie",
     "sss": 3366217233
-  },
-  {
-    "lastname": "Arsenio",
-    "firstname": "Alexis",
-    "sss": 3383083741
   },
   {
     "lastname": "Armero",
@@ -3625,18 +2650,8 @@
     "sss": 3406843703
   },
   {
-    "lastname": "Casabuena Jr.",
-    "firstname": "Renato",
-    "sss": ""
-  },
-  {
     "lastname": "Biñas",
     "firstname": "Jenelie",
-    "sss": ""
-  },
-  {
-    "lastname": "Dignos",
-    "firstname": "Jeissa Marie",
     "sss": ""
   },
   {
@@ -3670,11 +2685,6 @@
     "sss": 3381896794
   },
   {
-    "lastname": "Gamale",
-    "firstname": "Stella Marie",
-    "sss": ""
-  },
-  {
     "lastname": "Bagano",
     "firstname": "Krismae",
     "sss": ""
@@ -3697,16 +2707,6 @@
   {
     "lastname": "Dela Torre",
     "firstname": "Ma. Kristine",
-    "sss": ""
-  },
-  {
-    "lastname": "Solis",
-    "firstname": "Apple Mae",
-    "sss": ""
-  },
-  {
-    "lastname": "Zayas",
-    "firstname": "Jasmine Joy",
     "sss": ""
   },
   {
@@ -3742,16 +2742,6 @@
   {
     "lastname": "Alarcon",
     "firstname": "John Carlo",
-    "sss": ""
-  },
-  {
-    "lastname": "Magdagasang",
-    "firstname": "Daryl Jay",
-    "sss": ""
-  },
-  {
-    "lastname": "Luaña",
-    "firstname": "Cindy",
     "sss": ""
   },
   {
@@ -3795,11 +2785,6 @@
     "sss": ""
   },
   {
-    "lastname": "Maniwang",
-    "firstname": "Carmela Mae",
-    "sss": ""
-  },
-  {
     "lastname": "Labsan",
     "firstname": "Michael",
     "sss": ""
@@ -3807,11 +2792,6 @@
   {
     "lastname": "Bulaon",
     "firstname": "Lindel",
-    "sss": ""
-  },
-  {
-    "lastname": "Verano",
-    "firstname": "Raquel",
     "sss": ""
   },
   {
@@ -3875,11 +2855,6 @@
     "sss": ""
   },
   {
-    "lastname": "Magtibay",
-    "firstname": "Richard",
-    "sss": "0928420720"
-  },
-  {
     "lastname": "Mondero",
     "firstname": "Riza Mae",
     "sss": ""
@@ -3903,26 +2878,6 @@
     "lastname": "Barlas",
     "firstname": "Joy",
     "sss": "0722488023"
-  },
-  {
-    "lastname": "Secretario",
-    "firstname": "Andrew",
-    "sss": ""
-  },
-  {
-    "lastname": "Demafiles",
-    "firstname": "Andy Neil",
-    "sss": "0724161717"
-  },
-  {
-    "lastname": "Vallo",
-    "firstname": "Mario Jr.",
-    "sss": 3399718932
-  },
-  {
-    "lastname": "Genegaban",
-    "firstname": "Liezel",
-    "sss": "0394667722"
   },
   {
     "lastname": "Delima",
@@ -3960,11 +2915,6 @@
     "sss": 3400547791
   },
   {
-    "lastname": "Uychoco",
-    "firstname": "Anais Carla",
-    "sss": 3407225883
-  },
-  {
     "lastname": "Anastacio",
     "firstname": "Chesca",
     "sss": "0936927147"
@@ -3973,86 +2923,6 @@
     "lastname": "Ramonolos",
     "firstname": "Madel",
     "sss": "0117392588"
-  },
-  {
-    "lastname": "Mamites",
-    "firstname": "Mark Henry",
-    "sss": 3390691621
-  },
-  {
-    "lastname": "Leveriza",
-    "firstname": "Michelle Marie Francesca",
-    "sss": 3419893698
-  },
-  {
-    "lastname": "Servande Jr.",
-    "firstname": "Gilbert",
-    "sss": "0624809027"
-  },
-  {
-    "lastname": "Calamba",
-    "firstname": "Silverio",
-    "sss": "0921748111"
-  },
-  {
-    "lastname": "Francisco",
-    "firstname": "Analee",
-    "sss": 1010244172
-  },
-  {
-    "lastname": "Pablo",
-    "firstname": "Dana May",
-    "sss": 3342393113
-  },
-  {
-    "lastname": "Angeles",
-    "firstname": "Leslie Noelle",
-    "sss": 3368799623
-  },
-  {
-    "lastname": "Lorenzo",
-    "firstname": "John Philip",
-    "sss": 3421934655
-  },
-  {
-    "lastname": "Agbayani",
-    "firstname": "Charisse Daphne",
-    "sss": 3425912327
-  },
-  {
-    "lastname": "Del Carmen",
-    "firstname": "Beverly",
-    "sss": 3386298892
-  },
-  {
-    "lastname": "Vicencio",
-    "firstname": "Alicia",
-    "sss": 3313386502
-  },
-  {
-    "lastname": "Roca",
-    "firstname": "Rosary Gayle",
-    "sss": 3361114577
-  },
-  {
-    "lastname": "Eustaquio",
-    "firstname": "Grace Ann",
-    "sss": 3366257646
-  },
-  {
-    "lastname": "Aquino",
-    "firstname": "Marielle",
-    "sss": 3422408287
-  },
-  {
-    "lastname": "San Miguel",
-    "firstname": "Angela Camille",
-    "sss": 3444754359
-  },
-  {
-    "lastname": "Villanueva",
-    "firstname": "Almira",
-    "sss": 3319887513
   },
   {
     "lastname": "Valencia",
@@ -4140,7 +3010,7 @@
     "sss": 3321718599
   },
   {
-    "lastname": "AQUINO",
+    "lastname": "ñAQUINOñ",
     "firstname": "CATTY",
     "sss": 3385170490
   },
@@ -4225,7 +3095,7 @@
     "sss": 3302046248
   },
   {
-    "lastname": "Lagunilla Jr",
+    "lastname": "Lagunilla Jr.",
     "firstname": "Adolfo",
     "sss": 3373580254
   },
@@ -4325,11 +3195,6 @@
     "sss": 3413385568
   },
   {
-    "lastname": "Neri",
-    "firstname": "Miguel Maria",
-    "sss": 3423431185
-  },
-  {
     "lastname": "Alcantara",
     "firstname": "Welmer",
     "sss": 3396043176
@@ -4350,11 +3215,6 @@
     "sss": 3434218232
   },
   {
-    "lastname": "Nazareth",
-    "firstname": "Gladys",
-    "sss": 3343513879
-  },
-  {
     "lastname": "Lacsina",
     "firstname": "Mel Anne Izza",
     "sss": 3457672680
@@ -4363,11 +3223,6 @@
     "lastname": "Dico",
     "firstname": "Joemar",
     "sss": 3422382688
-  },
-  {
-    "lastname": "Caiga",
-    "firstname": "Maricris",
-    "sss": 3355939823
   },
   {
     "lastname": "Acaylar",
@@ -4415,16 +3270,6 @@
     "sss": 3447822602
   },
   {
-    "lastname": "Abinales",
-    "firstname": "Odessa",
-    "sss": 3346891022
-  },
-  {
-    "lastname": "Bacay",
-    "firstname": "Katrina",
-    "sss": 3445149125
-  },
-  {
     "lastname": "Hila",
     "firstname": "Ludy Mark",
     "sss": 3438098050
@@ -4438,21 +3283,6 @@
     "lastname": "Rio",
     "firstname": "Flordeliza",
     "sss": 3380990060
-  },
-  {
-    "lastname": "Trinidad",
-    "firstname": "Camille April",
-    "sss": 3466528026
-  },
-  {
-    "lastname": "Malong",
-    "firstname": "Rosalynn Ann",
-    "sss": 3420417128
-  },
-  {
-    "lastname": "Dela Paz",
-    "firstname": "John Raphael",
-    "sss": 3429912048
   },
   {
     "lastname": "Montes",
@@ -4478,11 +3308,6 @@
     "lastname": "Victorino",
     "firstname": "Evangeline",
     "sss": 3349985702
-  },
-  {
-    "lastname": "Pineda",
-    "firstname": "Mark Chesterson",
-    "sss": 3430088631
   },
   {
     "lastname": "Tasarra",
@@ -4555,11 +3380,6 @@
     "sss": 3431593138
   },
   {
-    "lastname": "Item",
-    "firstname": "John Henry",
-    "sss": "0632192056"
-  },
-  {
     "lastname": "Mendoza",
     "firstname": "Kristina",
     "sss": 3408556098
@@ -4583,11 +3403,6 @@
     "lastname": "Pleños",
     "firstname": "Anthony",
     "sss": "0152252776"
-  },
-  {
-    "lastname": "Cahigas",
-    "firstname": "Maryann Claret",
-    "sss": 3468853896
   },
   {
     "lastname": "Ansagay",
@@ -4670,19 +3485,9 @@
     "sss": 3431480636
   },
   {
-    "lastname": "Chan Jr.",
-    "firstname": "George",
-    "sss": "0425803963"
-  },
-  {
     "lastname": "Bonifacio",
     "firstname": "Charlotte Jennifer",
     "sss": "0419146270"
-  },
-  {
-    "lastname": "Puyat",
-    "firstname": "Randolf JL",
-    "sss": "0824568427"
   },
   {
     "lastname": "Guevarra",

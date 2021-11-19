@@ -13,7 +13,7 @@ picture
   .map(async (data) => {
     await Jimp.read(`./pictures/${data}`)
       .then(async (res) => {
-        await console.log(`Processing ${data}`);
+        console.log(`Processing ${data}`);
         await res
           .contain(500, 500)
           .quality(100)
