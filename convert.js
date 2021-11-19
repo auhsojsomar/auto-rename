@@ -10,11 +10,11 @@ const picture = fs.readdirSync("./pictures");
 
 picture
   .filter((filtered) => filtered != "converted")
-  .map((data) => {
-    Jimp.read(`./pictures/${data}`)
-      .then((res) => {
-        console.log(`Processing ${data}`);
-        res
+  .map(async (data) => {
+    await Jimp.read(`./pictures/${data}`)
+      .then(async (res) => {
+        await console.log(`Processing ${data}`);
+        await res
           .contain(500, 500)
           .quality(100)
           .write(`./pictures/converted/${path.parse(data).name}.jpg`);
