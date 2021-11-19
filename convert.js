@@ -17,7 +17,7 @@ picture
         await res
           .contain(500, 500)
           .quality(100)
-          .write(`./pictures/converted/${path.parse(data).name}.jpg`);
+          .writeAsync(`./pictures/converted/${path.parse(data).name}.jpg`);
       })
       .catch((err) => {
         console.log(err);
