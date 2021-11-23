@@ -19,6 +19,8 @@
   "homepage": "https://github.com/auhsojsomar/auto-rename#readme",
   "dependencies": {
     "async": "^3.2.2",
+    "csv-merger": "^0.1.4",
+    "csvjson-csv2json": "^5.0.6",
     "jimp": "^0.16.1"
   }
 }
