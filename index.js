@@ -6,6 +6,10 @@ const input = process.argv[2];
 
 // Convert csv to json
 
+if (!fs.existsSync("./csv")) {
+  fs.mkdirSync("./csv");
+}
+
 if (!input) {
   console.log("Please input the csv filename");
 } else {
