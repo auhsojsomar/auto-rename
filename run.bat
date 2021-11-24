@@ -4,8 +4,18 @@ echo [2] Convert image
 
 set /p command="Process: "
 
-IF %command% == 1 set /p sbu="CSV Filename: "
-node index %sbu%
-IF %command% == 2 node convert
+IF /i "%command%"=="1" GOTO rename
+IF /i "%command%"=="2" GOTO convert
 
+
+:rename
+set /p sbu="CSV Filename: "
+node index %sbu%
 pause
+exit
+
+:convert
+node convert
+pause
+exit
+
