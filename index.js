@@ -1,5 +1,24 @@
-const fs = require("fs");
-const path = require("path");
+import fs from "fs";
+import path from "path";
+import csv2json from "csvjson-csv2json";
+
+const input = process.argv[2];
+
+// Convert csv to json
+
+if (!input) {
+  console.log("Please input the csv filename");
+} else {
+  if (!fs.existsSync(`./csv/${input.toUpperCase()}.csv`)) {
+    console.log("Please check the filename");
+  } else {
+    const result = fs.readFileSync(`./csv/${input.toUpperCase()}.csv`, {
+      encoding: "utf-8",
+    });
+    const json = csv2json(result, { parseNumbers: true });
+    fs.writeFileSync("employee.json", JSON.stringify(json));
+  }
+}
 
 // Check if ./pictures and ./done is exist
 
@@ -10,7 +29,10 @@ if (!fs.existsSync("./pictures/done")) {
   fs.mkdirSync("./pictures/done");
 }
 
-const employee = require("./employee.json");
+if (!fs.existsSync("./employee.json")) {
+  fs.writeFileSync("employee.json", []);
+}
+const employee = JSON.parse(fs.readFileSync("./employee.json"));
 const fileName = fs.readdirSync("./pictures");
 
 let output = "";
